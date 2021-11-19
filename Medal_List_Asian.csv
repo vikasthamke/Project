@@ -1,0 +1,3409 @@
+Year,Sport,Rank,Country,Gold,Silver,Bronze,Total
+1951,Athletics,1,Japan,20,17,11,48
+1951,Athletics,2,India,10,12,12,34
+1951,Athletics,3,Singapore,1,2,2,5
+1951,Athletics,4,Iran,1,1,0,2
+1951,Athletics,5,Philippines,1,0,3,4
+1951,Athletics,6,Ceylon,0,1,0,1
+1951,Athletics,7,Indonesia,0,0,5,5
+1951,Basketball,1,Philippines,1,0,0,1
+1951,Basketball,2,Japan,0,1,0,1
+1951,Basketball,3,Iran,0,0,1,1
+1951,Cycling,1,Japan,4,3,1,8
+1951,Cycling,2,India,0,1,2,3
+1951,Diving,1,India,2,1,1,4
+1951,Diving,2,Iran,0,1,1,2
+1951,Football,1,India,1,0,0,1
+1951,Football,2,Iran,0,1,0,1
+1951,Football,3,Japan,0,0,1,1
+1951,Swimming,1,Singapore,4,2,0,6
+1951,Swimming,2,Philippines,3,5,4,12
+1951,Swimming,3,India,1,1,4,6
+1951,WaterPolo,1,India,1,0,0,1
+1951,WaterPolo,2,Singapore,0,1,0,1
+1951,Weightlifting,1,Iran,7,3,0,10
+1951,Weightlifting,2,Singapore,0,2,0,2
+1951,Weightlifting,3,India,0,1,1,2
+1951,Weightlifting,3,Philippines,0,1,1,2
+1951,Weightlifting,5,Burma,0,0,3,3
+1951,Weightlifting,6,Japan,0,0,2,2
+1954,Athletics,1,Japan,17,18,8,43
+1954,Athletics,2,India,5,3,6,14
+1954,Athletics,3,Pakistan,4,4,0,8
+1954,Athletics,4,South Korea,2,1,2,5
+1954,Athletics,5,Republic of China,1,1,5,7
+1954,Athletics,6,Israel,1,0,0,1
+1954,Athletics,7,Singapore,0,2,1,3
+1954,Athletics,8,Philippines,0,1,7,8
+1954,Athletics,9,Hong Kong,0,0,1,1
+1954,Basketball,1,Philippines,1,0,0,1
+1954,Basketball,2,Republic of China,0,1,0,1
+1954,Basketball,3,Japan,0,0,1,1
+1954,Boxing,1,Philippines,5,1,0,6
+1954,Boxing,2,South Korea,1,2,1,4
+1954,Boxing,3,Japan,1,1,3,5
+1954,Boxing,4,Ceylon,0,1,1,2
+1954,Boxing,5,Republic of China,0,1,0,1
+1954,Boxing,5,Singapore,0,1,0,1
+1954,Boxing,7,Burma,0,0,1,1
+1954,Diving,1,Japan,3,3,3,9
+1954,Diving,2,Israel,1,1,0,2
+1954,Diving,3,India,0,0,1,1
+1954,Football,1,Republic of China,1,0,0,1
+1954,Football,2,South Korea,0,1,0,1
+1954,Football,3,Burma,0,0,1,1
+1954,Shooting,1,Philippines,4,4,4,12
+1954,Shooting,2,Japan,2,2,0,4
+1954,Shooting,3,Indonesia,0,0,1,1
+1954,Shooting,3,Israel,0,0,1,1
+1954,Swimming,1,Japan,9,9,7,25
+1954,Swimming,2,Philippines,4,3,4,11
+1954,Swimming,3,Singapore,0,1,1,2
+1954,Swimming,4,Republic of China,0,0,1,1
+1954,WaterPolo,1,Singapore,1,0,0,1
+1954,WaterPolo,2,Japan,0,1,0,1
+1954,WaterPolo,3,Indonesia,0,0,1,1
+1954,Weightlifting,1,South Korea,5,1,0,6
+1954,Weightlifting,2,Burma,2,0,0,2
+1954,Weightlifting,3,Philippines,0,3,1,4
+1954,Weightlifting,4,Japan,0,1,2,3
+1954,Weightlifting,5,Republic of China,0,1,1,2
+1954,Weightlifting,6,Pakistan,0,1,0,1
+1954,Weightlifting,7,Singapore,0,0,2,2
+1954,Weightlifting,8,Indonesia,0,0,1,1
+1954,Wrestling,1,Japan,6,1,0,7
+1954,Wrestling,2,Pakistan,1,1,2,4
+1954,Wrestling,3,Philippines,0,2,1,3
+1954,Wrestling,4,South Korea,0,1,2,3
+1954,Wrestling,5,India,0,1,1,2
+1954,Wrestling,6,Afghanistan,0,1,0,1
+1958,Athletics,1,Japan,12,15,9,36
+1958,Athletics,10,Israel,0,0,2,2
+1958,Athletics,11,Indonesia,0,0,1,1
+1958,Athletics,11,Malaya,0,0,1,1
+1958,Athletics,2,Pakistan,5,4,4,13
+1958,Athletics,3,India,5,2,2,9
+1958,Athletics,4,Philippines,3,4,4,11
+1958,Athletics,5,Republic of China,2,3,4,9
+1958,Athletics,6,South Korea,2,1,2,5
+1958,Athletics,7,Iran,1,1,2,4
+1958,Athletics,8,Ceylon,1,0,0,1
+1958,Athletics,9,Burma,0,1,0,1
+1958,Basketball,1,Philippines,1,0,0,1
+1958,Basketball,2,Republic of China,0,1,0,1
+1958,Basketball,3,Japan,0,0,1,1
+1958,Boxing,1,Japan,6,2,2,10
+1958,Boxing,10,Singapore,0,0,1,1
+1958,Boxing,2,South Korea,2,0,3,5
+1958,Boxing,3,Burma,1,1,1,3
+1958,Boxing,4,Republic of China,1,0,0,1
+1958,Boxing,5,Iran,0,3,3,6
+1958,Boxing,6,Pakistan,0,2,2,4
+1958,Boxing,7,Philippines,0,1,2,3
+1958,Boxing,8,India,0,1,1,2
+1958,Boxing,9,Thailand,0,0,2,2
+1958,Cycling,1,Japan,4,1,0,5
+1958,Cycling,2,South Korea,2,1,1,4
+1958,Cycling,3,Pakistan,0,2,1,3
+1958,Cycling,4,Iran,0,2,0,2
+1958,Cycling,5,South Vietnam,0,0,2,2
+1958,Cycling,6,Republic of China,0,0,1,1
+1958,Diving,1,Japan,4,4,0,8
+1958,Diving,2,Iran,0,0,2,2
+1958,Diving,3,Republic of China,0,0,1,1
+1958,Field hockey,1,Pakistan,1,0,0,1
+1958,Field hockey,2,India,0,1,0,1
+1958,Field hockey,3,South Korea,0,0,1,1
+1958,Football,1,Republic of China,1,0,0,1
+1958,Football,2,South Korea,0,1,0,1
+1958,Football,3,Indonesia,0,0,1,1
+1958,Shooting,1,Japan,5,0,1,6
+1958,Shooting,2,Philippines,1,2,2,5
+1958,Shooting,3,Republic of China,0,3,1,4
+1958,Shooting,4,Thailand,0,1,1,2
+1958,Shooting,5,Hong Kong,0,0,1,1
+1958,Swimming,1,Japan,20,11,6,37
+1958,Swimming,2,Philippines,1,7,8,16
+1958,Swimming,3,Republic of China,0,3,3,6
+1958,Swimming,4,Indonesia,0,0,3,3
+1958,Table tennis,1,Japan,4,4,5,13
+1958,Table tennis,2,South Vietnam,2,0,1,3
+1958,Table tennis,3,Republic of China,1,1,3,5
+1958,Table tennis,4,South Korea,0,1,2,3
+1958,Table tennis,5,Hong Kong,0,1,0,1
+1958,Table tennis,6,Iran,0,0,1,1
+1958,Tennis,1,Japan,3,0,1,4
+1958,Tennis,2,Philippines,2,5,3,10
+1958,Tennis,3,Republic of China,0,0,3,3
+1958,Tennis,4,Ceylon,0,0,1,1
+1958,Tennis,4,Malaya,0,0,1,1
+1958,Tennis,4,South Vietnam,0,0,1,1
+1958,Volleyball,1,Japan,2,0,0,2
+1958,Volleyball,2,Iran,0,1,0,1
+1958,Volleyball,2,South Korea,0,1,0,1
+1958,Volleyball,4,India,0,0,1,1
+1958,Volleyball,4,Republic of China,0,0,1,1
+1958,Water Polo,1,Japan,1,0,0,1
+1958,Water Polo,2,Singapore,0,1,0,1
+1958,Water Polo,3,Indonesia,0,0,1,1
+1958,Weightlifting,1,Iran,3,4,1,8
+1958,Weightlifting,2,South Korea,2,2,1,5
+1958,Weightlifting,3,Japan,1,2,4,7
+1958,Weightlifting,4,Republic of China,1,0,0,1
+1958,Weightlifting,4,Singapore,1,0,0,1
+1958,Weightlifting,6,Malaya,0,0,1,1
+1958,Weightlifting,6,Philippines,0,0,1,1
+1958,Wrestling,1,Japan,5,2,1,8
+1958,Wrestling,2,Iran,3,3,2,8
+1958,Wrestling,3,Pakistan,0,3,2,5
+1958,Wrestling,4,South Korea,0,0,2,2
+1958,Wrestling,5,Philippines,0,0,1,1
+1962,Archery,1,Japan,2,1,1,4
+1962,Archery,2,Indonesia,1,2,1,4
+1962,Archery,3,Philippines,0,0,1,1
+1962,Athletics,1,Japan,18,19,9,46
+1962,Athletics,2,India,5,5,4,14
+1962,Athletics,3,Philippines,4,1,4,9
+1962,Athletics,4,Pakistan,2,3,2,7
+1962,Athletics,5,Indonesia,2,0,6,8
+1962,Athletics,6,Malaya,1,2,4,7
+1962,Athletics,7,Burma,0,1,1,2
+1962,Athletics,7,Ceylon,0,1,1,2
+1962,Athletics,9,Thailand,0,1,0,1
+1962,Badminton,1,Indonesia,5,3,3,11
+1962,Badminton,2,Malaya,1,2,2,5
+1962,Badminton,3,Thailand,0,1,1,2
+1962,Basketball,1,Philippines,1,0,0,1
+1962,Basketball,2,Japan,0,1,0,1
+1962,Basketball,3,South Korea,0,0,1,1
+1962,Boxing,1,South Korea,3,1,1,5
+1962,Boxing,2,Japan,2,4,1,7
+1962,Boxing,3,Pakistan,2,1,2,5
+1962,Boxing,4,Thailand,1,1,1,3
+1962,Boxing,5,Philippines,1,0,3,4
+1962,Boxing,6,India,1,0,2,3
+1962,Boxing,7,Indonesia,0,2,2,4
+1962,Boxing,8,Burma,0,0,3,3
+1962,Boxing,9,Cambodia,0,0,1,1
+1962,Boxing,9,Ceylon,0,0,1,1
+1962,Cycling,1,Indonesia,3,0,1,4
+1962,Cycling,2,Thailand,1,2,1,4
+1962,Cycling,3,South Korea,0,1,1,2
+1962,Cycling,4,Japan,0,1,0,1
+1962,Cycling,5,Malaya,0,0,1,1
+1962,Diving,1,Japan,3,4,1,8
+1962,Diving,2,Indonesia,1,0,2,3
+1962,Diving,3,South Korea,0,0,1,1
+1962,Field hockey,1,Pakistan,1,0,0,1
+1962,Field hockey,2,India,0,1,0,1
+1962,Field hockey,3,Malaya,0,0,1,1
+1962,Football,1,India,1,0,0,1
+1962,Football,2,South Korea,0,1,0,1
+1962,Football,3,Malaya,0,0,1,1
+1962,Shooting,1,Japan,3,1,0,4
+1962,Shooting,2,South Korea,1,0,2,3
+1962,Shooting,3,Singapore,1,0,0,1
+1962,Shooting,4,Indonesia,0,2,1,3
+1962,Shooting,5,Thailand,0,1,1,2
+1962,Shooting,6,Philippines,0,1,0,1
+1962,Shooting,7,India,0,0,1,1
+1962,Swimming,1,Japan,19,16,3,38
+1962,Swimming,2,Burma,2,0,1,3
+1962,Swimming,3,Indonesia,0,3,6,9
+1962,Swimming,4,Philippines,0,2,10,12
+1962,Swimming,5,South Korea,0,0,1,1
+1962,Table tennis,1,Japan,7,4,4,15
+1962,Table tennis,2,South Korea,0,2,1,3
+1962,Table tennis,3,Hong Kong,0,1,0,1
+1962,Table tennis,4,Singapore,0,0,1,1
+1962,Table tennis,4,South Vietnam,0,0,1,1
+1962,Tennis,1,Japan,6,3,2,11
+1962,Tennis,2,Philippines,1,2,6,9
+1962,Tennis,3,Indonesia,0,1,3,4
+1962,Tennis,4,Ceylon,0,1,1,2
+1962,Tennis,5,Hong Kong,0,1,0,1
+1962,Volleyball,1,Japan,4,0,0,4
+1962,Volleyball,2,South Korea,0,3,0,3
+1962,Volleyball,3,India,0,1,0,1
+1962,Volleyball,4,Indonesia,0,0,2,2
+1962,Volleyball,5,Pakistan,0,0,1,1
+1962,Volleyball,5,Philippines,0,0,1,1
+1962,Water Polo,1,Japan,1,0,0,1
+1962,Water Polo,2,Indonesia,0,1,0,1
+1962,Water Polo,3,Singapore,0,0,1,1
+1962,Wrestling,1,Japan,10,3,3,16
+1962,Wrestling,2,Pakistan,3,7,4,14
+1962,Wrestling,3,India,3,6,3,12
+1962,Wrestling,4,South Korea,0,1,2,3
+1962,Wrestling,5,Indonesia,0,0,2,2
+1962,Wrestling,6,Afghanistan,0,0,1,1
+1966,Athletics,1,Japan,18,22,10,50
+1966,Athletics,10,Singapore,0,1,2,3
+1966,Athletics,11,Indonesia,0,1,0,1
+1966,Athletics,12,Ceylon,0,0,2,2
+1966,Athletics,2,Malaysia,5,3,4,12
+1966,Athletics,3,India,5,1,5,11
+1966,Athletics,4,Republic of China,2,2,2,6
+1966,Athletics,5,Israel,2,0,1,3
+1966,Athletics,6,Philippines,1,1,3,5
+1966,Athletics,7,Pakistan,1,0,0,1
+1966,Athletics,8,Iran,0,2,2,4
+1966,Athletics,9,South Korea,0,1,3,4
+1966,Badminton,1,Indonesia,2,2,5,9
+1966,Badminton,2,Malaysia,2,2,0,4
+1966,Badminton,3,Japan,2,1,4,7
+1966,Badminton,4,Thailand,1,2,2,5
+1966,Badminton,5,Burma,0,0,1,1
+1966,Badminton,5,Republic of China,0,0,1,1
+1966,Badminton,5,South Korea,0,0,1,1
+1966,Basketball,1,Israel,1,0,0,1
+1966,Basketball,2,Thailand,0,1,0,1
+1966,Basketball,3,South Korea,0,0,1,1
+1966,Boxing,1,South Korea,5,3,1,9
+1966,Boxing,10,Burma,0,0,1,1
+1966,Boxing,2,Thailand,3,3,1,7
+1966,Boxing,3,India,1,1,0,2
+1966,Boxing,4,Japan,1,0,8,9
+1966,Boxing,5,Philippines,1,0,3,4
+1966,Boxing,6,Pakistan,0,2,2,4
+1966,Boxing,7,Indonesia,0,2,0,2
+1966,Boxing,8,Iran,0,0,4,4
+1966,Boxing,9,Malaysia,0,0,2,2
+1966,Cycling,1,Thailand,6,4,1,11
+1966,Cycling,2,Japan,4,3,1,8
+1966,Cycling,3,South Korea,1,2,2,5
+1966,Cycling,4,Philippines,0,1,1,2
+1966,Cycling,4,Republic of China,0,1,1,2
+1966,Cycling,6,Ceylon,0,0,2,2
+1966,Cycling,6,Iran,0,0,2,2
+1966,Cycling,8,South Vietnam,0,0,1,1
+1966,Diving,1,Japan,4,4,0,8
+1966,Diving,2,South Korea,0,0,2,2
+1966,Diving,3,Indonesia,0,0,1,1
+1966,Diving,3,Philippines,0,0,1,1
+1966,Field hockey,1,India,1,0,0,1
+1966,Field hockey,2,Pakistan,0,1,0,1
+1966,Field hockey,3,Japan,0,0,1,1
+1966,Football,1,Burma,1,0,0,1
+1966,Football,2,Iran,0,1,0,1
+1966,Football,3,Japan,0,0,1,1
+1966,Shooting,1,Japan,7,1,1,9
+1966,Shooting,2,South Korea,3,4,1,8
+1966,Shooting,3,Republic of China,3,0,1,4
+1966,Shooting,4,Thailand,1,3,2,6
+1966,Shooting,5,Philippines,0,5,5,10
+1966,Shooting,6,Israel,0,1,0,1
+1966,Shooting,7,Burma,0,0,2,2
+1966,Shooting,8,Hong Kong,0,0,1,1
+1966,Shooting,8,Indonesia,0,0,1,1
+1966,Swimming,1,Japan,23,11,3,37
+1966,Swimming,2,Philippines,0,6,9,15
+1966,Swimming,3,Israel,0,4,2,6
+1966,Swimming,4,Singapore,0,2,5,7
+1966,Swimming,5,Thailand,0,0,3,3
+1966,Swimming,6,Indonesia,0,0,1,1
+1966,Table tennis,1,Japan,6,3,3,12
+1966,Table tennis,2,South Korea,1,3,5,9
+1966,Table tennis,3,Republic of China,0,1,3,4
+1966,Table tennis,4,Iran,0,0,1,1
+1966,Tennis,1,Japan,4,3,0,7
+1966,Tennis,2,Indonesia,3,0,3,6
+1966,Tennis,3,Philippines,0,2,3,5
+1966,Tennis,4,Thailand,0,1,2,3
+1966,Tennis,5,South Vietnam,0,1,0,1
+1966,Tennis,6,Ceylon,0,0,2,2
+1966,Tennis,6,Iran,0,0,2,2
+1966,Tennis,8,India,0,0,1,1
+1966,Tennis,8,South Korea,0,0,1,1
+1966,Volleyball,1,Japan,2,0,0,2
+1966,Volleyball,2,South Korea,0,2,0,2
+1966,Volleyball,3,Iran,0,0,2,2
+1966,Water Polo,1,Japan,1,0,0,1
+1966,Water Polo,2,Singapore,0,1,0,1
+1966,Water Polo,3,Indonesia,0,0,1,1
+1966,Weightlifting,1,Iran,3,0,4,7
+1966,Weightlifting,2,Japan,2,4,0,6
+1966,Weightlifting,3,South Korea,2,3,2,7
+1966,Weightlifting,4,Thailand,1,0,0,1
+1966,Weightlifting,5,Singapore,0,1,0,1
+1966,Weightlifting,6,Republic of China,0,0,2,2
+1966,Wrestling,1,Japan,4,1,1,6
+1966,Wrestling,2,Iran,3,5,0,8
+1966,Wrestling,3,Pakistan,1,1,0,2
+1966,Wrestling,4,India,0,1,5,6
+1966,Wrestling,5,South Korea,0,0,2,2
+1970,Athletics,1,Japan,19,17,6,42
+1970,Athletics,10,Philippines,0,1,3,4
+1970,Athletics,11,Pakistan,0,1,2,3
+1970,Athletics,11,Singapore,0,1,2,3
+1970,Athletics,13,Indonesia,0,0,2,2
+1970,Athletics,13,Malaysia,0,0,2,2
+1970,Athletics,2,India,4,5,5,14
+1970,Athletics,3,Israel,4,2,1,7
+1970,Athletics,4,Thailand,2,1,1,4
+1970,Athletics,5,Ceylon,2,1,0,3
+1970,Athletics,6,Republic of China,1,3,5,9
+1970,Athletics,7,Iran,1,2,0,3
+1970,Athletics,8,South Korea,1,1,5,7
+1970,Athletics,9,Burma,1,0,1,2
+1970,Badminton,1,Japan,3,1,3,7
+1970,Badminton,2,Malaysia,3,0,3,6
+1970,Badminton,3,Indonesia,1,2,4,7
+1970,Badminton,4,Thailand,0,4,3,7
+1970,Badminton,5,South Korea,0,0,1,1
+1970,Basketball,1,South Korea,1,0,0,1
+1970,Basketball,2,Israel,0,1,0,1
+1970,Basketball,3,Japan,0,0,1,1
+1970,Boxing,1,South Korea,6,1,2,9
+1970,Boxing,10,Iran,0,1,2,3
+1970,Boxing,11,Republic of China,0,0,1,1
+1970,Boxing,2,Thailand,2,0,4,6
+1970,Boxing,3,Philippines,1,1,3,5
+1970,Boxing,4,India,1,1,0,2
+1970,Boxing,5,Indonesia,1,0,4,5
+1970,Boxing,6,Japan,0,2,3,5
+1970,Boxing,7,Burma,0,2,0,2
+1970,Boxing,7,Khmer Republic,0,2,0,2
+1970,Boxing,9,Pakistan,0,1,3,4
+1970,Cycling,1,Japan,5,1,1,7
+1970,Cycling,2,Thailand,3,3,1,7
+1970,Cycling,3,Malaysia,2,1,2,5
+1970,Cycling,4,South Korea,1,4,4,9
+1970,Cycling,5,Philippines,0,1,2,3
+1970,Cycling,6,Iran,0,1,1,2
+1970,Diving,1,Japan,3,2,1,6
+1970,Diving,2,South Korea,1,1,1,3
+1970,Diving,3,Indonesia,0,1,1,2
+1970,Diving,4,Thailand,0,0,1,1
+1970,Field hockey,1,Pakistan,1,0,0,1
+1970,Field hockey,2,India,0,1,0,1
+1970,Field hockey,3,Japan,0,0,1,1
+1970,Football,1,Burma,1,0,0,1
+1970,Football,2,South Korea,0,1,0,1
+1970,Football,3,India,0,0,1,1
+1970,Sailing,1,Japan,3,0,0,3
+1970,Sailing,2,Thailand,1,2,1,4
+1970,Sailing,3,Burma,1,0,2,3
+1970,Sailing,4,Singapore,0,2,0,2
+1970,Sailing,5,Ceylon,0,1,0,1
+1970,Sailing,6,India,0,0,1,1
+1970,Sailing,6,Indonesia,0,0,1,1
+1970,Shooting,1,Japan,8,1,3,12
+1970,Shooting,2,South Korea,3,2,4,9
+1970,Shooting,3,Israel,2,3,1,6
+1970,Shooting,4,Thailand,1,7,2,10
+1970,Shooting,5,Republic of China,0,1,0,1
+1970,Shooting,6,Burma,0,0,2,2
+1970,Shooting,6,South Vietnam,0,0,2,2
+1970,Swimming,1,Japan,22,16,3,41
+1970,Swimming,2,South Korea,2,0,0,2
+1970,Swimming,3,Philippines,0,5,4,9
+1970,Swimming,4,Singapore,0,3,7,10
+1970,Swimming,5,Republic of China,0,0,5,5
+1970,Swimming,6,Israel,0,0,3,3
+1970,Swimming,7,Khmer Republic,0,0,2,2
+1970,Volleyball,1,Japan,2,0,0,2
+1970,Volleyball,2,South Korea,0,2,0,2
+1970,Volleyball,3,Khmer Republic,0,0,1,1
+1970,Volleyball,3,Republic of China,0,0,1,1
+1970,Weightlifting,1,Japan,4,2,0,6
+1970,Weightlifting,2,Iran,2,1,3,6
+1970,Weightlifting,2,South Korea,2,1,3,6
+1970,Weightlifting,4,Indonesia,0,2,0,2
+1970,Weightlifting,5,Philippines,0,1,0,1
+1970,Weightlifting,5,Republic of China,0,1,0,1
+1970,Weightlifting,7,Burma,0,0,2,2
+1970,Wrestling,1,Iran,6,2,1,9
+1970,Wrestling,2,Japan,4,5,1,10
+1970,Wrestling,3,India,1,1,3,5
+1970,Wrestling,4,South Korea,0,1,3,4
+1970,Wrestling,5,Pakistan,0,0,2,2
+1974,Athletics,1,Japan,10,11,11,32
+1974,Athletics,10,Iraq,1,0,1,2
+1974,Athletics,10,South Korea,1,0,1,2
+1974,Athletics,12,Malaysia,0,1,1,2
+1974,Athletics,13,Kuwait,0,1,0,1
+1974,Athletics,13,Mongolia,0,1,0,1
+1974,Athletics,15,Burma,0,0,1,1
+1974,Athletics,15,North Korea,0,0,1,1
+1974,Athletics,2,China,5,10,6,21
+1974,Athletics,3,India,4,7,4,15
+1974,Athletics,4,Israel,4,1,1,6
+1974,Athletics,5,Iran,3,2,3,8
+1974,Athletics,6,Thailand,3,0,1,4
+1974,Athletics,7,Sri Lanka,2,0,0,2
+1974,Athletics,8,Singapore,1,1,2,4
+1974,Athletics,9,Pakistan,1,0,2,3
+1974,Badminton,1,China,5,3,2,10
+1974,Badminton,2,Indonesia,2,4,2,8
+1974,Badminton,3,Japan,0,0,2,2
+1974,Badminton,4,India,0,0,1,1
+1974,Basketball,1,Israel,1,0,0,1
+1974,Basketball,1,Japan,1,0,0,1
+1974,Basketball,3,South Korea,0,2,0,2
+1974,Basketball,4,China,0,0,2,2
+1974,Boxing,1,South Korea,5,2,0,7
+1974,Boxing,2,Iran,3,2,5,10
+1974,Boxing,3,North Korea,2,2,1,5
+1974,Boxing,4,Japan,1,1,3,5
+1974,Boxing,5,India,0,3,2,5
+1974,Boxing,6,Mongolia,0,1,1,2
+1974,Boxing,7,Pakistan,0,0,4,4
+1974,Boxing,8,Philippines,0,0,2,2
+1974,Boxing,9,Indonesia,0,0,1,1
+1974,Boxing,9,Thailand,0,0,1,1
+1974,Cycling,1,Japan,4,2,0,6
+1974,Cycling,2,Iran,2,2,2,6
+1974,Cycling,3,South Korea,0,2,2,4
+1974,Cycling,4,China,0,0,1,1
+1974,Cycling,4,Mongolia,0,0,1,1
+1974,Diving,1,China,4,2,2,8
+1974,Diving,2,Japan,0,1,2,3
+1974,Diving,3,South Korea,0,1,0,1
+1974,Fencing,1,Japan,5,3,2,10
+1974,Fencing,2,Iran,3,4,3,10
+1974,Fencing,3,South Korea,0,1,0,1
+1974,Fencing,4,China,0,0,2,2
+1974,Fencing,5,Israel,0,0,1,1
+1974,Field hockey,1,Pakistan,1,0,0,1
+1974,Field hockey,2,India,0,1,0,1
+1974,Field hockey,3,Malaysia,0,0,1,1
+1974,Football,1,Iran,1,0,0,1
+1974,Football,2,Israel,0,1,0,1
+1974,Football,3,Malaysia,0,0,1,1
+1974,Gymnastics,1,China,8,8,2,18
+1974,Gymnastics,2,Japan,4,3,2,9
+1974,Gymnastics,3,South Korea,2,0,2,4
+1974,Gymnastics,4,North Korea,1,3,7,11
+1974,Shooting,1,North Korea,10,4,0,14
+1974,Shooting,2,Japan,6,5,4,15
+1974,Shooting,3,China,4,6,3,13
+1974,Shooting,4,South Korea,1,4,5,10
+1974,Shooting,5,Thailand,1,2,6,9
+1974,Shooting,6,India,0,1,1,2
+1974,Shooting,7,Malaysia,0,0,1,1
+1974,Shooting,7,Mongolia,0,0,1,1
+1974,Shooting,7,Philippines,0,0,1,1
+1974,Swimming,1,Japan,22,12,8,42
+1974,Swimming,2,South Korea,2,1,0,3
+1974,Swimming,3,Israel,1,0,1,2
+1974,Swimming,4,China,0,8,2,10
+1974,Swimming,5,Philippines,0,2,9,11
+1974,Swimming,6,Singapore,0,2,5,7
+1974,Table tennis,1,China,6,1,2,9
+1974,Table tennis,2,Japan,1,3,2,6
+1974,Table tennis,3,South Korea,0,3,0,3
+1974,Table tennis,4,North Korea,0,0,3,3
+1974,Tennis,1,Japan,4,0,4,8
+1974,Tennis,2,Israel,1,1,1,3
+1974,Tennis,3,South Korea,1,1,0,2
+1974,Tennis,4,Indonesia,1,0,1,2
+1974,Tennis,5,China,0,3,0,3
+1974,Tennis,6,Iran,0,2,0,2
+1974,Tennis,7,Pakistan,0,0,1,1
+1974,Volleyball,1,Japan,2,0,0,2
+1974,Volleyball,2,South Korea,0,2,0,2
+1974,Volleyball,3,China,0,0,2,2
+1974,Water Polo,1,Iran,1,0,0,1
+1974,Water Polo,2,China,0,1,0,1
+1974,Water Polo,3,Japan,0,0,1,1
+1974,Weightlifting,1,Iran,10,11,3,24
+1974,Weightlifting,2,Japan,10,1,6,17
+1974,Weightlifting,3,South Korea,3,3,2,8
+1974,Weightlifting,4,North Korea,2,5,4,11
+1974,Weightlifting,5,China,1,4,1,6
+1974,Weightlifting,6,Burma,1,2,2,5
+1974,Weightlifting,7,Israel,0,1,4,5
+1974,Weightlifting,8,Iraq,0,0,4,4
+1974,Weightlifting,9,Pakistan,0,0,1,1
+1974,Wrestling,1,Iran,13,5,1,19
+1974,Wrestling,2,Japan,5,7,4,16
+1974,Wrestling,3,Mongolia,2,3,5,10
+1974,Wrestling,4,South Korea,1,4,3,8
+1974,Wrestling,5,India,0,0,4,4
+1974,Wrestling,6,Afghanistan,0,0,1,1
+1974,Wrestling,6,North Korea,0,0,1,1
+1974,Wrestling,6,Pakistan,0,0,1,1
+1978,Archery,1,Japan,3,2,1,6
+1978,Archery,2,South Korea,1,1,0,2
+1978,Archery,3,China,0,1,0,1
+1978,Archery,4,North Korea,0,0,2,2
+1978,Archery,5,Indonesia,0,0,1,1
+1978,Athletics,1,China,12,9,13,34
+1978,Athletics,10,Pakistan,0,1,0,1
+1978,Athletics,11,Kuwait,0,0,1,1
+1978,Athletics,11,Philippines,0,0,1,1
+1978,Athletics,2,Japan,10,15,10,35
+1978,Athletics,3,India,8,7,3,18
+1978,Athletics,4,Thailand,4,1,2,7
+1978,Athletics,5,North Korea,2,2,4,8
+1978,Athletics,6,Iraq,2,1,2,5
+1978,Athletics,7,Malaysia,1,1,1,3
+1978,Athletics,8,Burma,0,1,1,2
+1978,Athletics,8,South Korea,0,1,1,2
+1978,Badminton,1,Indonesia,4,2,3,9
+1978,Badminton,2,China,3,5,3,11
+1978,Badminton,3,Thailand,0,0,4,4
+1978,Badminton,4,Japan,0,0,2,2
+1978,Badminton,5,Hong Kong,0,0,1,1
+1978,Badminton,5,Pakistan,0,0,1,1
+1978,Basketball,1,China,1,1,0,2
+1978,Basketball,1,South Korea,1,1,0,2
+1978,Basketball,3,Japan,0,0,1,1
+1978,Basketball,3,North Korea,0,0,1,1
+1978,Bowling,1,Philippines,3,3,2,8
+1978,Bowling,2,Thailand,3,2,3,8
+1978,Bowling,3,Japan,2,3,0,5
+1978,Bowling,4,South Korea,1,1,2,4
+1978,Bowling,5,Malaysia,1,0,0,1
+1978,Bowling,6,Hong Kong,0,1,2,3
+1978,Bowling,7,Singapore,0,0,1,1
+1978,Boxing,1,South Korea,5,1,3,9
+1978,Boxing,10,Mongolia,0,0,3,3
+1978,Boxing,11,Sri Lanka,0,0,2,2
+1978,Boxing,12,Iraq,0,0,1,1
+1978,Boxing,12,Malaysia,0,0,1,1
+1978,Boxing,2,Pakistan,2,1,3,6
+1978,Boxing,3,Thailand,1,3,2,6
+1978,Boxing,4,North Korea,1,2,0,3
+1978,Boxing,5,Indonesia,1,1,2,4
+1978,Boxing,6,Japan,1,0,2,3
+1978,Boxing,7,India,0,1,2,3
+1978,Boxing,8,Burma,0,1,1,2
+1978,Boxing,9,Philippines,0,1,0,1
+1978,Cycling,1,Japan,4,2,1,7
+1978,Cycling,2,South Korea,2,2,1,5
+1978,Cycling,3,China,0,1,4,5
+1978,Cycling,4,Iraq,0,1,0,1
+1978,Diving,1,China,4,4,0,8
+1978,Diving,2,Japan,0,0,4,4
+1978,Fencing,1,China,4,4,0,8
+1978,Fencing,2,Japan,3,3,4,10
+1978,Fencing,3,South Korea,1,1,3,5
+1978,Fencing,4,Indonesia,0,0,1,1
+1978,Field hockey,1,Pakistan,1,0,0,1
+1978,Field hockey,2,India,0,1,0,1
+1978,Field hockey,3,Malaysia,0,0,1,1
+1978,Football,1,South Korea,1,0,0,2
+1978,Football,1,North Korea,1,0,0,0
+1978,Football,3,China,0,0,1,1
+1978,Gymnastics,1,China,10,8,5,23
+1978,Gymnastics,2,Japan,3,4,3,10
+1978,Gymnastics,3,North Korea,2,1,2,5
+1978,Gymnastics,4,South Korea,0,2,2,4
+1978,Sailing,1,Japan,2,0,1,3
+1978,Sailing,2,Thailand,1,2,1,4
+1978,Sailing,3,Pakistan,1,0,0,1
+1978,Sailing,4,Burma,0,1,0,1
+1978,Sailing,4,India,0,1,0,1
+1978,Sailing,6,Singapore,0,0,2,2
+1978,Shooting,1,China,8,4,7,19
+1978,Shooting,2,North Korea,6,5,1,12
+1978,Shooting,3,Japan,6,3,4,13
+1978,Shooting,4,South Korea,1,6,8,15
+1978,Shooting,5,India,1,0,0,1
+1978,Shooting,6,Thailand,0,4,2,6
+1978,Swimming,1,Japan,25,17,5,47
+1978,Swimming,2,Singapore,2,1,0,3
+1978,Swimming,3,Philippines,1,0,3,4
+1978,Swimming,3,Thailand,1,0,3,4
+1978,Swimming,5,China,0,8,6,14
+1978,Swimming,6,Indonesia,0,3,9,12
+1978,Swimming,7,South Korea,0,0,3,3
+1978,Table tennis,1,China,7,3,2,12
+1978,Table tennis,2,Japan,0,1,4,5
+1978,Table tennis,2,South Korea,0,1,4,5
+1978,Table tennis,4,Hong Kong,0,1,0,1
+1978,Table tennis,4,Indonesia,0,1,0,1
+1978,Table tennis,6,North Korea,0,0,2,2
+1978,Tennis,1,Indonesia,3,0,2,5
+1978,Tennis,2,South Korea,2,1,0,3
+1978,Tennis,3,Japan,1,3,5,9
+1978,Tennis,4,Thailand,1,0,2,3
+1978,Tennis,5,China,0,2,2,4
+1978,Tennis,6,Pakistan,0,1,1,2
+1978,Tennis,7,India,0,0,1,1
+1978,Volleyball,1,Japan,1,1,0,2
+1978,Volleyball,2,South Korea,1,0,1,2
+1978,Volleyball,3,China,0,1,1,2
+1978,Water Polo,1,China,1,0,0,1
+1978,Water Polo,2,Japan,0,1,0,1
+1978,Water Polo,3,Singapore,0,0,1,1
+1978,Weightlifting,1,North Korea,3,2,3,8
+1978,Weightlifting,2,Japan,3,1,2,6
+1978,Weightlifting,3,China,1,3,1,5
+1978,Weightlifting,4,Lebanon,1,1,0,2
+1978,Weightlifting,4,South Korea,1,1,0,2
+1978,Weightlifting,6,Syria,1,0,0,1
+1978,Weightlifting,7,Iraq,0,2,2,4
+1978,Weightlifting,8,Burma,0,0,1,1
+1978,Weightlifting,8,Pakistan,0,0,1,1
+1978,Wrestling,1,Japan,6,3,0,9
+1978,Wrestling,2,India,2,1,0,3
+1978,Wrestling,3,Mongolia,1,3,2,6
+1978,Wrestling,4,South Korea,1,1,3,5
+1978,Wrestling,5,Pakistan,0,1,3,4
+1978,Wrestling,6,North Korea,0,1,0,1
+1978,Wrestling,7,China,0,0,1,1
+1978,Wrestling,7,Iraq,0,0,1,1
+1982,Archery,1,South Korea,2,2,1,5
+1982,Archery,2,North Korea,1,1,0,2
+1982,Archery,3,Japan,1,0,1,2
+1982,Archery,4,Indonesia,0,1,0,1
+1982,Archery,5,China,0,0,2,2
+1982,Athletics,1,Japan,15,12,9,36
+1982,Athletics,10,Kuwait,0,1,0,1
+1982,Athletics,11,Bahrain,0,0,1,1
+1982,Athletics,11,Qatar,0,0,1,1
+1982,Athletics,2,China,12,11,12,35
+1982,Athletics,3,India,4,9,8,21
+1982,Athletics,4,South Korea,3,3,4,10
+1982,Athletics,5,North Korea,3,1,1,5
+1982,Athletics,6,Iraq,1,1,1,3
+1982,Athletics,7,Malaysia,1,0,1,2
+1982,Athletics,7,Philippines,1,0,1,2
+1982,Athletics,9,Thailand,0,2,1,3
+1982,Badminton,1,China,4,2,3,9
+1982,Badminton,2,Indonesia,2,3,0,5
+1982,Badminton,3,South Korea,1,1,4,6
+1982,Badminton,4,Japan,0,1,2,3
+1982,Badminton,5,India,0,0,5,5
+1982,Basketball,1,China,1,1,0,2
+1982,Basketball,1,South Korea,1,1,0,2
+1982,Basketball,3,Japan,0,0,2,2
+1982,Boxing,1,South Korea,7,2,3,12
+1982,Boxing,10,Kuwait,0,0,2,2
+1982,Boxing,11,Mongolia,0,0,1,1
+1982,Boxing,2,North Korea,3,1,3,7
+1982,Boxing,3,India,1,2,3,6
+1982,Boxing,4,Thailand,1,2,0,3
+1982,Boxing,5,Pakistan,0,2,5,7
+1982,Boxing,6,Philippines,0,1,2,3
+1982,Boxing,7,Iraq,0,1,1,2
+1982,Boxing,7,Syria,0,1,1,2
+1982,Boxing,9,Japan,0,0,3,3
+1982,Cycling,1,Japan,5,3,0,8
+1982,Cycling,2,South Korea,2,3,1,6
+1982,Cycling,3,Mongolia,0,1,0,1
+1982,Cycling,4,Philippines,0,0,3,3
+1982,Cycling,5,Iran,0,0,2,2
+1982,Cycling,6,China,0,0,1,1
+1982,Diving,1,China,4,4,0,8
+1982,Diving,2,Japan,0,0,4,4
+1982,Equestrian,1,India,3,1,1,5
+1982,Equestrian,2,Kuwait,1,1,1,3
+1982,Equestrian,3,Japan,0,1,0,1
+1982,Equestrian,3,Pakistan,0,1,0,1
+1982,Equestrian,5,Iraq,0,0,1,1
+1982,Equestrian,5,Philippines,0,0,1,1
+1982,Field hockey,1,India,1,1,0,2
+1982,Field hockey,2,Pakistan,1,0,0,1
+1982,Field hockey,3,South Korea,0,1,0,1
+1982,Field hockey,4,Malaysia,0,0,2,2
+1982,Football,1,Iraq,1,0,0,1
+1982,Football,2,Kuwait,0,1,0,1
+1982,Football,3,Saudi Arabia,0,0,1,1
+1982,Golf,1,India,2,1,0,3
+1982,Golf,2,Japan,0,1,1,2
+1982,Golf,3,South Korea,0,1,0,1
+1982,Gymnastics,1,China,12,9,2,23
+1982,Gymnastics,2,North Korea,3,5,4,12
+1982,Gymnastics,3,Japan,2,3,2,7
+1982,Gymnastics,4,South Korea,0,0,2,2
+1982,Handball,1,China,1,0,0,1
+1982,Handball,2,Japan,0,1,0,1
+1982,Handball,3,South Korea,0,0,1,1
+1982,Rowing,1,China,4,0,0,4
+1982,Rowing,2,Japan,0,3,0,3
+1982,Rowing,3,North Korea,0,1,1,2
+1982,Rowing,4,South Korea,0,0,2,2
+1982,Rowing,5,India,0,0,1,1
+1982,Sailing,1,Pakistan,2,0,0,2
+1982,Sailing,2,Japan,1,2,1,4
+1982,Sailing,3,India,1,1,1,3
+1982,Sailing,4,Philippines,0,1,0,1
+1982,Sailing,5,Hong Kong,0,0,1,1
+1982,Sailing,5,Thailand,0,0,1,1
+1982,Shooting,1,China,8,7,4,19
+1982,Shooting,2,North Korea,7,4,3,14
+1982,Shooting,3,Japan,3,4,6,13
+1982,Shooting,4,South Korea,3,3,4,10
+1982,Shooting,5,Mongolia,1,1,0,2
+1982,Shooting,6,India,0,2,1,3
+1982,Shooting,7,Thailand,0,1,2,3
+1982,Shooting,8,Philippines,0,0,1,1
+1982,Shooting,8,Vietnam,0,0,1,1
+1982,Swimming,1,Japan,21,13,6,40
+1982,Swimming,2,China,3,10,8,21
+1982,Swimming,3,South Korea,3,4,5,12
+1982,Swimming,4,Philippines,1,1,1,3
+1982,Swimming,5,Singapore,1,0,2,3
+1982,Swimming,6,North Korea,0,2,0,2
+1982,Swimming,7,Indonesia,0,0,6,6
+1982,Table tennis,1,China,6,3,2,11
+1982,Table tennis,2,Japan,1,2,2,5
+1982,Table tennis,3,South Korea,0,2,4,6
+1982,Table tennis,4,North Korea,0,0,4,4
+1982,Tennis,1,South Korea,4,3,0,7
+1982,Tennis,2,Indonesia,2,0,0,2
+1982,Tennis,3,Japan,1,2,3,6
+1982,Tennis,4,China,0,1,4,5
+1982,Tennis,5,India,0,1,0,1
+1982,Volleyball,1,China,1,1,0,2
+1982,Volleyball,1,Japan,1,1,0,2
+1982,Volleyball,3,South Korea,0,0,2,2
+1982,Water Polo,1,China,1,0,0,1
+1982,Water Polo,2,Japan,0,1,0,1
+1982,Water Polo,3,India,0,0,1,1
+1982,Weightlifting,1,China,4,2,3,9
+1982,Weightlifting,2,Japan,2,2,0,4
+1982,Weightlifting,3,South Korea,2,0,1,3
+1982,Weightlifting,4,Iran,1,2,0,3
+1982,Weightlifting,5,Syria,1,0,0,1
+1982,Weightlifting,6,North Korea,0,3,2,5
+1982,Weightlifting,7,Lebanon,0,1,0,1
+1982,Weightlifting,8,India,0,0,2,2
+1982,Weightlifting,9,Indonesia,0,0,1,1
+1982,Weightlifting,9,Iraq,0,0,1,1
+1982,Wrestling,1,Japan,4,1,1,6
+1982,Wrestling,2,Iran,3,2,2,7
+1982,Wrestling,3,Mongolia,2,1,0,3
+1982,Wrestling,4,India,1,1,2,4
+1982,Wrestling,5,South Korea,0,2,3,5
+1982,Wrestling,6,North Korea,0,1,2,3
+1982,Wrestling,7,Afghanistan,0,1,0,1
+1982,Wrestling,7,Iraq,0,1,0,1
+1986,Archery,1,South Korea,9,9,7,25
+1986,Archery,2,Japan,2,2,3,7
+1986,Archery,3,China,1,1,2,4
+1986,Athletics,1,China,17,18,8,43
+1986,Athletics,10,Kuwait,0,0,2,2
+1986,Athletics,11,Malaysia,0,0,1,1
+1986,Athletics,11,Oman,0,0,1,1
+1986,Athletics,2,Japan,11,13,11,35
+1986,Athletics,3,South Korea,7,5,13,25
+1986,Athletics,4,India,4,2,3,9
+1986,Athletics,5,Philippines,1,2,1,4
+1986,Athletics,6,Qatar,1,0,1,2
+1986,Athletics,7,Bahrain,1,0,0,1
+1986,Athletics,8,Thailand,0,1,1,2
+1986,Athletics,9,Iraq,0,1,0,1
+1986,Badminton,1,China,4,4,3,11
+1986,Badminton,2,South Korea,3,2,5,10
+1986,Badminton,3,Japan,0,1,1,2
+1986,Badminton,4,Indonesia,0,0,4,4
+1986,Badminton,5,India,0,0,1,1
+1986,Basketball,1,China,2,0,0,2
+1986,Basketball,2,South Korea,0,2,0,2
+1986,Basketball,3,Japan,0,0,1,1
+1986,Basketball,3,Philippines,0,0,1,1
+1986,Bowling,1,Japan,6,5,2,13
+1986,Bowling,2,Philippines,2,2,2,6
+1986,Bowling,3,South Korea,2,0,2,4
+1986,Bowling,4,Thailand,1,2,2,5
+1986,Bowling,5,Hong Kong,1,1,0,2
+1986,Bowling,6,Malaysia,0,1,2,3
+1986,Bowling,7,Singapore,0,1,0,1
+1986,Bowling,8,Indonesia,0,0,2,2
+1986,Boxing,1,South Korea,12,0,0,12
+1986,Boxing,2,India,0,4,5,9
+1986,Boxing,3,Thailand,0,4,2,6
+1986,Boxing,4,Japan,0,1,4,5
+1986,Boxing,4,Pakistan,0,1,4,5
+1986,Boxing,6,Philippines,0,1,2,3
+1986,Boxing,7,Indonesia,0,1,0,1
+1986,Boxing,8,Nepal,0,0,4,4
+1986,Boxing,9,Bangladesh,0,0,1,1
+1986,Boxing,9,Iraq,0,0,1,1
+1986,Boxing,9,Kuwait,0,0,1,1
+1986,Cycling,1,Japan,4,4,0,8
+1986,Cycling,2,South Korea,2,2,5,9
+1986,Cycling,3,China,2,2,2,6
+1986,Cycling,4,Iran,1,0,1,2
+1986,Cycling,5,Indonesia,0,1,0,1
+1986,Cycling,6,Philippines,0,0,1,1
+1986,Diving,1,China,4,4,0,8
+1986,Diving,2,Japan,0,0,3,3
+1986,Diving,3,South Korea,0,0,1,1
+1986,Equestrian,1,Japan,3,4,2,9
+1986,Equestrian,2,South Korea,3,1,2,6
+1986,Equestrian,3,Kuwait,0,1,0,1
+1986,Equestrian,4,India,0,0,2,2
+1986,Fencing,1,China,4,5,2,11
+1986,Fencing,2,South Korea,4,3,2,9
+1986,Fencing,3,Japan,0,0,4,4
+1986,Field hockey,1,South Korea,2,0,0,2
+1986,Field hockey,2,Japan,0,1,0,1
+1986,Field hockey,2,Pakistan,0,1,0,1
+1986,Field hockey,4,India,0,0,2,2
+1986,Football,1,South Korea,1,0,0,1
+1986,Football,2,Saudi Arabia,0,1,0,1
+1986,Football,3,Kuwait,0,0,1,1
+1986,Golf,1,South Korea,1,1,0,2
+1986,Golf,2,Philippines,1,0,1,2
+1986,Golf,3,Japan,0,1,1,2
+1986,Gymnastics,1,China,12,8,5,25
+1986,Gymnastics,2,South Korea,3,4,6,13
+1986,Gymnastics,3,Japan,0,1,4,5
+1986,Handball,1,South Korea,1,0,0,1
+1986,Handball,2,China,0,1,0,1
+1986,Handball,3,Japan,0,0,1,1
+1986,Judo,1,South Korea,6,1,1,8
+1986,Judo,2,Japan,2,5,0,7
+1986,Judo,3,China,0,2,5,7
+1986,Judo,4,India,0,0,4,4
+1986,Judo,5,Kuwait,0,0,2,2
+1986,Judo,5,Thailand,0,0,2,2
+1986,Judo,7,Hong Kong,0,0,1,1
+1986,Judo,7,Iran,0,0,1,1
+1986,Rowing,1,China,7,1,0,8
+1986,Rowing,2,Japan,1,3,4,8
+1986,Rowing,3,South Korea,0,4,4,8
+1986,Sailing,1,South Korea,2,1,0,3
+1986,Sailing,2,China,2,0,1,3
+1986,Sailing,3,Pakistan,1,0,0,1
+1986,Sailing,4,Japan,0,2,2,4
+1986,Sailing,5,Thailand,0,1,1,2
+1986,Sailing,6,India,0,1,0,1
+1986,Sailing,7,Indonesia,0,0,1,1
+1986,Shooting,1,China,15,10,9,34
+1986,Shooting,2,South Korea,7,10,8,25
+1986,Shooting,3,Japan,6,6,8,20
+1986,Shooting,4,Thailand,2,2,2,6
+1986,Shooting,5,India,0,1,2,3
+1986,Shooting,6,Malaysia,0,1,0,1
+1986,Shooting,7,Hong Kong,0,0,1,1
+1986,Swimming,1,Japan,17,18,10,45
+1986,Swimming,2,China,10,8,7,25
+1986,Swimming,3,South Korea,2,0,4,6
+1986,Swimming,4,Malaysia,0,2,2,4
+1986,Swimming,5,India,0,1,0,1
+1986,Swimming,6,Singapore,0,0,3,3
+1986,Swimming,7,Indonesia,0,0,2,2
+1986,Swimming,8,Hong Kong,0,0,1,1
+1986,Table tennis,1,China,4,6,0,10
+1986,Table tennis,2,South Korea,3,1,6,10
+1986,Table tennis,3,Japan,0,0,6,6
+1986,Taekwondo,1,South Korea,7,0,0,7
+1986,Taekwondo,11,Bahrain,0,0,1,1
+1986,Taekwondo,11,Philippines,0,0,1,1
+1986,Taekwondo,2,Iran,1,1,0,2
+1986,Taekwondo,3,Indonesia,0,3,1,4
+1986,Taekwondo,3,Jordan,0,3,1,4
+1986,Taekwondo,5,Malaysia,0,1,0,1
+1986,Taekwondo,6,Nepal,0,0,4,4
+1986,Taekwondo,7,Japan,0,0,2,2
+1986,Taekwondo,7,Kuwait,0,0,2,2
+1986,Taekwondo,7,Qatar,0,0,2,2
+1986,Taekwondo,7,Thailand,0,0,2,2
+1986,Tennis,1,South Korea,4,4,2,10
+1986,Tennis,2,China,2,3,1,6
+1986,Tennis,3,Indonesia,1,0,3,4
+1986,Tennis,4,Thailand,0,0,1,1
+1986,Volleyball,1,China,2,0,0,2
+1986,Volleyball,2,South Korea,0,1,1,2
+1986,Volleyball,3,Japan,0,1,0,1
+1986,Volleyball,4,India,0,0,1,1
+1986,Water polo,1,China,1,0,0,1
+1986,Water polo,2,South Korea,0,1,0,1
+1986,Water polo,3,Singapore,0,0,1,1
+1986,Weightlifting,1,China,5,4,0,9
+1986,Weightlifting,2,South Korea,3,1,2,6
+1986,Weightlifting,3,Japan,1,2,2,5
+1986,Weightlifting,4,Lebanon,1,0,1,2
+1986,Weightlifting,5,Iraq,0,3,1,4
+1986,Weightlifting,6,Iran,0,0,2,2
+1986,Weightlifting,7,India,0,0,1,1
+1986,Weightlifting,7,Indonesia,0,0,1,1
+1986,Wrestling,1,South Korea,9,2,5,16
+1986,Wrestling,2,Japan,5,6,6,17
+1986,Wrestling,3,Iran,4,5,6,15
+1986,Wrestling,4,Pakistan,1,1,0,2
+1986,Wrestling,5,India,1,0,2,3
+1986,Wrestling,6,China,0,5,1,6
+1986,Wrestling,7,Iraq,0,1,0,1
+1990,Archery,1,South Korea,4,1,2,7
+1990,Archery,2,Japan,0,2,0,2
+1990,Archery,3,Chinese Taipei,0,1,1,2
+1990,Archery,4,North Korea,0,0,1,1
+1990,Athletics,1,China,29,21,11,61
+1990,Athletics,10,Sri Lanka,0,1,1,2
+1990,Athletics,11,Iran,0,0,1,1
+1990,Athletics,11,Malaysia,0,0,1,1
+1990,Athletics,11,Myanmar,0,0,1,1
+1990,Athletics,11,Philippines,0,0,1,1
+1990,Athletics,11,Thailand,0,0,1,1
+1990,Athletics,2,Japan,7,5,13,25
+1990,Athletics,3,Qatar,3,2,1,6
+1990,Athletics,4,South Korea,2,6,5,13
+1990,Athletics,5,Pakistan,1,0,1,2
+1990,Athletics,6,Oman,1,0,0,1
+1990,Athletics,7,Chinese Taipei,0,4,3,7
+1990,Athletics,8,India,0,4,2,6
+1990,Athletics,9,North Korea,0,1,3,4
+1990,Badminton,1,China,6,1,3,10
+1990,Badminton,2,South Korea,1,3,2,6
+1990,Badminton,3,Indonesia,0,2,6,8
+1990,Badminton,4,Malaysia,0,1,2,3
+1990,Badminton,5,Japan,0,0,1,1
+1990,Basketball,1,China,1,1,0,2
+1990,Basketball,2,South Korea,1,0,1,2
+1990,Basketball,3,Philippines,0,1,0,1
+1990,Basketball,4,Chinese Taipei,0,0,1,1
+1990,Boxing,1,South Korea,5,2,2,9
+1990,Boxing,10,Japan,0,1,1,2
+1990,Boxing,11,India,0,0,1,1
+1990,Boxing,11,Laos,0,0,1,1
+1990,Boxing,11,Nepal,0,0,1,1
+1990,Boxing,2,Thailand,2,1,1,4
+1990,Boxing,3,China,1,5,1,7
+1990,Boxing,4,Pakistan,1,1,4,6
+1990,Boxing,5,Philippines,1,0,3,4
+1990,Boxing,6,Indonesia,1,0,2,3
+1990,Boxing,7,Syria,1,0,0,1
+1990,Boxing,8,Mongolia,0,1,4,5
+1990,Boxing,9,Iran,0,1,2,3
+1990,Canoeing,1,China,10,1,2,13
+1990,Canoeing,2,South Korea,3,2,3,8
+1990,Canoeing,3,Japan,0,6,2,8
+1990,Canoeing,4,North Korea,0,3,5,8
+1990,Canoeing,5,Indonesia,0,1,1,2
+1990,Cycling,1,China,6,5,1,12
+1990,Cycling,2,Japan,3,3,3,9
+1990,Cycling,3,South Korea,2,1,4,7
+1990,Cycling,4,Chinese Taipei,0,1,1,2
+1990,Cycling,4,Mongolia,0,1,1,2
+1990,Cycling,6,Indonesia,0,0,1,1
+1990,Diving,1,China,8,5,1,14
+1990,Diving,2,North Korea,0,2,1,3
+1990,Diving,3,Japan,0,1,5,6
+1990,Diving,4,Chinese Taipei,0,0,1,1
+1990,Fencing,1,China,7,3,3,13
+1990,Fencing,2,South Korea,3,6,2,11
+1990,Fencing,3,Indonesia,0,1,1,2
+1990,Fencing,4,Japan,0,0,3,3
+1990,Fencing,5,Hong Kong,0,0,1,1
+1990,Field hockey,1,Pakistan,1,0,0,1
+1990,Field hockey,1,South Korea,1,0,0,1
+1990,Field hockey,3,China,0,1,0,1
+1990,Field hockey,3,India,0,1,0,1
+1990,Field hockey,5,Japan,0,0,1,1
+1990,Field hockey,5,Malaysia,0,0,1,1
+1990,Football,1,China,1,0,0,1
+1990,Football,1,Iran,1,0,0,1
+1990,Football,3,North Korea,0,1,1,2
+1990,Football,4,Japan,0,1,0,1
+1990,Football,5,South Korea,0,0,1,1
+1990,Golf,1,South Korea,2,1,1,4
+1990,Golf,2,Japan,2,0,0,2
+1990,Golf,3,Philippines,0,1,3,4
+1990,Golf,4,Chinese Taipei,0,1,0,1
+1990,Golf,4,Sri Lanka,0,1,0,1
+1990,Gymnastics,1,China,11,8,3,22
+1990,Gymnastics,2,North Korea,2,2,4,8
+1990,Gymnastics,3,Japan,1,3,3,7
+1990,Gymnastics,4,South Korea,1,2,3,6
+1990,Gymnastics,5,Chinese Taipei,0,0,2,2
+1990,Handball,1,South Korea,2,0,0,2
+1990,Handball,2,China,0,1,0,1
+1990,Handball,2,Japan,0,1,0,1
+1990,Handball,4,Chinese Taipei,0,0,1,1
+1990,Handball,4,Saudi Arabia,0,0,1,1
+1990,Judo,1,Japan,8,3,4,15
+1990,Judo,2,China,5,5,2,12
+1990,Judo,3,South Korea,2,5,9,16
+1990,Judo,4,North Korea,1,1,3,5
+1990,Judo,5,Chinese Taipei,0,1,7,8
+1990,Judo,6,Mongolia,0,1,3,4
+1990,Judo,7,Hong Kong,0,0,1,1
+1990,Judo,7,Indonesia,0,0,1,1
+1990,Judo,7,Myanmar,0,0,1,1
+1990,Judo,7,Thailand,0,0,1,1
+1990,Kabaddi,1,India,1,0,0,1
+1990,Kabaddi,2,Bangladesh,0,1,0,1
+1990,Kabaddi,3,Pakistan,0,0,1,1
+1990,Rowing,1,China,14,0,0,14
+1990,Rowing,2,North Korea,0,5,3,8
+1990,Rowing,3,Japan,0,5,1,6
+1990,Rowing,4,South Korea,0,4,5,9
+1990,Rowing,5,India,0,0,4,4
+1990,Rowing,6,Indonesia,0,0,1,1
+1990,Sailing,1,Japan,3,1,1,5
+1990,Sailing,2,China,2,3,0,5
+1990,Sailing,3,South Korea,1,1,3,5
+1990,Sailing,4,Pakistan,1,0,0,1
+1990,Sailing,5,Thailand,0,1,1,2
+1990,Sailing,6,Hong Kong,0,1,0,1
+1990,Sailing,7,India,0,0,2,2
+1990,Sepak takraw,1,Malaysia,2,0,0,2
+1990,Sepak takraw,2,Thailand,0,2,0,2
+1990,Sepak takraw,3,Singapore,0,0,2,2
+1990,Shooting,1,China,27,14,7,48
+1990,Shooting,2,North Korea,6,8,11,25
+1990,Shooting,3,South Korea,5,10,8,23
+1990,Shooting,4,Japan,3,6,9,18
+1990,Shooting,5,Thailand,0,1,3,4
+1990,Shooting,6,India,0,0,1,1
+1990,Shooting,6,Singapore,0,0,1,1
+1990,Softball,1,China,1,0,0,1
+1990,Softball,2,Japan,0,1,0,1
+1990,Softball,3,Chinese Taipei,0,0,1,1
+1990,Swimming,1,China,23,12,6,41
+1990,Swimming,2,Japan,7,16,16,39
+1990,Swimming,3,South Korea,1,1,5,7
+1990,Swimming,4,Singapore,0,1,1,2
+1990,Swimming,5,Malaysia,0,1,0,1
+1990,Swimming,6,Indonesia,0,0,3,3
+1990,Table tennis,1,China,5,4,6,15
+1990,Table tennis,2,South Korea,2,2,3,7
+1990,Table tennis,3,North Korea,0,1,2,3
+1990,Table tennis,4,Hong Kong,0,0,1,1
+1990,Tennis,1,China,3,3,1,7
+1990,Tennis,2,Indonesia,2,1,4,7
+1990,Tennis,3,Japan,2,0,1,3
+1990,Tennis,4,South Korea,0,3,6,9
+1990,Tennis,5,India,0,0,1,1
+1990,Tennis,5,Thailand,0,0,1,1
+1990,Volleyball,1,China,2,0,0,2
+1990,Volleyball,2,South Korea,0,2,0,2
+1990,Volleyball,3,Japan,0,0,2,2
+1990,Water Polo,1,China,1,0,0,1
+1990,Water Polo,2,Japan,0,1,0,1
+1990,Water Polo,3,South Korea,0,0,1,1
+1990,Weightlifting,1,China,12,3,2,17
+1990,Weightlifting,2,South Korea,5,2,3,10
+1990,Weightlifting,3,North Korea,2,5,3,10
+1990,Weightlifting,4,Japan,0,2,5,7
+1990,Weightlifting,5,Chinese Taipei,0,2,2,4
+1990,Weightlifting,5,India,0,2,2,4
+1990,Weightlifting,7,Thailand,0,2,0,2
+1990,Weightlifting,8,Indonesia,0,1,1,2
+1990,Weightlifting,9,Pakistan,0,0,1,1
+1990,Wrestling,1,South Korea,11,0,4,15
+1990,Wrestling,2,Iran,3,5,5,13
+1990,Wrestling,3,China,2,6,2,10
+1990,Wrestling,4,Japan,2,2,3,7
+1990,Wrestling,5,Mongolia,1,4,1,6
+1990,Wrestling,6,North Korea,1,2,2,5
+1990,Wrestling,7,India,0,1,1,2
+1990,Wrestling,8,Syria,0,0,2,2
+1990,Wushu,1,China,6,5,0,11
+1990,Wushu,2,Hong Kong,0,1,2,3
+1990,Wushu,3,Japan,0,0,2,2
+1990,Wushu,4,Chinese Taipei,0,0,1,1
+1990,Wushu,4,Macau,0,0,1,1
+1994,Archery,1,South Korea,3,2,2,7
+1994,Archery,2,China,1,0,0,1
+1994,Archery,3,Indonesia,0,1,0,1
+1994,Archery,3,Japan,0,1,0,1
+1994,Archery,5,Chinese Taipei,0,0,1,1
+1994,Archery,5,Kazakhstan,0,0,1,1
+1994,Artistic swimming,1,Japan,2,0,0,2
+1994,Artistic swimming,2,China,0,2,0,2
+1994,Artistic swimming,3,South Korea,0,0,2,2
+1994,Athletics,1,China,22,17,8,47
+1994,Athletics,10,India,0,1,2,3
+1994,Athletics,11,Saudi Arabia,0,1,1,2
+1994,Athletics,11,Sri Lanka,0,1,1,2
+1994,Athletics,13,Malaysia,0,0,1,1
+1994,Athletics,13,Myanmar,0,0,1,1
+1994,Athletics,13,Pakistan,0,0,1,1
+1994,Athletics,13,Philippines,0,0,1,1
+1994,Athletics,2,Japan,5,9,10,24
+1994,Athletics,3,Kazakhstan,4,4,3,11
+1994,Athletics,4,Qatar,4,1,4,9
+1994,Athletics,5,South Korea,3,3,3,9
+1994,Athletics,6,Uzbekistan,3,2,3,8
+1994,Athletics,7,Chinese Taipei,1,2,1,4
+1994,Athletics,8,Syria,1,0,0,1
+1994,Athletics,9,Thailand,0,2,4,6
+1994,Badminton,1,South Korea,4,3,1,8
+1994,Badminton,2,Indonesia,3,2,2,7
+1994,Badminton,3,Japan,0,1,2,3
+1994,Badminton,3,Malaysia,0,1,2,3
+1994,Badminton,5,China,0,0,7,7
+1994,Basketball,1,South Korea,1,1,0,2
+1994,Basketball,2,China,1,0,1,2
+1994,Basketball,3,Japan,0,1,1,2
+1994,Bowling,1,South Korea,4,4,3,11
+1994,Bowling,2,Japan,4,3,2,9
+1994,Bowling,3,Malaysia,2,1,2,5
+1994,Bowling,4,Chinese Taipei,2,1,0,3
+1994,Bowling,5,United Arab Emirates,0,1,2,3
+1994,Bowling,6,Philippines,0,1,1,2
+1994,Bowling,7,Indonesia,0,1,0,1
+1994,Bowling,8,Qatar,0,0,1,1
+1994,Bowling,8,Singapore,0,0,1,1
+1994,Boxing,1,Philippines,3,0,2,5
+1994,Boxing,10,Saudi Arabia,0,1,1,2
+1994,Boxing,11,India,0,0,4,4
+1994,Boxing,12,Indonesia,0,0,2,2
+1994,Boxing,13,Syria,0,0,1,1
+1994,Boxing,13,Turkmenistan,0,0,1,1
+1994,Boxing,2,Kazakhstan,2,1,2,5
+1994,Boxing,3,South Korea,2,1,0,3
+1994,Boxing,4,Uzbekistan,2,0,2,4
+1994,Boxing,5,Thailand,1,3,3,7
+1994,Boxing,6,Iran,1,1,2,4
+1994,Boxing,7,Japan,1,1,0,2
+1994,Boxing,8,Pakistan,0,3,2,5
+1994,Boxing,9,China,0,1,2,3
+1994,Canoeing,1,China,5,3,0,8
+1994,Canoeing,2,Uzbekistan,4,7,2,13
+1994,Canoeing,3,Kazakhstan,4,0,3,7
+1994,Canoeing,4,South Korea,0,2,5,7
+1994,Canoeing,5,Japan,0,1,2,3
+1994,Canoeing,6,India,0,0,1,1
+1994,Cycling,1,China,3,4,3,10
+1994,Cycling,2,Kazakhstan,3,3,0,6
+1994,Cycling,3,South Korea,2,2,1,5
+1994,Cycling,4,Japan,2,0,4,6
+1994,Cycling,5,Kyrgyzstan,0,1,1,2
+1994,Cycling,6,Chinese Taipei,0,0,1,1
+1994,Diving,1,China,4,4,0,8
+1994,Diving,2,Japan,0,0,3,3
+1994,Diving,3,Kazakhstan,0,0,1,1
+1994,Equestrian,1,Japan,4,2,0,6
+1994,Equestrian,2,Chinese Taipei,0,1,1,2
+1994,Equestrian,2,South Korea,0,1,1,2
+1994,Equestrian,4,Iran,0,0,1,1
+1994,Equestrian,4,Thailand,0,0,1,1
+1994,Fencing,1,China,5,2,0,7
+1994,Fencing,2,South Korea,2,3,4,9
+1994,Fencing,3,Kazakhstan,1,1,1,3
+1994,Fencing,4,Japan,0,2,3,5
+1994,Field hockey,1,South Korea,2,0,0,2
+1994,Field hockey,2,India,0,1,0,1
+1994,Field hockey,2,Japan,0,1,0,1
+1994,Field hockey,4,China,0,0,1,1
+1994,Field hockey,4,Pakistan,0,0,1,1
+1994,Football,1,China,1,1,0,2
+1994,Football,2,Uzbekistan,1,0,0,1
+1994,Football,3,Japan,0,1,0,1
+1994,Football,4,Chinese Taipei,0,0,1,1
+1994,Football,4,Kuwait,0,0,1,1
+1994,Golf,1,Chinese Taipei,2,1,1,4
+1994,Golf,2,Japan,2,0,0,2
+1994,Golf,3,South Korea,0,2,2,4
+1994,Golf,4,China,0,1,1,2
+1994,Gymnastics,1,China,13,10,3,26
+1994,Gymnastics,2,South Korea,2,3,2,7
+1994,Gymnastics,3,Japan,2,1,4,7
+1994,Gymnastics,4,Kazakhstan,0,1,3,4
+1994,Gymnastics,5,Uzbekistan,0,0,2,2
+1994,Handball,1,South Korea,2,0,0,2
+1994,Handball,2,Japan,0,2,0,2
+1994,Handball,3,China,0,0,2,2
+1994,Judo,1,Japan,8,6,2,16
+1994,Judo,2,South Korea,7,3,4,14
+1994,Judo,3,China,1,3,6,10
+1994,Judo,4,Kazakhstan,0,2,3,5
+1994,Judo,5,Chinese Taipei,0,1,5,6
+1994,Judo,6,Iran,0,1,1,2
+1994,Judo,7,Mongolia,0,0,5,5
+1994,Judo,8,Uzbekistan,0,0,2,2
+1994,Judo,9,Hong Kong,0,0,1,1
+1994,Judo,9,India,0,0,1,1
+1994,Judo,9,Tajikistan,0,0,1,1
+1994,Judo,9,Turkmenistan,0,0,1,1
+1994,Karate,1,Japan,9,0,1,10
+1994,Karate,10,Brunei,0,0,2,2
+1994,Karate,10,Philippines,0,0,2,2
+1994,Karate,12,Macau,0,0,1,1
+1994,Karate,12,Nepal,0,0,1,1
+1994,Karate,12,Tajikistan,0,0,1,1
+1994,Karate,12,United Arab Emirates,0,0,1,1
+1994,Karate,2,Iran,1,2,1,4
+1994,Karate,3,Syria,1,1,0,2
+1994,Karate,4,Indonesia,0,3,2,5
+1994,Karate,5,Vietnam,0,2,0,2
+1994,Karate,6,Chinese Taipei,0,1,3,4
+1994,Karate,7,Kuwait,0,1,1,2
+1994,Karate,7,Saudi Arabia,0,1,1,2
+1994,Karate,9,Malaysia,0,0,3,3
+1994,Modern pentathlon,1,South Korea,1,1,1,3
+1994,Modern pentathlon,2,Kazakhstan,1,1,0,2
+1994,Modern pentathlon,3,Kyrgyzstan,0,0,1,1
+1994,Rowing,1,China,11,1,0,12
+1994,Rowing,2,Japan,1,6,2,9
+1994,Rowing,3,Turkmenistan,0,3,1,4
+1994,Rowing,4,South Korea,0,1,3,4
+1994,Rowing,5,Hong Kong,0,1,2,3
+1994,Rowing,6,Chinese Taipei,0,0,1,1
+1994,Rowing,6,India,0,0,1,1
+1994,Rowing,6,Kazakhstan,0,0,1,1
+1994,Sailing,1,China,3,0,1,4
+1994,Sailing,2,Japan,2,2,0,4
+1994,Sailing,3,Singapore,1,1,0,2
+1994,Sailing,4,Malaysia,1,0,0,1
+1994,Sailing,5,Hong Kong,0,2,1,3
+1994,Sailing,6,Pakistan,0,1,1,2
+1994,Sailing,6,South Korea,0,1,1,2
+1994,Sailing,8,India,0,0,2,2
+1994,Sailing,9,Thailand,0,0,1,1
+1994,Shooting,1,China,15,13,10,38
+1994,Shooting,11,Thailand,0,0,2,2
+1994,Shooting,2,South Korea,7,8,9,24
+1994,Shooting,3,Kazakhstan,4,4,3,11
+1994,Shooting,4,Japan,3,5,5,13
+1994,Shooting,5,Kuwait,2,0,2,4
+1994,Shooting,6,Uzbekistan,1,2,2,5
+1994,Shooting,7,India,1,0,1,2
+1994,Shooting,8,Saudi Arabia,1,0,0,1
+1994,Shooting,9,Kyrgyzstan,0,1,0,1
+1994,Shooting,9,Mongolia,0,1,0,1
+1994,Soft tennis,1,South Korea,2,3,0,5
+1994,Soft tennis,2,Chinese Taipei,1,1,1,3
+1994,Soft tennis,3,Japan,1,0,3,4
+1994,Swimming,1,China,15,8,3,26
+1994,Swimming,2,Japan,10,18,16,44
+1994,Swimming,3,South Korea,2,1,4,7
+1994,Swimming,4,Thailand,2,0,2,4
+1994,Swimming,5,Kazakhstan,1,2,3,6
+1994,Swimming,6,Syria,1,1,0,2
+1994,Swimming,7,Hong Kong,0,1,1,2
+1994,Swimming,8,Singapore,0,0,1,1
+1994,Swimming,8,Uzbekistan,0,0,1,1
+1994,Table tennis,1,China,5,2,4,11
+1994,Table tennis,2,South Korea,1,3,4,8
+1994,Table tennis,3,Japan,1,0,2,3
+1994,Table tennis,4,Chinese Taipei,0,1,1,2
+1994,Table tennis,4,Hong Kong,0,1,1,2
+1994,Taekwondo,1,South Korea,4,0,0,4
+1994,Taekwondo,10,Malaysia,0,0,3,3
+1994,Taekwondo,11,Saudi Arabia,0,0,2,2
+1994,Taekwondo,12,Nepal,0,0,1,1
+1994,Taekwondo,12,Uzbekistan,0,0,1,1
+1994,Taekwondo,2,Iran,1,2,1,4
+1994,Taekwondo,3,Chinese Taipei,1,0,1,2
+1994,Taekwondo,3,Kuwait,1,0,1,2
+1994,Taekwondo,5,Vietnam,1,0,0,1
+1994,Taekwondo,6,Jordan,0,2,2,4
+1994,Taekwondo,7,Indonesia,0,2,1,3
+1994,Taekwondo,8,Japan,0,1,3,4
+1994,Taekwondo,9,Philippines,0,1,0,1
+1994,Tennis,1,Japan,3,2,3,8
+1994,Tennis,2,China,2,1,3,6
+1994,Tennis,3,India,2,0,1,3
+1994,Tennis,4,Indonesia,0,2,3,5
+1994,Tennis,5,South Korea,0,2,2,4
+1994,Tennis,6,Chinese Taipei,0,0,1,1
+1994,Tennis,6,Malaysia,0,0,1,1
+1994,Volleyball,1,Japan,1,0,1,2
+1994,Volleyball,1,South Korea,1,0,1,2
+1994,Volleyball,3,China,0,2,0,2
+1994,Water Polo,1,Kazakhstan,1,0,0,1
+1994,Water Polo,2,China,0,1,0,1
+1994,Water Polo,3,Japan,0,0,1,1
+1994,Weightlifting,1,China,13,5,1,19
+1994,Weightlifting,10,Uzbekistan,0,0,2,2
+1994,Weightlifting,11,Kyrgyzstan,0,0,1,1
+1994,Weightlifting,11,Myanmar,0,0,1,1
+1994,Weightlifting,2,Kazakhstan,3,1,2,6
+1994,Weightlifting,3,South Korea,2,3,2,7
+1994,Weightlifting,4,Turkmenistan,1,0,0,1
+1994,Weightlifting,5,Chinese Taipei,0,3,2,5
+1994,Weightlifting,6,Thailand,0,3,1,4
+1994,Weightlifting,7,Japan,0,2,3,5
+1994,Weightlifting,8,India,0,1,3,4
+1994,Weightlifting,9,Indonesia,0,1,1,2
+1994,Wrestling,1,South Korea,9,1,6,16
+1994,Wrestling,2,Iran,6,3,2,11
+1994,Wrestling,3,Kazakhstan,3,5,1,9
+1994,Wrestling,4,Japan,1,4,5,10
+1994,Wrestling,5,Mongolia,1,1,1,3
+1994,Wrestling,6,Kyrgyzstan,0,2,2,4
+1994,Wrestling,7,China,0,2,1,3
+1994,Wrestling,8,Uzbekistan,0,1,2,3
+1994,Wrestling,9,Syria,0,1,0,1
+1994,Wushu,1,China,5,0,0,5
+1994,Wushu,2,Japan,1,2,1,4
+1994,Wushu,3,Chinese Taipei,0,1,1,2
+1994,Wushu,3,Hong Kong,0,1,1,2
+1994,Wushu,3,South Korea,0,1,1,2
+1994,Wushu,6,Macau,0,1,0,1
+1994,Wushu,7,Philippines,0,0,2,2
+1994,Wushu,7,Singapore,0,0,2,2
+1994,Wushu,9,Malaysia,0,0,1,1
+1998,Archery,1,South Korea,4,2,0,6
+1998,Archery,2,China,0,1,2,3
+1998,Archery,3,Chinese Taipei,0,1,0,1
+1998,Archery,4,Japan,0,0,1,1
+1998,Archery,4,Kazakhstan,0,0,1,1
+1998,Artistic swimming,1,Japan,2,0,0,2
+1998,Artistic swimming,2,South Korea,0,2,0,2
+1998,Artistic swimming,3,China,0,0,2,2
+1998,Athletics,1,China,15,17,7,39
+1998,Athletics,10,Thailand,0,2,3,5
+1998,Athletics,11,Chinese Taipei,0,1,2,3
+1998,Athletics,12,Iran,0,1,1,2
+1998,Athletics,12,North Korea,0,1,1,2
+1998,Athletics,14,Kyrgyzstan,0,0,2,2
+1998,Athletics,15,Malaysia,0,0,1,1
+1998,Athletics,15,Oman,0,0,1,1
+1998,Athletics,15,Turkmenistan,0,0,1,1
+1998,Athletics,2,Japan,12,4,8,24
+1998,Athletics,3,Kazakhstan,4,4,5,13
+1998,Athletics,4,South Korea,4,3,2,9
+1998,Athletics,5,Sri Lanka,3,0,2,5
+1998,Athletics,6,India,2,6,7,15
+1998,Athletics,7,Qatar,2,3,3,8
+1998,Athletics,8,Uzbekistan,2,3,0,5
+1998,Athletics,9,Indonesia,1,0,0,1
+1998,Badminton,1,China,3,2,4,9
+1998,Badminton,2,Indonesia,2,2,2,6
+1998,Badminton,3,South Korea,1,2,4,7
+1998,Badminton,4,Japan,1,0,1,2
+1998,Badminton,5,Thailand,0,1,1,2
+1998,Badminton,6,Malaysia,0,0,2,2
+1998,Baseball,1,South Korea,1,0,0,1
+1998,Baseball,2,Japan,0,1,0,1
+1998,Baseball,3,Chinese Taipei,0,0,1,1
+1998,Basketball,1,China,1,1,0,2
+1998,Basketball,2,Japan,1,0,0,1
+1998,Basketball,3,South Korea,0,1,1,2
+1998,Basketball,4,Philippines,0,0,1,1
+1998,Beach volleyball,1,China,1,0,0,1
+1998,Beach volleyball,1,Thailand,1,0,0,1
+1998,Beach volleyball,3,Indonesia,0,1,1,2
+1998,Beach volleyball,3,Japan,0,1,1,2
+1998,Bowling,1,Chinese Taipei,6,2,3,11
+1998,Bowling,2,South Korea,2,3,1,6
+1998,Bowling,3,Thailand,1,4,0,5
+1998,Bowling,4,Hong Kong,1,0,0,1
+1998,Bowling,5,Singapore,0,1,1,2
+1998,Bowling,6,Japan,0,0,2,2
+1998,Bowling,7,Malaysia,0,0,1,1
+1998,Bowling,7,Philippines,0,0,1,1
+1998,Bowling,7,United Arab Emirates,0,0,1,1
+1998,Boxing,1,Thailand,5,0,3,8
+1998,Boxing,10,Mongolia,0,0,3,3
+1998,Boxing,11,Japan,0,0,1,1
+1998,Boxing,11,Jordan,0,0,1,1
+1998,Boxing,11,North Korea,0,0,1,1
+1998,Boxing,11,Philippines,0,0,1,1
+1998,Boxing,11,Syria,0,0,1,1
+1998,Boxing,2,Uzbekistan,3,4,2,9
+1998,Boxing,3,Kazakhstan,3,1,1,5
+1998,Boxing,4,India,1,0,1,2
+1998,Boxing,5,South Korea,0,2,5,7
+1998,Boxing,6,Indonesia,0,2,0,2
+1998,Boxing,7,Pakistan,0,1,3,4
+1998,Boxing,8,Iran,0,1,1,2
+1998,Boxing,9,China,0,1,0,1
+1998,Canoeing,1,Kazakhstan,8,2,0,10
+1998,Canoeing,2,China,3,3,4,10
+1998,Canoeing,3,Uzbekistan,1,4,3,8
+1998,Canoeing,4,Japan,0,1,2,3
+1998,Canoeing,4,South Korea,0,1,2,3
+1998,Canoeing,6,Indonesia,0,1,0,1
+1998,Canoeing,7,North Korea,0,0,1,1
+1998,Cue sports,1,Chinese Taipei,3,2,1,6
+1998,Cue sports,10,South Korea,0,0,1,1
+1998,Cue sports,2,India,2,1,1,4
+1998,Cue sports,3,Japan,1,2,2,5
+1998,Cue sports,4,Malaysia,1,1,0,2
+1998,Cue sports,5,Pakistan,1,0,2,3
+1998,Cue sports,6,Hong Kong,1,0,1,2
+1998,Cue sports,7,Philippines,1,0,0,1
+1998,Cue sports,8,Thailand,0,3,2,5
+1998,Cue sports,9,Singapore,0,1,0,1
+1998,Cycling,1,China,4,3,3,10
+1998,Cycling,2,Japan,3,8,1,12
+1998,Cycling,3,Kazakhstan,2,2,1,5
+1998,Cycling,4,South Korea,2,1,2,5
+1998,Cycling,5,Thailand,2,1,1,4
+1998,Cycling,6,Hong Kong,1,0,1,2
+1998,Cycling,6,Iran,1,0,1,2
+1998,Cycling,8,Chinese Taipei,0,0,3,3
+1998,Cycling,9,Kyrgyzstan,0,0,1,1
+1998,Cycling,9,Philippines,0,0,1,1
+1998,Dancesport,1,Chinese Taipei,1,1,0,2
+1998,Dancesport,2,Thailand,1,0,0,1
+1998,Dancesport,3,China,0,1,2,3
+1998,Diving,1,China,4,4,0,8
+1998,Diving,2,Thailand,0,0,2,2
+1998,Diving,3,Kazakhstan,0,0,1,1
+1998,Diving,3,North Korea,0,0,1,1
+1998,Equestrian,1,Japan,3,1,1,5
+1998,Equestrian,2,South Korea,2,3,0,5
+1998,Equestrian,3,Thailand,1,1,2,4
+1998,Equestrian,4,Malaysia,0,1,1,2
+1998,Equestrian,5,India,0,0,1,1
+1998,Equestrian,5,Kuwait,0,0,1,1
+1998,Fencing,1,South Korea,5,5,2,12
+1998,Fencing,2,China,5,3,5,13
+1998,Fencing,3,Japan,0,1,2,3
+1998,Fencing,4,Kazakhstan,0,1,0,1
+1998,Fencing,5,Iran,0,0,1,1
+1998,Field hockey,1,India,1,0,0,1
+1998,Field hockey,2,South Korea,0,1,0,1
+1998,Field hockey,3,Pakistan,0,0,1,1
+1998,Football,1,China,1,0,1,2
+1998,Football,2,Iran,1,0,0,1
+1998,Football,3,Kuwait,0,1,0,1
+1998,Football,3,North Korea,0,1,0,1
+1998,Football,5,Japan,0,0,1,1
+1998,Golf,1,Chinese Taipei,2,1,1,4
+1998,Golf,2,Japan,2,0,1,3
+1998,Golf,3,Philippines,0,2,1,3
+1998,Golf,4,South Korea,0,1,1,2
+1998,Gymnastics,1,China,14,6,5,25
+1998,Gymnastics,2,North Korea,1,4,0,5
+1998,Gymnastics,3,South Korea,1,2,2,5
+1998,Gymnastics,4,Thailand,1,0,0,1
+1998,Gymnastics,5,Japan,0,3,7,10
+1998,Gymnastics,6,Kazakhstan,0,2,4,6
+1998,Gymnastics,7,Uzbekistan,0,1,0,1
+1998,Gymnastics,8,Chinese Taipei,0,0,2,2
+1998,Handball,1,South Korea,2,0,0,2
+1998,Handball,2,Kuwait,0,1,0,1
+1998,Handball,2,North Korea,0,1,0,1
+1998,Handball,4,Japan,0,0,2,2
+1998,Judo,1,Japan,5,4,3,12
+1998,Judo,10,Thailand,0,0,2,2
+1998,Judo,2,China,3,2,4,9
+1998,Judo,3,South Korea,3,1,6,10
+1998,Judo,4,Mongolia,2,0,4,6
+1998,Judo,5,North Korea,1,2,0,3
+1998,Judo,6,Kazakhstan,0,2,2,4
+1998,Judo,7,Iran,0,1,3,4
+1998,Judo,8,Chinese Taipei,0,1,2,3
+1998,Judo,8,Uzbekistan,0,1,2,3
+1998,Kabaddi,1,India,1,0,0,1
+1998,Kabaddi,2,Pakistan,0,1,0,1
+1998,Kabaddi,3,Bangladesh,0,0,1,1
+1998,Karate,1,Japan,5,1,1,7
+1998,Karate,10,Nepal,0,0,1,1
+1998,Karate,2,Malaysia,2,0,4,6
+1998,Karate,3,Iran,1,3,0,4
+1998,Karate,4,Indonesia,1,2,3,6
+1998,Karate,5,Chinese Taipei,1,1,2,4
+1998,Karate,6,Kuwait,1,1,1,3
+1998,Karate,7,Vietnam,0,1,4,5
+1998,Karate,8,Thailand,0,1,2,3
+1998,Karate,9,Syria,0,0,2,2
+1998,Rowing,1,China,11,0,0,11
+1998,Rowing,2,Japan,0,6,1,7
+1998,Rowing,3,Hong Kong,0,2,0,2
+1998,Rowing,4,North Korea,0,1,4,5
+1998,Rowing,5,Indonesia,0,1,0,1
+1998,Rowing,5,Kazakhstan,0,1,0,1
+1998,Rowing,7,India,0,0,2,2
+1998,Rowing,7,Pakistan,0,0,2,2
+1998,Rowing,9,Chinese Taipei,0,0,1,1
+1998,Rowing,9,Thailand,0,0,1,1
+1998,Rugby union,1,South Korea,2,0,0,2
+1998,Rugby union,2,Japan,0,2,0,2
+1998,Rugby union,3,Chinese Taipei,0,0,1,1
+1998,Rugby union,3,Thailand,0,0,1,1
+1998,Sailing,1,South Korea,6,1,3,10
+1998,Sailing,10,Chinese Taipei,0,1,0,1
+1998,Sailing,11,Sri Lanka,0,0,1,1
+1998,Sailing,2,China,3,3,2,8
+1998,Sailing,3,Thailand,3,1,4,8
+1998,Sailing,4,Singapore,2,1,3,6
+1998,Sailing,5,Hong Kong,1,1,1,3
+1998,Sailing,6,Indonesia,1,0,0,1
+1998,Sailing,7,Japan,0,4,1,5
+1998,Sailing,8,Malaysia,0,3,0,3
+1998,Sailing,9,Pakistan,0,1,1,2
+1998,Sepak takraw,1,Thailand,5,0,1,6
+1998,Sepak takraw,2,Myanmar,1,3,2,6
+1998,Sepak takraw,3,Malaysia,0,2,1,3
+1998,Sepak takraw,4,Vietnam,0,1,2,3
+1998,Sepak takraw,5,China,0,0,2,2
+1998,Sepak takraw,6,Brunei,0,0,1,1
+1998,Sepak takraw,6,Singapore,0,0,1,1
+1998,Shooting,1,China,18,8,8,34
+1998,Shooting,10,Kyrgyzstan,0,2,0,2
+1998,Shooting,11,Uzbekistan,0,1,1,2
+1998,Shooting,12,Mongolia,0,0,1,1
+1998,Shooting,12,Singapore,0,0,1,1
+1998,Shooting,2,Kazakhstan,3,6,4,13
+1998,Shooting,3,Thailand,3,3,5,11
+1998,Shooting,4,Kuwait,3,3,1,7
+1998,Shooting,5,North Korea,3,1,2,6
+1998,Shooting,6,South Korea,2,5,5,12
+1998,Shooting,7,Japan,1,3,5,9
+1998,Shooting,8,Turkmenistan,1,0,0,1
+1998,Shooting,9,India,0,2,1,3
+1998,Soft tennis,1,South Korea,3,0,1,4
+1998,Soft tennis,2,Chinese Taipei,1,3,1,5
+1998,Soft tennis,3,Japan,0,1,2,3
+1998,Softball,1,China,1,0,0,1
+1998,Softball,2,Japan,0,1,0,2
+1998,Softball,2,Chinese Taipei,0,1,0,0
+1998,Squash,1,Pakistan,1,1,0,2
+1998,Squash,2,Malaysia,1,0,1,2
+1998,Squash,3,Hong Kong,0,1,1,2
+1998,Squash,4,Singapore,0,0,2,2
+1998,Swimming,1,Japan,15,12,10,37
+1998,Swimming,2,China,13,17,3,33
+1998,Swimming,3,Thailand,1,3,1,5
+1998,Swimming,4,Malaysia,1,1,1,3
+1998,Swimming,5,South Korea,1,0,7,8
+1998,Swimming,6,Chinese Taipei,1,0,4,5
+1998,Swimming,7,Kazakhstan,0,0,3,3
+1998,Swimming,8,Philippines,0,0,2,2
+1998,Swimming,9,Hong Kong,0,0,1,1
+1998,Swimming,9,Syria,0,0,1,1
+1998,Table tennis,1,China,6,2,1,9
+1998,Table tennis,2,South Korea,1,3,4,8
+1998,Table tennis,3,Hong Kong,0,1,1,2
+1998,Table tennis,3,North Korea,0,1,1,2
+1998,Table tennis,5,Chinese Taipei,0,0,5,5
+1998,Table tennis,6,Japan,0,0,2,2
+1998,Taekwondo,1,South Korea,11,1,0,12
+1998,Taekwondo,11,Malaysia,0,1,1,2
+1998,Taekwondo,12,Japan,0,0,2,2
+1998,Taekwondo,12,Kazakhstan,0,0,2,2
+1998,Taekwondo,14,Kuwait,0,0,1,1
+1998,Taekwondo,2,Chinese Taipei,3,1,3,7
+1998,Taekwondo,3,Vietnam,1,2,3,6
+1998,Taekwondo,4,Iran,1,1,3,5
+1998,Taekwondo,5,Thailand,0,3,5,8
+1998,Taekwondo,6,Jordan,0,3,1,4
+1998,Taekwondo,7,China,0,1,4,5
+1998,Taekwondo,8,Philippines,0,1,3,4
+1998,Taekwondo,9,Indonesia,0,1,2,3
+1998,Taekwondo,9,Nepal,0,1,2,3
+1998,Tennis,1,South Korea,2,3,0,5
+1998,Tennis,2,Japan,1,2,3,6
+1998,Tennis,3,China,1,1,4,6
+1998,Tennis,4,Thailand,1,1,0,2
+1998,Tennis,5,Chinese Taipei,1,0,1,2
+1998,Tennis,5,Indonesia,1,0,1,2
+1998,Tennis,7,India,0,0,4,4
+1998,Tennis,8,Uzbekistan,0,0,1,1
+1998,Volleyball,1,China,2,0,0,2
+1998,Volleyball,2,South Korea,0,2,0,2
+1998,Volleyball,3,Chinese Taipei,0,0,1,1
+1998,Volleyball,3,Japan,0,0,1,1
+1998,Water Polo,1,Kazakhstan,1,0,0,1
+1998,Water Polo,2,Uzbekistan,0,1,0,1
+1998,Water Polo,3,China,0,0,1,1
+1998,Weightlifting,1,China,11,2,0,13
+1998,Weightlifting,10,Indonesia,0,0,1,1
+1998,Weightlifting,10,Japan,0,0,1,1
+1998,Weightlifting,10,Thailand,0,0,1,1
+1998,Weightlifting,2,South Korea,2,1,2,5
+1998,Weightlifting,3,Iran,1,2,2,5
+1998,Weightlifting,4,Kazakhstan,1,2,1,4
+1998,Weightlifting,5,Myanmar,0,3,2,5
+1998,Weightlifting,6,Chinese Taipei,0,2,3,5
+1998,Weightlifting,7,North Korea,0,1,1,2
+1998,Weightlifting,7,Uzbekistan,0,1,1,2
+1998,Weightlifting,9,India,0,1,0,1
+1998,Wrestling,1,South Korea,7,0,2,9
+1998,Wrestling,10,China,0,0,4,4
+1998,Wrestling,2,Iran,5,1,1,7
+1998,Wrestling,3,Kazakhstan,2,1,3,6
+1998,Wrestling,4,North Korea,2,1,0,3
+1998,Wrestling,5,Uzbekistan,0,6,2,8
+1998,Wrestling,6,Japan,0,2,2,4
+1998,Wrestling,6,Mongolia,0,2,2,4
+1998,Wrestling,8,Syria,0,2,0,2
+1998,Wrestling,9,Kyrgyzstan,0,1,0,1
+1998,Wushu,1,China,9,1,0,10
+1998,Wushu,11,Kazakhstan,0,0,2,2
+1998,Wushu,12,Indonesia,0,0,1,1
+1998,Wushu,12,Laos,0,0,1,1
+1998,Wushu,12,Singapore,0,0,1,1
+1998,Wushu,2,Chinese Taipei,1,1,3,5
+1998,Wushu,3,Hong Kong,1,1,0,2
+1998,Wushu,4,Thailand,0,2,3,5
+1998,Wushu,5,Philippines,0,2,2,4
+1998,Wushu,6,Vietnam,0,1,2,3
+1998,Wushu,7,Japan,0,1,1,2
+1998,Wushu,7,Malaysia,0,1,1,2
+1998,Wushu,9,Iran,0,1,0,1
+1998,Wushu,9,Macau,0,1,0,1
+2002,Archery,1,South Korea,2,1,2,5
+2002,Archery,2,Chinese Taipei,1,2,0,3
+2002,Archery,3,Japan,1,1,0,2
+2002,Archery,4,China,0,0,1,1
+2002,Archery,4,Kazakhstan,0,0,1,1
+2002,Artistic swimming,1,Japan,2,0,0,2
+2002,Artistic swimming,2,China,0,1,1,2
+2002,Artistic swimming,2,South Korea,0,1,1,2
+2002,Athletics,1,China,14,14,13,41
+2002,Athletics,10,Thailand,1,1,2,4
+2002,Athletics,11,Kyrgyzstan,1,1,0,2
+2002,Athletics,12,Kuwait,1,0,0,1
+2002,Athletics,12,North Korea,1,0,0,1
+2002,Athletics,14,Uzbekistan,0,1,3,4
+2002,Athletics,15,Iran,0,1,0,1
+2002,Athletics,2,India,7,6,4,17
+2002,Athletics,3,Saudi Arabia,7,1,0,8
+2002,Athletics,4,Kazakhstan,3,4,5,12
+2002,Athletics,5,South Korea,3,2,1,6
+2002,Athletics,6,Japan,2,13,8,23
+2002,Athletics,7,Bahrain,2,1,1,4
+2002,Athletics,8,Sri Lanka,2,0,2,4
+2002,Athletics,9,Qatar,1,4,3,8
+2002,Badminton,1,South Korea,4,2,3,9
+2002,Badminton,2,China,2,2,3,7
+2002,Badminton,3,Indonesia,1,1,3,5
+2002,Badminton,4,Thailand,0,2,1,3
+2002,Badminton,5,Hong Kong,0,0,2,2
+2002,Badminton,5,Malaysia,0,0,2,2
+2002,Baseball,1,South Korea,1,0,0,1
+2002,Baseball,2,Chinese Taipei,0,1,0,1
+2002,Baseball,3,Japan,0,0,1,1
+2002,Basketball,1,China,1,1,0,2
+2002,Basketball,1,South Korea,1,1,0,2
+2002,Basketball,3,Chinese Taipei,0,0,1,1
+2002,Basketball,3,Kazakhstan,0,0,1,1
+2002,Beach volleyball,1,China,1,1,1,3
+2002,Beach volleyball,2,Japan,1,0,1,2
+2002,Beach volleyball,3,Indonesia,0,1,0,1
+2002,Bodybuilding,1,South Korea,3,0,2,5
+2002,Bodybuilding,10,Myanmar,0,0,1,1
+2002,Bodybuilding,10,Qatar,0,0,1,1
+2002,Bodybuilding,2,Singapore,2,2,1,5
+2002,Bodybuilding,3,Bahrain,1,1,1,3
+2002,Bodybuilding,4,Vietnam,1,0,1,2
+2002,Bodybuilding,5,Lebanon,1,0,0,1
+2002,Bodybuilding,6,Japan,0,2,1,3
+2002,Bodybuilding,7,Hong Kong,0,1,0,1
+2002,Bodybuilding,7,Indonesia,0,1,0,1
+2002,Bodybuilding,7,Malaysia,0,1,0,1
+2002,Bowling,1,South Korea,3,2,2,7
+2002,Bowling,2,Singapore,3,0,0,3
+2002,Bowling,3,Malaysia,2,1,1,4
+2002,Bowling,4,Philippines,1,2,1,4
+2002,Bowling,5,Japan,1,2,0,3
+2002,Bowling,6,United Arab Emirates,0,2,1,3
+2002,Bowling,7,Chinese Taipei,0,1,4,5
+2002,Bowling,8,Qatar,0,1,1,2
+2002,Bowling,9,Thailand,0,1,0,1
+2002,Boxing,1,Uzbekistan,5,1,3,9
+2002,Boxing,11,Malaysia,0,0,1,1
+2002,Boxing,11,Palestine,0,0,1,1
+2002,Boxing,2,South Korea,3,2,5,10
+2002,Boxing,3,Kazakhstan,2,3,2,7
+2002,Boxing,4,Pakistan,1,4,1,6
+2002,Boxing,5,Thailand,1,1,2,4
+2002,Boxing,6,Philippines,0,1,0,1
+2002,Boxing,7,China,0,0,3,3
+2002,Boxing,8,Kyrgyzstan,0,0,2,2
+2002,Boxing,8,Syria,0,0,2,2
+2002,Boxing,8,Tajikistan,0,0,2,2
+2002,Canoeing,1,China,8,2,2,12
+2002,Canoeing,2,Kazakhstan,3,4,2,9
+2002,Canoeing,3,Uzbekistan,2,1,5,8
+2002,Canoeing,4,South Korea,0,5,2,7
+2002,Canoeing,5,Japan,0,1,2,3
+2002,Cue sports,1,Chinese Taipei,2,1,0,3
+2002,Cue sports,1,Thailand,2,1,0,3
+2002,Cue sports,10,Japan,0,0,2,2
+2002,Cue sports,10,Pakistan,0,0,2,2
+2002,Cue sports,12,Kuwait,0,0,1,1
+2002,Cue sports,3,South Korea,1,2,1,4
+2002,Cue sports,4,Hong Kong,1,1,1,3
+2002,Cue sports,4,India,1,1,1,3
+2002,Cue sports,4,Philippines,1,1,1,3
+2002,Cue sports,7,China,1,1,0,2
+2002,Cue sports,7,Vietnam,1,1,0,2
+2002,Cue sports,9,Myanmar,0,1,1,2
+2002,Cycling,1,China,6,2,3,11
+2002,Cycling,11,Hong Kong,0,0,2,2
+2002,Cycling,2,Japan,5,10,4,19
+2002,Cycling,3,South Korea,5,2,6,13
+2002,Cycling,4,Kazakhstan,2,1,1,4
+2002,Cycling,5,Chinese Taipei,1,0,1,2
+2002,Cycling,5,Uzbekistan,1,0,1,2
+2002,Cycling,7,Indonesia,0,2,2,4
+2002,Cycling,8,Iran,0,1,0,1
+2002,Cycling,8,Kyrgyzstan,0,1,0,1
+2002,Cycling,8,Malaysia,0,1,0,1
+2002,Diving,1,China,8,4,0,12
+2002,Diving,2,North Korea,0,2,2,4
+2002,Diving,3,South Korea,0,2,1,3
+2002,Diving,4,Malaysia,0,0,3,3
+2002,Diving,5,Japan,0,0,2,2
+2002,Equestrian,1,South Korea,2,4,0,6
+2002,Equestrian,2,Japan,2,1,3,6
+2002,Equestrian,3,Philippines,1,1,0,2
+2002,Equestrian,4,Thailand,1,0,0,1
+2002,Equestrian,5,China,0,0,1,1
+2002,Equestrian,5,India,0,0,1,1
+2002,Equestrian,5,Malaysia,0,0,1,1
+2002,Fencing,1,South Korea,6,6,3,15
+2002,Fencing,2,China,5,6,3,14
+2002,Fencing,3,Kazakhstan,1,0,2,3
+2002,Fencing,4,Japan,0,0,3,3
+2002,Fencing,5,Hong Kong,0,0,1,1
+2002,Field hockey,1,South Korea,1,1,0,2
+2002,Field hockey,2,China,1,0,0,1
+2002,Field hockey,3,India,0,1,0,1
+2002,Field hockey,4,Japan,0,0,1,1
+2002,Field hockey,4,Malaysia,0,0,1,1
+2002,Football,1,Iran,1,0,0,1
+2002,Football,1,North Korea,1,0,0,1
+2002,Football,3,Japan,0,1,1,2
+2002,Football,4,China,0,1,0,1
+2002,Football,5,South Korea,0,0,1,1
+2002,Golf,1,South Korea,1,2,2,5
+2002,Golf,2,Japan,1,1,1,3
+2002,Golf,3,Chinese Taipei,1,0,0,1
+2002,Golf,3,India,1,0,0,1
+2002,Golf,5,Sri Lanka,0,1,0,1
+2002,Golf,6,Philippines,0,0,1,1
+2002,Gymnastics,1,China,15,3,3,21
+2002,Gymnastics,2,South Korea,3,2,4,9
+2002,Gymnastics,3,North Korea,2,2,2,6
+2002,Gymnastics,4,Uzbekistan,2,2,0,4
+2002,Gymnastics,5,Japan,1,0,5,6
+2002,Gymnastics,6,Kazakhstan,0,2,0,2
+2002,Gymnastics,7,Chinese Taipei,0,0,1,1
+2002,Handball,1,South Korea,2,0,0,2
+2002,Handball,2,Kazakhstan,0,1,0,1
+2002,Handball,2,Kuwait,0,1,0,1
+2002,Handball,4,China,0,0,1,1
+2002,Handball,4,Qatar,0,0,1,1
+2002,Judo,1,Japan,7,4,3,14
+2002,Judo,10,Chinese Taipei,0,0,2,2
+2002,Judo,11,Thailand,0,0,1,1
+2002,Judo,2,South Korea,4,5,5,14
+2002,Judo,3,China,3,1,4,8
+2002,Judo,4,Iran,1,1,3,5
+2002,Judo,5,North Korea,1,1,2,4
+2002,Judo,6,Mongolia,0,1,5,6
+2002,Judo,7,Kazakhstan,0,1,3,4
+2002,Judo,7,Uzbekistan,0,1,3,4
+2002,Judo,9,Turkmenistan,0,1,1,2
+2002,Kabaddi,1,India,1,0,0,1
+2002,Kabaddi,2,Bangladesh,0,1,0,1
+2002,Kabaddi,3,Pakistan,0,0,1,1
+2002,Karate,1,Japan,3,1,1,5
+2002,Karate,10,Hong Kong,0,1,0,1
+2002,Karate,11,Chinese Taipei,0,0,3,3
+2002,Karate,12,Philippines,0,0,2,2
+2002,Karate,13,Brunei,0,0,1,1
+2002,Karate,13,Qatar,0,0,1,1
+2002,Karate,13,South Korea,0,0,1,1
+2002,Karate,13,Sri Lanka,0,0,1,1
+2002,Karate,13,Tajikistan,0,0,1,1
+2002,Karate,2,Iran,2,3,0,5
+2002,Karate,3,Malaysia,2,1,2,5
+2002,Karate,4,Vietnam,2,0,1,3
+2002,Karate,5,Kuwait,1,0,3,4
+2002,Karate,6,Indonesia,1,0,1,2
+2002,Karate,7,Kazakhstan,0,2,1,3
+2002,Karate,7,Uzbekistan,0,2,1,3
+2002,Karate,9,Macau,0,1,2,3
+2002,Modern pentathlon,1,South Korea,4,1,1,6
+2002,Modern pentathlon,2,Kazakhstan,2,0,2,4
+2002,Modern pentathlon,3,China,0,4,2,6
+2002,Modern pentathlon,4,Kyrgyzstan,0,1,0,1
+2002,Modern pentathlon,5,Japan,0,0,1,1
+2002,Rowing,1,China,12,1,0,13
+2002,Rowing,2,Japan,1,5,1,7
+2002,Rowing,3,Uzbekistan,0,2,2,4
+2002,Rowing,4,Thailand,0,2,0,2
+2002,Rowing,5,Hong Kong,0,1,2,3
+2002,Rowing,6,Chinese Taipei,0,1,0,1
+2002,Rowing,6,Kazakhstan,0,1,0,1
+2002,Rowing,8,South Korea,0,0,3,3
+2002,Rowing,9,India,0,0,1,1
+2002,Rowing,9,Indonesia,0,0,1,1
+2002,Rowing,9,North Korea,0,0,1,1
+2002,Rowing,9,Pakistan,0,0,1,1
+2002,Rowing,9,Philippines,0,0,1,1
+2002,Rugby union,1,South Korea,2,0,0,2
+2002,Rugby union,2,Chinese Taipei,0,1,1,2
+2002,Rugby union,3,Japan,0,1,0,1
+2002,Rugby union,4,Thailand,0,0,1,1
+2002,Sailing,1,China,6,4,1,11
+2002,Sailing,10,Singapore,0,0,4,4
+2002,Sailing,2,South Korea,6,2,2,10
+2002,Sailing,3,Japan,1,3,4,8
+2002,Sailing,4,Hong Kong,1,0,1,2
+2002,Sailing,5,Indonesia,1,0,0,1
+2002,Sailing,6,Thailand,0,3,1,4
+2002,Sailing,7,India,0,1,2,3
+2002,Sailing,8,Malaysia,0,1,0,1
+2002,Sailing,8,Pakistan,0,1,0,1
+2002,Sepak takraw,1,Thailand,5,1,0,6
+2002,Sepak takraw,2,South Korea,1,0,3,4
+2002,Sepak takraw,3,Myanmar,0,2,2,4
+2002,Sepak takraw,4,Vietnam,0,1,2,3
+2002,Sepak takraw,5,China,0,1,1,2
+2002,Sepak takraw,5,Malaysia,0,1,1,2
+2002,Sepak takraw,7,Japan,0,0,2,2
+2002,Sepak takraw,8,Singapore,0,0,1,1
+2002,Shooting,1,China,27,16,7,50
+2002,Shooting,10,India,0,2,0,2
+2002,Shooting,11,Philippines,0,0,2,2
+2002,Shooting,12,Iran,0,0,1,1
+2002,Shooting,12,Kyrgyzstan,0,0,1,1
+2002,Shooting,12,Mongolia,0,0,1,1
+2002,Shooting,12,Vietnam,0,0,1,1
+2002,Shooting,2,South Korea,6,12,11,29
+2002,Shooting,3,Kazakhstan,2,4,8,14
+2002,Shooting,4,North Korea,2,4,5,11
+2002,Shooting,5,Qatar,2,0,0,2
+2002,Shooting,6,Chinese Taipei,1,1,2,4
+2002,Shooting,7,Turkmenistan,1,1,0,2
+2002,Shooting,8,Thailand,1,0,0,1
+2002,Shooting,9,Japan,0,2,3,5
+2002,Soft tennis,1,South Korea,7,3,2,12
+2002,Soft tennis,2,Japan,0,3,0,3
+2002,Soft tennis,3,Chinese Taipei,0,1,4,5
+2002,Soft tennis,4,China,0,0,1,1
+2002,Softball,1,Japan,1,0,0,1
+2002,Softball,2,Chinese Taipei,0,1,0,1
+2002,Softball,3,China,0,1,0,1
+2002,Squash,1,Malaysia,1,1,2,4
+2002,Squash,2,Hong Kong,1,0,0,1
+2002,Squash,3,Pakistan,0,1,1,2
+2002,Squash,4,South Korea,0,0,1,1
+2002,Swimming,1,China,20,11,8,39
+2002,Swimming,2,Japan,11,18,13,42
+2002,Swimming,3,South Korea,1,2,8,11
+2002,Swimming,4,Uzbekistan,1,0,0,1
+2002,Swimming,5,Malaysia,0,1,0,1
+2002,Swimming,6,Singapore,0,0,1,1
+2002,Swimming,6,Thailand,0,0,1,1
+2002,Table tennis,1,China,3,3,6,12
+2002,Table tennis,2,South Korea,2,3,3,8
+2002,Table tennis,3,Hong Kong,1,0,1,2
+2002,Table tennis,4,North Korea,1,0,0,1
+2002,Table tennis,5,Chinese Taipei,0,1,1,2
+2002,Table tennis,6,Singapore,0,0,2,2
+2002,Table tennis,7,Japan,0,0,1,1
+2002,Taekwondo,1,South Korea,12,3,1,16
+2002,Taekwondo,13,Afghanistan,0,0,1,1
+2002,Taekwondo,13,India,0,0,1,1
+2002,Taekwondo,13,Kuwait,0,0,1,1
+2002,Taekwondo,13,Qatar,0,0,1,1
+2002,Taekwondo,13,Saudi Arabia,0,0,1,1
+2002,Taekwondo,13,Uzbekistan,0,0,1,1
+2002,Taekwondo,13,Yemen,0,0,1,1
+2002,Taekwondo,2,Chinese Taipei,3,4,0,7
+2002,Taekwondo,3,Iran,1,1,2,4
+2002,Taekwondo,4,Vietnam,0,4,1,5
+2002,Taekwondo,5,China,0,2,5,7
+2002,Taekwondo,6,Thailand,0,2,0,2
+2002,Taekwondo,7,Philippines,0,0,5,5
+2002,Taekwondo,8,Nepal,0,0,3,3
+2002,Taekwondo,9,Indonesia,0,0,2,2
+2002,Taekwondo,9,Jordan,0,0,2,2
+2002,Taekwondo,9,Kazakhstan,0,0,2,2
+2002,Taekwondo,9,Malaysia,0,0,2,2
+2002,Tennis,1,South Korea,1,3,3,7
+2002,Tennis,2,Japan,1,1,4,6
+2002,Tennis,3,India,1,1,2,4
+2002,Tennis,4,Indonesia,1,1,1,3
+2002,Tennis,5,Thailand,1,1,0,2
+2002,Tennis,6,Uzbekistan,1,0,3,4
+2002,Tennis,7,Chinese Taipei,1,0,1,2
+2002,Volleyball,1,South Korea,1,1,0,2
+2002,Volleyball,2,China,1,0,0,1
+2002,Volleyball,3,Iran,0,1,0,1
+2002,Volleyball,4,Japan,0,0,2,2
+2002,Water polo,1,Kazakhstan,1,0,0,1
+2002,Water polo,2,Japan,0,1,0,1
+2002,Water polo,3,China,0,0,1,1
+2002,Weightlifting,1,China,9,1,1,11
+2002,Weightlifting,11,Uzbekistan,0,1,1,2
+2002,Weightlifting,12,Japan,0,0,1,1
+2002,Weightlifting,2,Kazakhstan,2,1,0,3
+2002,Weightlifting,3,Iran,1,3,3,7
+2002,Weightlifting,4,South Korea,1,1,4,6
+2002,Weightlifting,5,North Korea,1,1,0,2
+2002,Weightlifting,6,Qatar,1,0,0,1
+2002,Weightlifting,7,Thailand,0,3,0,3
+2002,Weightlifting,8,Myanmar,0,2,1,3
+2002,Weightlifting,9,Chinese Taipei,0,1,2,3
+2002,Weightlifting,9,Indonesia,0,1,2,3
+2002,Wrestling,1,South Korea,6,6,0,12
+2002,Wrestling,10,North Korea,0,1,1,2
+2002,Wrestling,11,India,0,0,1,1
+2002,Wrestling,11,Syria,0,0,1,1
+2002,Wrestling,2,Japan,3,2,1,6
+2002,Wrestling,3,Uzbekistan,3,1,1,5
+2002,Wrestling,4,Kazakhstan,2,2,0,4
+2002,Wrestling,5,China,2,0,0,2
+2002,Wrestling,6,Iran,1,2,5,8
+2002,Wrestling,7,Mongolia,1,0,4,5
+2002,Wrestling,8,Kyrgyzstan,0,2,3,5
+2002,Wrestling,9,Tajikistan,0,2,1,3
+2002,Wushu,1,China,5,1,2,8
+2002,Wushu,10,Vietnam,0,1,1,2
+2002,Wushu,11,Macau,0,1,0,1
+2002,Wushu,12,Laos,0,0,2,2
+2002,Wushu,12,Mongolia,0,0,2,2
+2002,Wushu,14,Singapore,0,0,1,1
+2002,Wushu,2,Thailand,2,1,1,4
+2002,Wushu,3,Iran,1,1,0,2
+2002,Wushu,3,South Korea,1,1,0,2
+2002,Wushu,5,Myanmar,1,0,1,2
+2002,Wushu,6,Malaysia,1,0,0,1
+2002,Wushu,7,Philippines,0,2,3,5
+2002,Wushu,8,Hong Kong,0,2,1,3
+2002,Wushu,9,Chinese Taipei,0,1,2,3
+2006,Archery,1,South Korea,4,1,0,5
+2006,Archery,2,Chinese Taipei,0,1,2,3
+2006,Archery,3,China,0,1,1,2
+2006,Archery,4,Japan,0,1,0,1
+2006,Archery,5,India,0,0,1,1
+2006,Artistic swimming,1,China,2,0,0,2
+2006,Artistic swimming,2,Japan,0,2,0,2
+2006,Artistic swimming,3,Kazakhstan,0,0,1,1
+2006,Artistic swimming,3,North Korea,0,0,1,1
+2006,Athletics,1,China,14,9,8,31
+2006,Athletics,10,South Korea,1,1,3,5
+2006,Athletics,11,Iran,1,0,1,2
+2006,Athletics,12,Lebanon,1,0,0,1
+2006,Athletics,12,Tajikistan,1,0,0,1
+2006,Athletics,14,Kuwait,0,3,1,4
+2006,Athletics,15,Sri Lanka,0,1,2,3
+2006,Athletics,16,Malaysia,0,1,1,2
+2006,Athletics,17,Kyrgyzstan,0,1,0,1
+2006,Athletics,18,Chinese Taipei,0,0,3,3
+2006,Athletics,2,Bahrain,6,5,3,14
+2006,Athletics,3,Japan,5,9,13,27
+2006,Athletics,4,Saudi Arabia,5,0,2,7
+2006,Athletics,5,Kazakhstan,4,4,1,9
+2006,Athletics,6,Qatar,3,4,1,8
+2006,Athletics,7,Thailand,2,0,1,3
+2006,Athletics,8,India,1,4,4,9
+2006,Athletics,9,Uzbekistan,1,4,1,6
+2006,Badminton,1,China,4,3,1,8
+2006,Badminton,2,Indonesia,1,1,2,4
+2006,Badminton,3,Hong Kong,1,1,0,2
+2006,Badminton,4,Malaysia,1,0,3,4
+2006,Badminton,5,South Korea,0,1,5,6
+2006,Badminton,6,Japan,0,1,1,2
+2006,Badminton,7,Singapore,0,0,1,1
+2006,Badminton,7,Thailand,0,0,1,1
+2006,Baseball,1,Chinese Taipei,1,0,0,1
+2006,Baseball,2,Japan,0,1,0,1
+2006,Baseball,3,South Korea,0,0,1,1
+2006,Basketball,1,China,2,0,0,2
+2006,Basketball,2,Chinese Taipei,0,1,0,1
+2006,Basketball,2,Qatar,0,1,0,1
+2006,Basketball,4,Iran,0,0,1,1
+2006,Basketball,4,Japan,0,0,1,1
+2006,Bodybuilding,1,Qatar,2,1,0,3
+2006,Bodybuilding,13,South Korea,0,0,2,2
+2006,Bodybuilding,14,Jordan,0,0,1,1
+2006,Bodybuilding,14,Macau,0,0,1,1
+2006,Bodybuilding,2,Bahrain,1,2,0,3
+2006,Bodybuilding,3,Singapore,1,0,2,3
+2006,Bodybuilding,4,Hong Kong,1,0,1,2
+2006,Bodybuilding,5,China,1,0,0,1
+2006,Bodybuilding,5,Thailand,1,0,0,1
+2006,Bodybuilding,5,United Arab Emirates,1,0,0,1
+2006,Bodybuilding,8,Japan,0,1,1,2
+2006,Bodybuilding,9,Indonesia,0,1,0,1
+2006,Bodybuilding,9,Malaysia,0,1,0,1
+2006,Bodybuilding,9,Syria,0,1,0,1
+2006,Bodybuilding,9,Vietnam,0,1,0,1
+2006,Bowling,1,South Korea,4,4,3,11
+2006,Bowling,2,Malaysia,3,3,0,6
+2006,Bowling,3,Saudi Arabia,2,0,2,4
+2006,Bowling,4,Singapore,1,2,2,5
+2006,Bowling,5,Indonesia,1,1,0,2
+2006,Bowling,6,Japan,1,0,1,2
+2006,Bowling,7,United Arab Emirates,0,2,1,3
+2006,Bowling,8,Qatar,0,1,0,1
+2006,Bowling,9,Thailand,0,0,2,2
+2006,Boxing,1,Uzbekistan,3,1,2,6
+2006,Boxing,10,India,0,0,2,2
+2006,Boxing,11,Japan,0,0,1,1
+2006,Boxing,11,North Korea,0,0,1,1
+2006,Boxing,11,Qatar,0,0,1,1
+2006,Boxing,11,Syria,0,0,1,1
+2006,Boxing,2,China,2,0,3,5
+2006,Boxing,3,Philippines,2,0,2,4
+2006,Boxing,4,Thailand,1,3,1,5
+2006,Boxing,5,Kazakhstan,1,2,3,6
+2006,Boxing,6,Iran,1,0,3,4
+2006,Boxing,7,Tajikistan,1,0,0,1
+2006,Boxing,8,South Korea,0,3,1,4
+2006,Boxing,9,Mongolia,0,2,1,3
+2006,Canoeing,1,China,6,2,1,9
+2006,Canoeing,2,Uzbekistan,2,4,2,8
+2006,Canoeing,3,Kazakhstan,2,2,3,7
+2006,Canoeing,4,Japan,0,1,2,3
+2006,Canoeing,5,Iran,0,1,0,1
+2006,Canoeing,6,South Korea,0,0,2,2
+2006,Chess,1,India,2,0,0,2
+2006,Chess,2,Kazakhstan,1,0,0,1
+2006,Chess,3,China,0,2,1,3
+2006,Chess,4,Vietnam,0,1,0,1
+2006,Chess,5,Iran,0,0,1,1
+2006,Chess,5,Qatar,0,0,1,1
+2006,Cue sports,1,China,3,1,2,6
+2006,Cue sports,12,Singapore,0,0,1,1
+2006,Cue sports,2,Chinese Taipei,2,0,2,4
+2006,Cue sports,3,Japan,2,0,0,2
+2006,Cue sports,4,Philippines,1,2,0,3
+2006,Cue sports,5,India,1,1,2,4
+2006,Cue sports,6,Thailand,1,0,2,3
+2006,Cue sports,7,Hong Kong,0,2,0,2
+2006,Cue sports,8,South Korea,0,1,1,2
+2006,Cue sports,9,Malaysia,0,1,0,1
+2006,Cue sports,9,Myanmar,0,1,0,1
+2006,Cue sports,9,Vietnam,0,1,0,1
+2006,Cycling,1,China,6,4,3,13
+2006,Cycling,11,Thailand,0,0,1,1
+2006,Cycling,2,South Korea,5,2,8,15
+2006,Cycling,3,Japan,3,2,2,7
+2006,Cycling,4,Hong Kong,2,0,0,2
+2006,Cycling,5,Kazakhstan,1,2,2,5
+2006,Cycling,6,Iran,0,3,1,4
+2006,Cycling,7,Chinese Taipei,0,1,0,1
+2006,Cycling,7,Kyrgyzstan,0,1,0,1
+2006,Cycling,7,Malaysia,0,1,0,1
+2006,Cycling,7,Uzbekistan,0,1,0,1
+2006,Diving,1,China,10,6,0,16
+2006,Diving,2,Japan,0,2,2,4
+2006,Diving,3,Malaysia,0,1,3,4
+2006,Diving,3,North Korea,0,1,3,4
+2006,Diving,5,South Korea,0,0,2,2
+2006,Equestrian,1,Qatar,2,1,1,4
+2006,Equestrian,1,South Korea,2,1,1,4
+2006,Equestrian,3,United Arab Emirates,2,0,2,4
+2006,Equestrian,4,Japan,1,2,1,4
+2006,Equestrian,5,Saudi Arabia,1,0,0,1
+2006,Equestrian,6,Bahrain,0,2,0,2
+2006,Equestrian,7,Malaysia,0,1,2,3
+2006,Equestrian,8,Chinese Taipei,0,1,0,1
+2006,Equestrian,9,India,0,0,1,1
+2006,Fencing,1,China,7,5,5,17
+2006,Fencing,2,South Korea,4,7,3,14
+2006,Fencing,3,Japan,1,0,6,7
+2006,Fencing,4,Hong Kong,0,0,4,4
+2006,Fencing,5,Iran,0,0,2,2
+2006,Fencing,5,Kazakhstan,0,0,2,2
+2006,Fencing,5,Thailand,0,0,2,2
+2006,Field hockey,1,China,1,1,0,2
+2006,Field hockey,2,South Korea,1,0,0,1
+2006,Field hockey,3,Japan,0,1,0,1
+2006,Field hockey,4,India,0,0,1,1
+2006,Field hockey,4,Pakistan,0,0,1,1
+2006,Football,1,North Korea,1,0,0,1
+2006,Football,1,Qatar,1,0,0,1
+2006,Football,3,Iraq,0,1,0,1
+2006,Football,3,Japan,0,1,0,1
+2006,Football,5,China,0,0,1,1
+2006,Football,5,Iran,0,0,1,1
+2006,Golf,1,South Korea,4,0,1,5
+2006,Golf,2,Japan,0,2,0,2
+2006,Golf,3,Chinese Taipei,0,1,2,3
+2006,Golf,4,India,0,1,0,1
+2006,Golf,5,Philippines,0,0,1,1
+2006,Gymnastics,1,China,13,8,2,23
+2006,Gymnastics,2,North Korea,3,1,2,6
+2006,Gymnastics,3,Japan,2,5,6,13
+2006,Gymnastics,4,South Korea,2,0,4,6
+2006,Gymnastics,5,Kazakhstan,2,0,2,4
+2006,Gymnastics,6,Malaysia,0,1,0,1
+2006,Gymnastics,7,Uzbekistan,0,0,1,1
+2006,Handball,1,Kuwait,1,0,0,1
+2006,Handball,1,South Korea,1,0,0,1
+2006,Handball,3,Kazakhstan,0,1,0,1
+2006,Handball,3,Qatar,0,1,0,1
+2006,Handball,5,Iran,0,0,1,1
+2006,Handball,5,Japan,0,0,1,1
+2006,Judo,1,China,5,0,4,9
+2006,Judo,2,South Korea,4,5,3,12
+2006,Judo,3,Japan,4,3,9,16
+2006,Judo,4,Mongolia,2,3,1,6
+2006,Judo,5,North Korea,1,0,2,3
+2006,Judo,6,Iran,0,3,1,4
+2006,Judo,7,Kazakhstan,0,2,6,8
+2006,Judo,8,Uzbekistan,0,0,4,4
+2006,Judo,9,Chinese Taipei,0,0,1,1
+2006,Judo,9,Tajikistan,0,0,1,1
+2006,Kabaddi,1,India,1,0,0,1
+2006,Kabaddi,2,Pakistan,0,1,0,1
+2006,Kabaddi,3,Bangladesh,0,0,1,1
+2006,Karate,1,Japan,4,3,1,8
+2006,Karate,10,Syria,0,1,0,1
+2006,Karate,10,United Arab Emirates,0,1,0,1
+2006,Karate,12,Indonesia,0,0,3,3
+2006,Karate,12,Jordan,0,0,3,3
+2006,Karate,14,Macau,0,0,2,2
+2006,Karate,14,Qatar,0,0,2,2
+2006,Karate,16,Hong Kong,0,0,1,1
+2006,Karate,16,Saudi Arabia,0,0,1,1
+2006,Karate,16,Thailand,0,0,1,1
+2006,Karate,2,Iran,3,0,2,5
+2006,Karate,3,Kuwait,2,1,0,3
+2006,Karate,4,Vietnam,1,2,1,4
+2006,Karate,5,Chinese Taipei,1,0,3,4
+2006,Karate,6,Kazakhstan,1,0,2,3
+2006,Karate,7,Uzbekistan,1,0,0,1
+2006,Karate,8,Malaysia,0,4,3,7
+2006,Karate,9,Philippines,0,1,1,2
+2006,Rowing,1,China,5,0,1,6
+2006,Rowing,2,Japan,2,3,0,5
+2006,Rowing,3,Uzbekistan,2,0,0,2
+2006,Rowing,4,South Korea,1,2,1,4
+2006,Rowing,5,India,0,2,1,3
+2006,Rowing,6,Thailand,0,1,3,4
+2006,Rowing,7,Hong Kong,0,1,0,1
+2006,Rowing,7,North Korea,0,1,0,1
+2006,Rowing,9,Indonesia,0,0,2,2
+2006,Rowing,9,Kazakhstan,0,0,2,2
+2006,Rugby sevens,1,Japan,1,0,0,1
+2006,Rugby sevens,2,South Korea,0,1,0,1
+2006,Rugby sevens,3,China,0,0,1,1
+2006,Sailing,1,Singapore,5,3,2,10
+2006,Sailing,10,Myanmar,0,0,2,2
+2006,Sailing,11,Indonesia,0,0,1,1
+2006,Sailing,2,China,4,1,1,6
+2006,Sailing,3,Japan,1,4,1,6
+2006,Sailing,4,Hong Kong,1,2,0,3
+2006,Sailing,5,Thailand,1,1,3,5
+2006,Sailing,6,South Korea,1,1,2,4
+2006,Sailing,7,Malaysia,1,0,1,2
+2006,Sailing,8,India,0,1,1,2
+2006,Sailing,9,Qatar,0,1,0,1
+2006,Sepak takraw,1,Thailand,4,1,0,5
+2006,Sepak takraw,2,Vietnam,2,1,0,3
+2006,Sepak takraw,3,Myanmar,0,2,3,5
+2006,Sepak takraw,4,Malaysia,0,2,1,3
+2006,Sepak takraw,5,China,0,0,3,3
+2006,Sepak takraw,5,Indonesia,0,0,3,3
+2006,Sepak takraw,7,Japan,0,0,1,1
+2006,Sepak takraw,7,South Korea,0,0,1,1
+2006,Shooting,1,China,27,12,6,45
+2006,Shooting,11,Singapore,0,1,0,1
+2006,Shooting,11,Turkmenistan,0,1,0,1
+2006,Shooting,11,United Arab Emirates,0,1,0,1
+2006,Shooting,14,Chinese Taipei,0,0,2,2
+2006,Shooting,15,Lebanon,0,0,1,1
+2006,Shooting,15,Mongolia,0,0,1,1
+2006,Shooting,2,Kazakhstan,6,6,7,19
+2006,Shooting,3,South Korea,3,7,10,20
+2006,Shooting,4,India,3,5,6,14
+2006,Shooting,5,Kuwait,3,1,1,5
+2006,Shooting,6,North Korea,1,4,1,6
+2006,Shooting,7,Thailand,1,2,3,6
+2006,Shooting,8,Japan,0,2,0,2
+2006,Shooting,9,Qatar,0,1,3,4
+2006,Shooting,9,Vietnam,0,1,3,4
+2006,Soft tennis,1,Chinese Taipei,3,1,1,5
+2006,Soft tennis,2,Japan,2,3,3,8
+2006,Soft tennis,3,South Korea,2,2,3,7
+2006,Soft tennis,4,China,0,1,0,1
+2006,Softball,1,Japan,1,0,0,1
+2006,Softball,2,Chinese Taipei,0,1,0,1
+2006,Softball,3,China,0,0,1,1
+2006,Squash,1,Malaysia,2,1,1,4
+2006,Squash,2,Hong Kong,0,1,1,2
+2006,Squash,3,India,0,0,1,1
+2006,Squash,3,Pakistan,0,0,1,1
+2006,Swimming,1,China,16,22,6,44
+2006,Swimming,2,Japan,16,14,17,47
+2006,Swimming,3,South Korea,3,2,11,16
+2006,Swimming,4,Kazakhstan,1,0,2,3
+2006,Swimming,5,Singapore,1,0,1,2
+2006,Swimming,6,Syria,1,0,0,1
+2006,Swimming,7,Hong Kong,0,0,1,1
+2006,Table tennis,1,China,6,2,3,11
+2006,Table tennis,2,Hong Kong,1,2,2,5
+2006,Table tennis,3,South Korea,0,2,3,5
+2006,Table tennis,4,Singapore,0,1,2,3
+2006,Table tennis,5,Chinese Taipei,0,0,3,3
+2006,Table tennis,6,North Korea,0,0,1,1
+2006,Taekwondo,1,South Korea,9,1,1,11
+2006,Taekwondo,10,Uzbekistan,0,1,0,1
+2006,Taekwondo,11,Kazakhstan,0,0,3,3
+2006,Taekwondo,11,Nepal,0,0,3,3
+2006,Taekwondo,13,Afghanistan,0,0,1,1
+2006,Taekwondo,13,Bahrain,0,0,1,1
+2006,Taekwondo,13,Indonesia,0,0,1,1
+2006,Taekwondo,13,Lebanon,0,0,1,1
+2006,Taekwondo,13,Tajikistan,0,0,1,1
+2006,Taekwondo,2,China,3,1,2,6
+2006,Taekwondo,3,Iran,1,2,5,8
+2006,Taekwondo,4,Chinese Taipei,1,2,4,7
+2006,Taekwondo,5,Jordan,1,2,0,3
+2006,Taekwondo,6,Qatar,1,0,1,2
+2006,Taekwondo,7,Thailand,0,3,2,5
+2006,Taekwondo,8,Philippines,0,2,3,5
+2006,Taekwondo,8,Vietnam,0,2,3,5
+2006,Tennis,1,India,2,2,0,4
+2006,Tennis,2,China,2,0,3,5
+2006,Tennis,3,Chinese Taipei,1,1,2,4
+2006,Tennis,4,South Korea,1,1,1,3
+2006,Tennis,4,Thailand,1,1,1,3
+2006,Tennis,6,Japan,0,2,4,6
+2006,Tennis,7,Philippines,0,0,2,2
+2006,Tennis,8,Uzbekistan,0,0,1,1
+2006,Triathlon,1,Kazakhstan,1,0,1,2
+2006,Triathlon,2,China,1,0,0,1
+2006,Triathlon,3,Japan,0,1,1,2
+2006,Triathlon,4,Hong Kong,0,1,0,1
+2006,Volleyball,1,China,1,1,0,2
+2006,Volleyball,2,South Korea,1,0,0,1
+2006,Volleyball,3,Japan,0,1,0,1
+2006,Volleyball,4,Chinese Taipei,0,0,1,1
+2006,Volleyball,4,Saudi Arabia,0,0,1,1
+2006,Water polo,1,China,1,0,0,1
+2006,Water polo,2,Japan,0,1,0,1
+2006,Water polo,3,Kazakhstan,0,0,1,1
+2006,Weightlifting,1,China,10,4,0,14
+2006,Weightlifting,11,North Korea,0,0,2,2
+2006,Weightlifting,12,Chinese Taipei,0,0,1,1
+2006,Weightlifting,12,Hong Kong,0,0,1,1
+2006,Weightlifting,12,Indonesia,0,0,1,1
+2006,Weightlifting,12,Uzbekistan,0,0,1,1
+2006,Weightlifting,2,Kazakhstan,2,0,1,3
+2006,Weightlifting,3,Thailand,1,3,2,6
+2006,Weightlifting,4,Iran,1,0,0,1
+2006,Weightlifting,4,Syria,1,0,0,1
+2006,Weightlifting,6,South Korea,0,4,4,8
+2006,Weightlifting,7,Iraq,0,1,1,2
+2006,Weightlifting,7,Myanmar,0,1,1,2
+2006,Weightlifting,9,Qatar,0,1,0,1
+2006,Weightlifting,9,Vietnam,0,1,0,1
+2006,Wrestling,1,South Korea,5,3,3,11
+2006,Wrestling,10,Kyrgyzstan,0,0,6,6
+2006,Wrestling,11,Mongolia,0,0,5,5
+2006,Wrestling,12,Qatar,0,0,1,1
+2006,Wrestling,12,Syria,0,0,1,1
+2006,Wrestling,2,Iran,4,5,1,10
+2006,Wrestling,3,Japan,4,2,3,9
+2006,Wrestling,4,Uzbekistan,2,3,3,8
+2006,Wrestling,5,China,2,1,3,6
+2006,Wrestling,6,Kazakhstan,1,1,3,5
+2006,Wrestling,7,India,0,1,5,6
+2006,Wrestling,8,North Korea,0,1,2,3
+2006,Wrestling,9,Jordan,0,1,0,1
+2006,Wushu,1,China,9,0,0,9
+2006,Wushu,11,South Korea,0,0,3,3
+2006,Wushu,12,India,0,0,1,1
+2006,Wushu,12,Myanmar,0,0,1,1
+2006,Wushu,12,Pakistan,0,0,1,1
+2006,Wushu,12,Singapore,0,0,1,1
+2006,Wushu,12,Thailand,0,0,1,1
+2006,Wushu,12,Yemen,0,0,1,1
+2006,Wushu,2,Philippines,1,1,0,2
+2006,Wushu,3,Malaysia,1,0,2,3
+2006,Wushu,4,Vietnam,0,3,0,3
+2006,Wushu,5,Hong Kong,0,2,0,2
+2006,Wushu,6,Macau,0,1,3,4
+2006,Wushu,7,Iran,0,1,2,3
+2006,Wushu,8,Indonesia,0,1,0,1
+2006,Wushu,8,Japan,0,1,0,1
+2006,Wushu,8,Laos,0,1,0,1
+2010,Archery,1,South Korea,4,0,0,4
+2010,Archery,2,China,0,3,0,3
+2010,Archery,3,India,0,1,2,3
+2010,Archery,4,Chinese Taipei,0,0,1,1
+2010,Archery,4,North Korea,0,0,1,1
+2010,Artistic swimming,1,China,3,0,0,3
+2010,Artistic swimming,2,Japan,0,3,0,3
+2010,Artistic swimming,3,Kazakhstan,0,0,1,1
+2010,Artistic swimming,3,North Korea,0,0,1,1
+2010,Artistic swimming,3,South Korea,0,0,1,1
+2010,Athletics,1,China,13,15,8,36
+2010,Athletics,10,Iran,2,3,0,5
+2010,Athletics,11,Thailand,1,0,2,3
+2010,Athletics,12,Tajikistan,1,0,0,1
+2010,Athletics,13,Vietnam,0,3,2,5
+2010,Athletics,14,Chinese Taipei,0,1,1,2
+2010,Athletics,15,Iraq,0,1,0,1
+2010,Athletics,16,North Korea,0,0,1,1
+2010,Athletics,16,Oman,0,0,1,1
+2010,Athletics,16,United Arab Emirates,0,0,1,1
+2010,Athletics,2,India,5,2,5,12
+2010,Athletics,3,Bahrain,5,0,4,9
+2010,Athletics,4,Japan,4,8,8,20
+2010,Athletics,5,Kazakhstan,4,4,3,11
+2010,Athletics,6,South Korea,4,3,3,10
+2010,Athletics,7,Qatar,3,3,4,10
+2010,Athletics,8,Saudi Arabia,3,2,3,8
+2010,Athletics,9,Uzbekistan,2,3,3,8
+2010,Badminton,1,China,5,3,2,10
+2010,Badminton,2,South Korea,1,1,5,7
+2010,Badminton,3,Indonesia,1,0,3,4
+2010,Badminton,4,Malaysia,0,2,0,2
+2010,Badminton,5,Thailand,0,1,1,2
+2010,Badminton,6,Chinese Taipei,0,0,1,1
+2010,Badminton,6,Hong Kong,0,0,1,1
+2010,Badminton,6,Japan,0,0,1,1
+2010,Baseball,1,South Korea,1,0,0,1
+2010,Baseball,2,Chinese Taipei,0,1,0,1
+2010,Baseball,3,Japan,0,0,1,1
+2010,Basketball,1,China,2,0,0,2
+2010,Basketball,2,South Korea,0,2,0,2
+2010,Basketball,3,Iran,0,0,1,1
+2010,Basketball,3,Japan,0,0,1,1
+2010,Bowling,1,South Korea,8,5,2,15
+2010,Bowling,2,Malaysia,2,1,1,4
+2010,Bowling,3,Singapore,1,3,1,5
+2010,Bowling,4,Philippines,1,0,1,2
+2010,Bowling,5,Kuwait,0,2,0,2
+2010,Bowling,6,Indonesia,0,1,0,1
+2010,Bowling,6,Japan,0,1,0,1
+2010,Bowling,8,China,0,0,4,4
+2010,Bowling,9,Hong Kong,0,0,1,1
+2010,Bowling,9,Qatar,0,0,1,1
+2010,Boxing,1,China,5,3,2,10
+2010,Boxing,10,Japan,0,0,2,2
+2010,Boxing,10,North Korea,0,0,2,2
+2010,Boxing,10,South Korea,0,0,2,2
+2010,Boxing,13,Nepal,0,0,1,1
+2010,Boxing,13,Tajikistan,0,0,1,1
+2010,Boxing,2,India,2,3,4,9
+2010,Boxing,3,Kazakhstan,2,2,2,6
+2010,Boxing,4,Uzbekistan,1,2,2,5
+2010,Boxing,5,Thailand,1,1,2,4
+2010,Boxing,6,Philippines,1,1,1,3
+2010,Boxing,7,Syria,1,0,1,2
+2010,Boxing,8,Mongolia,0,1,1,2
+2010,Boxing,9,Iran,0,0,3,3
+2010,Canoeing,1,China,9,6,4,19
+2010,Canoeing,2,Japan,3,3,6,12
+2010,Canoeing,3,Uzbekistan,3,2,2,7
+2010,Canoeing,4,Iran,1,1,1,3
+2010,Canoeing,5,Kazakhstan,0,4,3,7
+2010,Canoeing,6,Kyrgyzstan,0,0,1,1
+2010,Chess,1,China,3,1,1,5
+2010,Chess,2,Uzbekistan,1,1,0,2
+2010,Chess,3,Vietnam,0,1,1,2
+2010,Chess,4,Philippines,0,1,0,1
+2010,Chess,5,India,0,0,2,2
+2010,Cricket,1,Bangladesh,1,1,0,2
+2010,Cricket,2,Pakistan,1,0,1,2
+2010,Cricket,3,Afghanistan,0,1,0,1
+2010,Cricket,4,Japan,0,0,1,1
+2010,Cue sports,1,China,4,2,2,8
+2010,Cue sports,10,Thailand,0,0,3,3
+2010,Cue sports,11,Vietnam,0,0,2,2
+2010,Cue sports,12,Indonesia,0,0,1,1
+2010,Cue sports,12,Pakistan,0,0,1,1
+2010,Cue sports,12,Singapore,0,0,1,1
+2010,Cue sports,2,Hong Kong,2,0,1,3
+2010,Cue sports,3,Chinese Taipei,1,2,5,8
+2010,Cue sports,4,India,1,1,2,4
+2010,Cue sports,5,Japan,1,1,0,2
+2010,Cue sports,5,Philippines,1,1,0,2
+2010,Cue sports,7,Myanmar,0,1,1,2
+2010,Cue sports,7,South Korea,0,1,1,2
+2010,Cue sports,9,Malaysia,0,1,0,1
+2010,Cycling,1,China,7,4,8,19
+2010,Cycling,10,Iran,0,0,3,3
+2010,Cycling,11,Thailand,0,0,2,2
+2010,Cycling,2,Hong Kong,4,4,1,9
+2010,Cycling,3,South Korea,4,1,0,5
+2010,Cycling,4,Malaysia,1,1,0,2
+2010,Cycling,5,Chinese Taipei,1,0,1,2
+2010,Cycling,6,Uzbekistan,1,0,0,1
+2010,Cycling,7,Japan,0,6,3,9
+2010,Cycling,8,Indonesia,0,1,0,1
+2010,Cycling,8,Kyrgyzstan,0,1,0,1
+2010,Dancesport,1,China,10,0,0,10
+2010,Dancesport,2,South Korea,0,7,3,10
+2010,Dancesport,3,Japan,0,3,4,7
+2010,Dancesport,4,Philippines,0,0,2,2
+2010,Dancesport,5,Kazakhstan,0,0,1,1
+2010,Diving,1,China,10,6,0,16
+2010,Diving,2,Malaysia,0,4,5,9
+2010,Diving,3,North Korea,0,0,2,2
+2010,Diving,4,Japan,0,0,1,1
+2010,Diving,4,Macau,0,0,1,1
+2010,Diving,4,South Korea,0,0,1,1
+2010,Dragon boat,1,Indonesia,3,3,0,6
+2010,Dragon boat,2,China,3,0,2,5
+2010,Dragon boat,3,Myanmar,0,3,0,3
+2010,Dragon boat,4,Thailand,0,0,3,3
+2010,Dragon boat,5,South Korea,0,0,1,1
+2010,Equestrian,1,South Korea,2,1,0,3
+2010,Equestrian,2,Japan,2,0,1,3
+2010,Equestrian,2,Saudi Arabia,2,0,1,3
+2010,Equestrian,4,United Arab Emirates,0,2,0,2
+2010,Equestrian,5,Malaysia,0,1,2,3
+2010,Equestrian,6,China,0,1,1,2
+2010,Equestrian,7,Thailand,0,1,0,1
+2010,Equestrian,8,Hong Kong,0,0,1,1
+2010,Fencing,1,South Korea,7,2,5,14
+2010,Fencing,2,China,4,4,8,16
+2010,Fencing,3,Japan,1,3,4,8
+2010,Fencing,4,Hong Kong,0,2,5,7
+2010,Fencing,5,Kazakhstan,0,1,2,3
+2010,Field hockey,1,China,1,0,0,1
+2010,Field hockey,1,Pakistan,1,0,0,1
+2010,Field hockey,3,Malaysia,0,1,0,1
+2010,Field hockey,3,South Korea,0,1,0,1
+2010,Field hockey,5,India,0,0,1,1
+2010,Field hockey,5,Japan,0,0,1,1
+2010,Football,1,Japan,2,0,0,2
+2010,Football,2,North Korea,0,1,0,1
+2010,Football,2,United Arab Emirates,0,1,0,1
+2010,Football,4,South Korea,0,0,2,2
+2010,Go,1,South Korea,3,0,1,4
+2010,Go,2,China,0,3,0,3
+2010,Go,3,Chinese Taipei,0,0,1,1
+2010,Go,3,Japan,0,0,1,1
+2010,Golf,1,South Korea,4,0,1,5
+2010,Golf,2,China,0,2,0,2
+2010,Golf,3,India,0,1,0,1
+2010,Golf,3,Philippines,0,1,0,1
+2010,Golf,5,Chinese Taipei,0,0,3,3
+2010,Gymnastics,1,China,15,9,1,25
+2010,Gymnastics,2,South Korea,2,0,3,5
+2010,Gymnastics,3,Kazakhstan,2,0,2,4
+2010,Gymnastics,4,Japan,0,5,6,11
+2010,Gymnastics,5,Uzbekistan,0,3,3,6
+2010,Gymnastics,6,Chinese Taipei,0,0,2,2
+2010,Gymnastics,7,India,0,0,1,1
+2010,Handball,1,South Korea,1,0,1,2
+2010,Handball,2,China,1,0,0,1
+2010,Handball,3,Japan,0,1,1,2
+2010,Handball,4,Iran,0,1,0,1
+2010,Judo,1,Japan,7,5,3,15
+2010,Judo,10,Tajikistan,0,0,1,1
+2010,Judo,2,South Korea,6,3,5,14
+2010,Judo,3,China,2,1,4,7
+2010,Judo,4,Uzbekistan,1,3,3,7
+2010,Judo,5,Mongolia,0,1,5,6
+2010,Judo,6,Kazakhstan,0,1,3,4
+2010,Judo,6,North Korea,0,1,3,4
+2010,Judo,8,Chinese Taipei,0,1,2,3
+2010,Judo,9,Iran,0,1,1,2
+2010,Kabaddi,1,India,2,0,0,2
+2010,Kabaddi,2,Iran,0,1,1,2
+2010,Kabaddi,3,Thailand,0,1,0,1
+2010,Kabaddi,4,Bangladesh,0,0,1,1
+2010,Kabaddi,4,Japan,0,0,1,1
+2010,Kabaddi,4,Pakistan,0,0,1,1
+2010,Karate,1,Japan,2,4,0,6
+2010,Karate,10,Indonesia,0,1,2,3
+2010,Karate,11,Saudi Arabia,0,1,1,2
+2010,Karate,12,Macau,0,0,3,3
+2010,Karate,12,South Korea,0,0,3,3
+2010,Karate,14,Hong Kong,0,0,2,2
+2010,Karate,14,Thailand,0,0,2,2
+2010,Karate,16,Uzbekistan,0,0,1,1
+2010,Karate,2,Malaysia,2,2,1,5
+2010,Karate,3,Iran,2,0,2,4
+2010,Karate,4,China,2,0,1,3
+2010,Karate,4,Kazakhstan,2,0,1,3
+2010,Karate,6,Kuwait,1,1,1,3
+2010,Karate,6,Jordan,1,1,1,3
+2010,Karate,6,Vietnam,1,1,1,3
+2010,Karate,9,Chinese Taipei,0,2,4,6
+2010,Modern pentathlon,1,China,3,2,0,5
+2010,Modern pentathlon,2,South Korea,1,2,2,5
+2010,Modern pentathlon,3,Japan,0,0,1,1
+2010,Modern pentathlon,3,Kazakhstan,0,0,1,1
+2010,Roller sports,1,Chinese Taipei,4,4,1,9
+2010,Roller sports,2,South Korea,3,2,2,7
+2010,Roller sports,3,China,1,3,4,8
+2010,Roller sports,4,Japan,1,0,0,1
+2010,Roller sports,5,India,0,0,2,2
+2010,Rowing,1,China,10,0,0,10
+2010,Rowing,10,Chinese Taipei,0,1,0,1
+2010,Rowing,11,Iraq,0,0,1,1
+2010,Rowing,11,Thailand,0,0,1,1
+2010,Rowing,2,Japan,2,2,1,5
+2010,Rowing,3,India,1,3,1,5
+2010,Rowing,4,Iran,1,0,1,2
+2010,Rowing,5,South Korea,0,3,3,6
+2010,Rowing,6,Vietnam,0,2,0,2
+2010,Rowing,7,Uzbekistan,0,1,4,5
+2010,Rowing,8,Hong Kong,0,1,1,2
+2010,Rowing,8,Kazakhstan,0,1,1,2
+2010,Rugby sevens,1,Japan,1,0,0,1
+2010,Rugby sevens,1,Kazakhstan,1,0,0,1
+2010,Rugby sevens,3,China,0,1,0,1
+2010,Rugby sevens,3,Hong Kong,0,1,0,1
+2010,Rugby sevens,5,South Korea,0,0,1,1
+2010,Rugby sevens,5,Thailand,0,0,1,1
+2010,Sailing,1,China,4,2,4,10
+2010,Sailing,2,Thailand,3,1,2,6
+2010,Sailing,3,Japan,3,1,0,4
+2010,Sailing,4,Singapore,2,2,4,8
+2010,Sailing,5,South Korea,1,2,3,6
+2010,Sailing,6,Hong Kong,1,2,0,3
+2010,Sailing,7,Malaysia,0,2,1,3
+2010,Sailing,8,India,0,1,0,1
+2010,Sailing,8,Indonesia,0,1,0,1
+2010,Sepak takraw,1,Thailand,4,0,0,4
+2010,Sepak takraw,2,Myanmar,2,0,2,4
+2010,Sepak takraw,3,China,0,2,2,4
+2010,Sepak takraw,4,Malaysia,0,2,0,2
+2010,Sepak takraw,5,South Korea,0,1,2,3
+2010,Sepak takraw,6,Vietnam,0,1,1,2
+2010,Sepak takraw,7,Japan,0,0,3,3
+2010,Sepak takraw,8,Indonesia,0,0,2,2
+2010,Shooting,1,China,21,13,11,45
+2010,Shooting,11,Thailand,0,1,4,5
+2010,Shooting,12,Lebanon,0,1,1,2
+2010,Shooting,13,Mongolia,0,1,0,1
+2010,Shooting,13,United Arab Emirates,0,1,0,1
+2010,Shooting,15,Malaysia,0,0,1,1
+2010,Shooting,15,Uzbekistan,0,0,1,1
+2010,Shooting,2,South Korea,13,8,7,28
+2010,Shooting,3,North Korea,3,4,5,12
+2010,Shooting,4,Kuwait,3,3,0,6
+2010,Shooting,5,India,1,3,4,8
+2010,Shooting,6,Kazakhstan,1,3,2,6
+2010,Shooting,7,Japan,1,1,4,6
+2010,Shooting,8,Qatar,1,1,2,4
+2010,Shooting,9,Iran,0,2,1,3
+2010,Shooting,9,Vietnam,0,2,1,3
+2010,Soft tennis,1,South Korea,2,4,4,10
+2010,Soft tennis,2,Chinese Taipei,2,2,3,7
+2010,Soft tennis,3,Japan,2,1,4,7
+2010,Soft tennis,4,China,1,0,3,4
+2010,Softball,1,Japan,1,0,0,1
+2010,Softball,2,China,0,1,0,1
+2010,Softball,3,Chinese Taipei,0,0,1,1
+2010,Squash,1,Malaysia,3,1,2,6
+2010,Squash,2,Pakistan,1,1,0,2
+2010,Squash,3,Hong Kong,0,2,2,4
+2010,Squash,4,India,0,0,3,3
+2010,Squash,5,South Korea,0,0,1,1
+2010,Swimming,1,China,24,16,14,54
+2010,Swimming,2,Japan,9,18,12,39
+2010,Swimming,3,South Korea,4,3,6,13
+2010,Swimming,4,Singapore,1,1,0,2
+2010,Swimming,5,Kazakhstan,0,1,1,2
+2010,Swimming,6,Hong Kong,0,0,2,2
+2010,Swimming,7,Chinese Taipei,0,0,1,1
+2010,Swimming,7,India,0,0,1,1
+2010,Table tennis,1,China,7,4,0,11
+2010,Table tennis,2,South Korea,0,1,4,5
+2010,Table tennis,3,Hong Kong,0,1,0,1
+2010,Table tennis,3,Singapore,0,1,0,1
+2010,Table tennis,5,Japan,0,0,8,8
+2010,Table tennis,6,North Korea,0,0,2,2
+2010,Taekwondo,1,South Korea,4,4,2,10
+2010,Taekwondo,10,Afghanistan,0,1,1,2
+2010,Taekwondo,11,Japan,0,1,0,1
+2010,Taekwondo,12,Philippines,0,0,4,4
+2010,Taekwondo,13,Indonesia,0,0,1,1
+2010,Taekwondo,13,Lebanon,0,0,1,1
+2010,Taekwondo,2,China,4,2,4,10
+2010,Taekwondo,3,Iran,3,2,4,9
+2010,Taekwondo,4,Thailand,2,2,4,8
+2010,Taekwondo,5,Chinese Taipei,2,0,3,5
+2010,Taekwondo,6,Jordan,1,1,1,3
+2010,Taekwondo,7,Vietnam,0,1,3,4
+2010,Taekwondo,8,Kazakhstan,0,1,2,3
+2010,Taekwondo,8,Uzbekistan,0,1,2,3
+2010,Tennis,1,Chinese Taipei,3,2,1,6
+2010,Tennis,2,India,2,1,2,5
+2010,Tennis,3,China,2,1,1,4
+2010,Tennis,4,Uzbekistan,0,3,0,3
+2010,Tennis,5,Japan,0,0,6,6
+2010,Tennis,6,South Korea,0,0,2,2
+2010,Tennis,6,Thailand,0,0,2,2
+2010,Triathlon,1,Japan,2,2,0,4
+2010,Triathlon,2,Kazakhstan,0,0,1,1
+2010,Triathlon,2,South Korea,0,0,1,1
+2010,Volleyball,1,China,1,0,0,1
+2010,Volleyball,1,Japan,1,0,0,1
+2010,Volleyball,3,South Korea,0,1,1,2
+2010,Volleyball,4,Iran,0,1,0,1
+2010,Volleyball,5,Kazakhstan,0,0,1,1
+2010,Water polo,1,China,1,1,0,2
+2010,Water polo,1,Kazakhstan,1,1,0,2
+2010,Water polo,3,Japan,0,0,1,1
+2010,Water polo,3,Uzbekistan,0,0,1,1
+2010,Weightlifting,1,China,8,2,1,11
+2010,Weightlifting,2,Kazakhstan,3,2,4,9
+2010,Weightlifting,3,North Korea,2,3,1,6
+2010,Weightlifting,4,South Korea,1,2,2,5
+2010,Weightlifting,5,Iran,1,2,1,4
+2010,Weightlifting,6,Uzbekistan,0,2,0,2
+2010,Weightlifting,7,Indonesia,0,1,3,4
+2010,Weightlifting,8,Thailand,0,1,1,2
+2010,Weightlifting,9,Chinese Taipei,0,0,2,2
+2010,Wrestling,1,Iran,7,1,2,10
+2010,Wrestling,10,Vietnam,0,1,0,1
+2010,Wrestling,11,India,0,0,3,3
+2010,Wrestling,12,Iraq,0,0,1,1
+2010,Wrestling,12,Tajikistan,0,0,1,1
+2010,Wrestling,2,Japan,3,3,6,12
+2010,Wrestling,3,Kazakhstan,2,2,7,11
+2010,Wrestling,4,Mongolia,2,2,2,6
+2010,Wrestling,5,Uzbekistan,2,1,1,4
+2010,Wrestling,6,North Korea,1,1,2,4
+2010,Wrestling,7,Kyrgyzstan,1,1,1,3
+2010,Wrestling,8,South Korea,0,3,6,9
+2010,Wrestling,9,China,0,3,4,7
+2010,Wushu,1,China,9,0,1,10
+2010,Wushu,11,Myanmar,0,1,0,1
+2010,Wushu,11,Pakistan,0,1,0,1
+2010,Wushu,13,Chinese Taipei,0,0,4,4
+2010,Wushu,14,Laos,0,0,2,2
+2010,Wushu,15,Mongolia,0,0,1,1
+2010,Wushu,15,Philippines,0,0,1,1
+2010,Wushu,15,Thailand,0,0,1,1
+2010,Wushu,2,Iran,3,0,3,6
+2010,Wushu,3,Hong Kong,1,2,0,3
+2010,Wushu,4,Macau,1,1,0,2
+2010,Wushu,5,Malaysia,1,0,1,2
+2010,Wushu,6,Vietnam,0,4,4,8
+2010,Wushu,7,South Korea,0,2,2,4
+2010,Wushu,8,Japan,0,2,1,3
+2010,Wushu,9,India,0,1,1,2
+2010,Wushu,9,Indonesia,0,1,1,2
+2010,Xiangqi,1,China,2,1,1,4
+2010,Xiangqi,2,Vietnam,0,1,0,1
+2010,Xiangqi,3,Chinese Taipei,0,0,1,1
+2014,Archery,1,South Korea,5,3,1,9
+2014,Archery,2,China,1,2,1,4
+2014,Archery,3,India,1,1,2,4
+2014,Archery,4,Iran,1,0,1,2
+2014,Archery,5,Chinese Taipei,0,1,1,2
+2014,Archery,6,Malaysia,0,1,0,1
+2014,Archery,7,Japan,0,0,1,1
+2014,Archery,7,Philippines,0,0,1,1
+2014,Artistic swimming,1,China,3,0,0,3
+2014,Artistic swimming,2,Japan,0,3,0,3
+2014,Artistic swimming,3,Kazakhstan,0,0,2,2
+2014,Artistic swimming,4,North Korea,0,0,1,1
+2014,Athletics,1,China,15,14,11,40
+2014,Athletics,10,Iraq,1,0,1,2
+2014,Athletics,11,Indonesia,1,0,0,1
+2014,Athletics,11,Tajikistan,1,0,0,1
+2014,Athletics,11,United Arab Emirates,1,0,0,1
+2014,Athletics,14,South Korea,0,4,6,10
+2014,Athletics,15,Vietnam,0,2,0,2
+2014,Athletics,16,Chinese Taipei,0,1,0,1
+2014,Athletics,17,Hong Kong,0,0,1,1
+2014,Athletics,17,Thailand,0,0,1,1
+2014,Athletics,2,Bahrain,9,6,3,18
+2014,Athletics,3,Qatar,6,0,3,9
+2014,Athletics,4,Japan,3,12,7,22
+2014,Athletics,5,Kazakhstan,3,1,2,6
+2014,Athletics,6,India,2,3,8,13
+2014,Athletics,7,Uzbekistan,2,2,3,7
+2014,Athletics,8,Saudi Arabia,2,1,1,4
+2014,Athletics,9,Iran,1,1,0,2
+2014,Badminton,1,China,4,3,2,9
+2014,Badminton,2,Indonesia,2,1,1,4
+2014,Badminton,3,South Korea,1,2,2,5
+2014,Badminton,4,Japan,0,1,1,2
+2014,Badminton,5,Malaysia,0,0,4,4
+2014,Badminton,6,Chinese Taipei,0,0,2,2
+2014,Badminton,7,Hong Kong,0,0,1,1
+2014,Badminton,7,India,0,0,1,1
+2014,Baseball,1,South Korea,1,0,0,1
+2014,Baseball,2,Chinese Taipei,0,1,0,1
+2014,Baseball,3,Japan,0,0,1,1
+2014,Basketball,1,South Korea,2,0,0,2
+2014,Basketball,2,China,0,1,0,1
+2014,Basketball,2,Iran,0,1,0,1
+2014,Basketball,4,Japan,0,0,2,2
+2014,Beach volleyball,1,China,1,1,2,4
+2014,Beach volleyball,2,Kazakhstan,1,0,0,1
+2014,Beach volleyball,3,Thailand,0,1,0,1
+2014,Bowling,1,South Korea,7,1,6,14
+2014,Bowling,10,United Arab Emirates,0,0,1,1
+2014,Bowling,2,Japan,2,1,0,3
+2014,Bowling,3,Singapore,1,2,1,4
+2014,Bowling,4,Thailand,1,1,1,3
+2014,Bowling,5,Chinese Taipei,1,1,0,2
+2014,Bowling,6,Malaysia,0,4,0,4
+2014,Bowling,7,Hong Kong,0,1,1,2
+2014,Bowling,8,China,0,1,0,1
+2014,Bowling,9,Indonesia,0,0,2,2
+2014,Boxing,1,Kazakhstan,6,2,2,10
+2014,Boxing,10,Philippines,0,1,3,4
+2014,Boxing,11,Jordan,0,1,2,3
+2014,Boxing,12,Japan,0,0,3,3
+2014,Boxing,13,Turkmenistan,0,0,2,2
+2014,Boxing,13,Vietnam,0,0,2,2
+2014,Boxing,15,Kyrgyzstan,0,0,1,1
+2014,Boxing,15,Pakistan,0,0,1,1
+2014,Boxing,2,South Korea,2,3,1,6
+2014,Boxing,3,China,1,2,0,3
+2014,Boxing,4,India,1,0,4,5
+2014,Boxing,5,Mongolia,1,0,1,2
+2014,Boxing,5,Thailand,1,0,1,2
+2014,Boxing,7,North Korea,1,0,0,1
+2014,Boxing,8,Uzbekistan,0,2,2,4
+2014,Boxing,9,Iran,0,2,1,3
+2014,Canoeing,1,China,5,4,5,14
+2014,Canoeing,2,Kazakhstan,5,3,2,10
+2014,Canoeing,3,Japan,3,1,3,7
+2014,Canoeing,4,Uzbekistan,2,1,2,5
+2014,Canoeing,5,South Korea,1,1,1,3
+2014,Canoeing,6,Chinese Taipei,0,4,0,4
+2014,Canoeing,7,Iran,0,2,3,5
+2014,Cricket,1,Sri Lanka,1,0,1,2
+2014,Cricket,2,Pakistan,1,0,0,1
+2014,Cricket,3,Bangladesh,0,1,1,2
+2014,Cricket,4,Afghanistan,0,1,0,1
+2014,Cycling,1,China,5,6,5,16
+2014,Cycling,10,Malaysia,0,1,1,2
+2014,Cycling,11,Kyrgyzstan,0,1,0,1
+2014,Cycling,11,Vietnam,0,1,0,1
+2014,Cycling,2,South Korea,3,4,1,8
+2014,Cycling,3,Japan,2,3,4,9
+2014,Cycling,4,Hong Kong,2,1,3,6
+2014,Cycling,5,Thailand,2,0,0,2
+2014,Cycling,6,Iran,1,1,1,3
+2014,Cycling,7,Chinese Taipei,1,0,3,4
+2014,Cycling,8,Kazakhstan,1,0,0,1
+2014,Cycling,8,Philippines,1,0,0,1
+2014,Diving,1,China,10,6,0,16
+2014,Diving,2,Malaysia,0,2,3,5
+2014,Diving,3,South Korea,0,1,4,5
+2014,Diving,4,North Korea,0,1,2,3
+2014,Diving,5,Japan,0,0,1,1
+2014,Equestrian,1,South Korea,4,1,1,6
+2014,Equestrian,2,Saudi Arabia,1,1,0,2
+2014,Equestrian,3,Qatar,1,0,0,1
+2014,Equestrian,4,Japan,0,3,2,5
+2014,Equestrian,5,China,0,1,0,1
+2014,Equestrian,6,Chinese Taipei,0,0,1,1
+2014,Equestrian,6,Hong Kong,0,0,1,1
+2014,Equestrian,6,Indonesia,0,0,1,1
+2014,Fencing,1,South Korea,8,6,3,17
+2014,Fencing,2,China,3,4,5,12
+2014,Fencing,3,Japan,1,1,3,5
+2014,Fencing,4,Iran,0,1,0,1
+2014,Fencing,5,Hong Kong,0,0,8,8
+2014,Fencing,6,Kazakhstan,0,0,2,2
+2014,Fencing,6,Vietnam,0,0,2,2
+2014,Fencing,8,Singapore,0,0,1,1
+2014,Field hockey,1,India,1,0,1,2
+2014,Field hockey,1,South Korea,1,0,1,2
+2014,Field hockey,3,China,0,1,0,1
+2014,Field hockey,3,Pakistan,0,1,0,1
+2014,Football,1,North Korea,1,1,0,2
+2014,Football,2,South Korea,1,0,1,2
+2014,Football,3,Japan,0,1,0,1
+2014,Football,4,Iraq,0,0,1,1
+2014,Golf,1,Chinese Taipei,2,0,1,3
+2014,Golf,2,South Korea,1,3,0,4
+2014,Golf,3,Thailand,1,1,2,4
+2014,Golf,4,China,0,0,1,1
+2014,Gymnastics,1,China,9,7,3,19
+2014,Gymnastics,2,Japan,4,3,5,12
+2014,Gymnastics,3,North Korea,2,1,1,4
+2014,Gymnastics,4,South Korea,1,3,4,8
+2014,Gymnastics,5,Uzbekistan,1,3,1,5
+2014,Gymnastics,6,Hong Kong,1,0,0,1
+2014,Gymnastics,7,Vietnam,0,1,3,4
+2014,Gymnastics,8,Kazakhstan,0,0,1,1
+2014,Handball,1,South Korea,1,1,0,2
+2014,Handball,2,Qatar,1,0,0,1
+2014,Handball,3,Japan,0,1,0,1
+2014,Handball,4,Bahrain,0,0,1,1
+2014,Handball,4,Kazakhstan,0,0,1,1
+2014,Judo,1,Japan,6,4,5,15
+2014,Judo,10,Thailand,0,0,1,1
+2014,Judo,2,South Korea,5,2,8,15
+2014,Judo,3,Mongolia,3,3,4,10
+2014,Judo,4,Kazakhstan,1,2,3,6
+2014,Judo,5,China,1,1,3,5
+2014,Judo,6,North Korea,0,1,4,5
+2014,Judo,6,Uzbekistan,0,1,4,5
+2014,Judo,8,Lebanon,0,1,0,1
+2014,Judo,8,Turkmenistan,0,1,0,1
+2014,Kabaddi,1,India,2,0,0,2
+2014,Kabaddi,2,Iran,0,2,0,2
+2014,Kabaddi,3,Bangladesh,0,0,1,1
+2014,Kabaddi,3,Pakistan,0,0,1,1
+2014,Kabaddi,3,South Korea,0,0,1,1
+2014,Kabaddi,3,Thailand,0,0,1,1
+2014,Karate,1,Japan,3,1,3,7
+2014,Karate,10,Hong Kong,0,1,0,1
+2014,Karate,10,Indonesia,0,1,0,1
+2014,Karate,10,Jordan,0,1,0,1
+2014,Karate,10,Saudi Arabia,0,1,0,1
+2014,Karate,14,South Korea,0,0,4,4
+2014,Karate,15,Macau,0,0,2,2
+2014,Karate,16,Laos,0,0,1,1
+2014,Karate,16,Nepal,0,0,1,1
+2014,Karate,16,Philippines,0,0,1,1
+2014,Karate,16,Thailand,0,0,1,1
+2014,Karate,16,United Arab Emirates,0,0,1,1
+2014,Karate,2,Iran,3,0,2,5
+2014,Karate,3,Kazakhstan,2,3,1,6
+2014,Karate,4,Malaysia,2,0,2,4
+2014,Karate,5,Chinese Taipei,2,0,1,3
+2014,Karate,6,Kuwait,1,1,1,3
+2014,Karate,7,China,0,2,2,4
+2014,Karate,8,Uzbekistan,0,1,2,3
+2014,Karate,9,Vietnam,0,1,1,2
+2014,Modern pentathlon,1,China,3,0,1,4
+2014,Modern pentathlon,2,South Korea,1,2,2,5
+2014,Modern pentathlon,3,Japan,0,2,1,3
+2014,Rowing,1,China,9,0,1,10
+2014,Rowing,10,Thailand,0,0,2,2
+2014,Rowing,11,Indonesia,0,0,1,1
+2014,Rowing,2,South Korea,2,5,0,7
+2014,Rowing,3,Hong Kong,1,4,0,5
+2014,Rowing,4,Japan,1,2,0,3
+2014,Rowing,5,Iran,1,0,3,4
+2014,Rowing,6,Kazakhstan,0,1,2,3
+2014,Rowing,6,Vietnam,0,1,2,3
+2014,Rowing,8,Chinese Taipei,0,1,0,1
+2014,Rowing,9,India,0,0,3,3
+2014,Rugby sevens,1,Japan,1,1,0,2
+2014,Rugby sevens,2,China,1,0,0,1
+2014,Rugby sevens,3,Hong Kong,0,1,0,1
+2014,Rugby sevens,4,Kazakhstan,0,0,1,1
+2014,Rugby sevens,4,South Korea,0,0,1,1
+2014,Sailing,1,South Korea,4,1,1,6
+2014,Sailing,2,China,3,2,2,7
+2014,Sailing,2,Singapore,3,2,2,7
+2014,Sailing,4,Hong Kong,2,2,1,5
+2014,Sailing,5,Thailand,1,2,6,9
+2014,Sailing,6,Malaysia,1,2,0,3
+2014,Sailing,7,Japan,0,3,1,4
+2014,Sailing,8,India,0,0,1,1
+2014,Sepak takraw,1,Thailand,4,0,0,4
+2014,Sepak takraw,2,Myanmar,2,1,1,4
+2014,Sepak takraw,3,South Korea,0,4,0,4
+2014,Sepak takraw,4,Laos,0,1,0,1
+2014,Sepak takraw,5,Indonesia,0,0,3,3
+2014,Sepak takraw,6,Japan,0,0,2,2
+2014,Sepak takraw,6,Malaysia,0,0,2,2
+2014,Sepak takraw,6,Vietnam,0,0,2,2
+2014,Sepak takraw,9,China,0,0,1,1
+2014,Sepak takraw,9,Singapore,0,0,1,1
+2014,Shooting,1,China,27,17,6,50
+2014,Shooting,10,Vietnam,0,2,5,7
+2014,Shooting,11,Malaysia,0,2,1,3
+2014,Shooting,12,Japan,0,1,1,2
+2014,Shooting,13,Chinese Taipei,0,1,0,1
+2014,Shooting,14,Thailand,0,0,3,3
+2014,Shooting,15,Singapore,0,0,2,2
+2014,Shooting,16,United Arab Emirates,0,0,1,1
+2014,Shooting,2,South Korea,8,11,8,27
+2014,Shooting,3,Kazakhstan,2,0,5,7
+2014,Shooting,4,Qatar,2,0,1,3
+2014,Shooting,5,Kuwait,1,4,1,6
+2014,Shooting,6,North Korea,1,3,1,5
+2014,Shooting,7,Iran,1,2,0,3
+2014,Shooting,8,India,1,1,7,9
+2014,Shooting,9,Mongolia,1,0,2,3
+2014,Soft tennis,1,South Korea,7,1,4,12
+2014,Soft tennis,2,China,0,2,4,6
+2014,Soft tennis,3,Japan,0,2,1,3
+2014,Soft tennis,4,Chinese Taipei,0,1,4,5
+2014,Soft tennis,5,Indonesia,0,1,1,2
+2014,Softball,1,Japan,1,0,0,1
+2014,Softball,2,Chinese Taipei,0,1,0,1
+2014,Softball,3,China,0,0,1,1
+2014,Squash,1,Malaysia,2,2,1,5
+2014,Squash,2,India,1,2,1,4
+2014,Squash,3,Kuwait,1,0,1,2
+2014,Squash,4,Hong Kong,0,0,4,4
+2014,Squash,5,South Korea,0,0,1,1
+2014,Swimming,1,China,22,12,13,47
+2014,Swimming,2,Japan,12,21,13,46
+2014,Swimming,3,Kazakhstan,3,2,0,5
+2014,Swimming,4,Singapore,1,2,3,6
+2014,Swimming,5,South Korea,0,1,1,2
+2014,Swimming,6,Hong Kong,0,0,4,4
+2014,Swimming,7,Vietnam,0,0,2,2
+2014,Swimming,8,India,0,0,1,1
+2014,Swimming,8,Uzbekistan,0,0,1,1
+2014,Table tennis,1,China,6,4,0,10
+2014,Table tennis,2,North Korea,1,0,2,3
+2014,Table tennis,3,Japan,0,1,3,4
+2014,Table tennis,3,South Korea,0,1,3,4
+2014,Table tennis,5,Hong Kong,0,1,1,2
+2014,Table tennis,6,Singapore,0,0,3,3
+2014,Table tennis,7,Chinese Taipei,0,0,2,2
+2014,Taekwondo,1,South Korea,6,2,2,10
+2014,Taekwondo,10,Philippines,0,0,5,5
+2014,Taekwondo,11,Tajikistan,0,0,3,3
+2014,Taekwondo,12,Macau,0,0,2,2
+2014,Taekwondo,12,Vietnam,0,0,2,2
+2014,Taekwondo,14,Afghanistan,0,0,1,1
+2014,Taekwondo,14,Kuwait,0,0,1,1
+2014,Taekwondo,14,Lebanon,0,0,1,1
+2014,Taekwondo,14,Mongolia,0,0,1,1
+2014,Taekwondo,2,Iran,4,2,1,7
+2014,Taekwondo,3,China,2,4,3,9
+2014,Taekwondo,4,Uzbekistan,1,3,0,4
+2014,Taekwondo,5,Chinese Taipei,1,2,4,7
+2014,Taekwondo,6,Thailand,1,1,4,6
+2014,Taekwondo,7,Cambodia,1,0,0,1
+2014,Taekwondo,8,Japan,0,1,1,2
+2014,Taekwondo,8,Kazakhstan,0,1,1,2
+2014,Tennis,1,Chinese Taipei,1,3,1,5
+2014,Tennis,2,China,1,2,1,4
+2014,Tennis,3,India,1,1,3,5
+2014,Tennis,4,Thailand,1,1,1,3
+2014,Tennis,5,Japan,1,0,6,7
+2014,Tennis,6,Kazakhstan,1,0,1,2
+2014,Tennis,7,South Korea,1,0,0,1
+2014,Tennis,8,Uzbekistan,0,0,1,1
+2014,Triathlon,1,Japan,3,2,0,5
+2014,Triathlon,2,South Korea,0,1,0,1
+2014,Triathlon,3,China,0,0,3,3
+2014,Volleyball,1,South Korea,1,0,1,2
+2014,Volleyball,2,Iran,1,0,0,1
+2014,Volleyball,3,China,0,1,0,1
+2014,Volleyball,3,Japan,0,1,0,1
+2014,Volleyball,5,Thailand,0,0,1,1
+2014,Water polo,1,China,1,0,1,2
+2014,Water polo,1,Kazakhstan,1,0,1,2
+2014,Water polo,3,Japan,0,2,0,2
+2014,Weightlifting,1,China,7,5,2,14
+2014,Weightlifting,11,Iraq,0,0,1,1
+2014,Weightlifting,2,North Korea,4,3,2,9
+2014,Weightlifting,3,Chinese Taipei,2,0,2,4
+2014,Weightlifting,4,Kazakhstan,1,3,0,4
+2014,Weightlifting,5,Iran,1,1,0,2
+2014,Weightlifting,6,Indonesia,0,1,1,2
+2014,Weightlifting,6,South Korea,0,1,1,2
+2014,Weightlifting,8,Vietnam,0,1,0,1
+2014,Weightlifting,9,Thailand,0,0,3,3
+2014,Weightlifting,9,Uzbekistan,0,0,3,3
+2014,Wrestling,1,Iran,6,1,5,12
+2014,Wrestling,10,Kyrgyzstan,0,1,3,4
+2014,Wrestling,11,Tajikistan,0,1,0,1
+2014,Wrestling,12,Turkmenistan,0,0,1,1
+2014,Wrestling,2,Japan,4,3,4,11
+2014,Wrestling,3,South Korea,3,3,6,12
+2014,Wrestling,4,Uzbekistan,3,1,3,7
+2014,Wrestling,5,Kazakhstan,1,4,5,10
+2014,Wrestling,6,China,1,3,5,9
+2014,Wrestling,7,India,1,1,3,5
+2014,Wrestling,8,North Korea,1,1,1,3
+2014,Wrestling,9,Mongolia,0,1,4,5
+2014,Wushu,1,China,10,1,1,12
+2014,Wushu,10,Hong Kong,0,1,0,1
+2014,Wushu,11,India,0,0,2,2
+2014,Wushu,11,Japan,0,0,2,2
+2014,Wushu,11,Turkmenistan,0,0,2,2
+2014,Wushu,14,Laos,0,0,1,1
+2014,Wushu,14,Pakistan,0,0,1,1
+2014,Wushu,14,Singapore,0,0,1,1
+2014,Wushu,2,South Korea,2,2,3,7
+2014,Wushu,3,Iran,1,2,1,4
+2014,Wushu,4,Vietnam,1,1,4,6
+2014,Wushu,5,Indonesia,1,1,1,3
+2014,Wushu,6,Macau,0,3,0,3
+2014,Wushu,7,Philippines,0,2,1,3
+2014,Wushu,8,Chinese Taipei,0,1,1,2
+2014,Wushu,8,Kazakhstan,0,1,1,2
+2018,Archery,1,South Korea,4,3,1,8
+2018,Archery,2,Chinese Taipei,2,1,1,4
+2018,Archery,3,China,1,0,2,3
+2018,Archery,4,Japan,1,0,1,2
+2018,Archery,5,India,0,2,0,2
+2018,Archery,6,Indonesia,0,1,1,2
+2018,Archery,7,North Korea,0,1,0,1
+2018,Archery,8,Iran,0,0,1,1
+2018,Archery,8,Malaysia,0,0,1,1
+2018,Artistic swimming,1,China,2,0,0,2
+2018,Artistic swimming,2,Japan,0,2,0,2
+2018,Artistic swimming,3,Kazakhstan,0,0,1,1
+2018,Artistic swimming,3,North Korea,0,0,1,1
+2018,Athletics,1,China,12,13,9,34
+2018,Athletics,10,South Korea,1,1,3,5
+2018,Athletics,11,Kyrgyzstan,1,1,0,2
+2018,Athletics,12,Thailand,0,3,2,5
+2018,Athletics,13,Indonesia,0,2,1,3
+2018,Athletics,14,Chinese Taipei,0,2,0,2
+2018,Athletics,15,Iraq,0,1,0,1
+2018,Athletics,15,Tajikistan,0,1,0,1
+2018,Athletics,17,Hong Kong,0,0,1,1
+2018,Athletics,17,Kuwait,0,0,1,1
+2018,Athletics,17,North Korea,0,0,1,1
+2018,Athletics,17,Pakistan,0,0,1,1
+2018,Athletics,17,Saudi Arabia,0,0,1,1
+2018,Athletics,17,Syria,0,0,1,1
+2018,Athletics,2,Bahrain,10,6,6,22
+2018,Athletics,3,India,8,9,3,20
+2018,Athletics,4,Japan,6,2,10,18
+2018,Athletics,5,Qatar,4,2,1,7
+2018,Athletics,6,Iran,2,1,0,3
+2018,Athletics,7,Vietnam,2,0,3,5
+2018,Athletics,8,Kazakhstan,1,2,4,7
+2018,Athletics,9,Uzbekistan,1,2,1,4
+2018,Badminton,1,China,3,1,2,6
+2018,Badminton,2,Indonesia,2,2,4,8
+2018,Badminton,3,Japan,1,1,4,6
+2018,Badminton,4,Chinese Taipei,1,1,2,4
+2018,Badminton,5,India,0,1,1,2
+2018,Badminton,6,Hong Kong,0,1,0,1
+2018,Badminton,7,Thailand,0,0,1,1
+2018,Baseball,1,South Korea,1,0,0,1
+2018,Baseball,2,Japan,0,1,0,1
+2018,Baseball,3,Chinese Taipei,0,0,1,1
+2018,Basketball,1,China,4,0,0,4
+2018,Basketball,2,Iran,0,1,1,2
+2018,Basketball,2,Japan,0,1,1,2
+2018,Basketball,2,South Korea,0,1,1,2
+2018,Basketball,5,Korea,0,1,0,1
+2018,Basketball,6,Thailand,0,0,1,1
+2018,Beach volleyball,1,China,1,0,0,1
+2018,Beach volleyball,1,Qatar,1,0,0,1
+2018,Beach volleyball,3,Indonesia,0,1,2,3
+2018,Beach volleyball,4,Japan,0,1,0,1
+2018,Bowling,1,South Korea,2,2,2,6
+2018,Bowling,2,Malaysia,2,2,0,4
+2018,Bowling,3,Japan,2,0,0,2
+2018,Bowling,4,Chinese Taipei,0,1,2,3
+2018,Bowling,5,Hong Kong,0,1,0,1
+2018,Bowling,6,Singapore,0,0,2,2
+2018,Boxing,1,Uzbekistan,5,2,0,7
+2018,Boxing,10,Chinese Taipei,0,0,2,2
+2018,Boxing,10,Indonesia,0,0,2,2
+2018,Boxing,12,Japan,0,0,1,1
+2018,Boxing,12,Jordan,0,0,1,1
+2018,Boxing,12,Kyrgyzstan,0,0,1,1
+2018,Boxing,12,Vietnam,0,0,1,1
+2018,Boxing,2,China,2,0,3,5
+2018,Boxing,3,Mongolia,1,1,0,2
+2018,Boxing,4,India,1,0,1,2
+2018,Boxing,5,South Korea,1,0,0,1
+2018,Boxing,6,North Korea,0,3,1,4
+2018,Boxing,7,Kazakhstan,0,2,0,2
+2018,Boxing,8,Thailand,0,1,5,6
+2018,Boxing,9,Philippines,0,1,2,3
+2018,Bridge,1,China,3,1,2,6
+2018,Bridge,2,Chinese Taipei,1,2,1,4
+2018,Bridge,3,India,1,0,2,3
+2018,Bridge,4,Singapore,1,0,0,1
+2018,Bridge,5,Hong Kong,0,2,2,4
+2018,Bridge,6,Thailand,0,1,1,2
+2018,Bridge,7,Indonesia,0,0,4,4
+2018,Canoeing,1,China,10,3,0,13
+2018,Canoeing,10,Thailand,0,0,2,2
+2018,Canoeing,11,Singapore,0,0,1,1
+2018,Canoeing,2,Kazakhstan,2,4,2,8
+2018,Canoeing,3,Japan,2,1,2,5
+2018,Canoeing,4,Uzbekistan,1,3,4,8
+2018,Canoeing,5,South Korea,1,1,1,3
+2018,Canoeing,6,Iran,0,1,2,3
+2018,Canoeing,7,Chinese Taipei,0,1,1,2
+2018,Canoeing,7,Indonesia,0,1,1,2
+2018,Canoeing,9,Tajikistan,0,1,0,1
+2018,Cycling,1,China,6,5,2,13
+2018,Cycling,10,Uzbekistan,0,1,0,1
+2018,Cycling,11,Philippines,0,0,1,1
+2018,Cycling,2,South Korea,6,3,4,13
+2018,Cycling,3,Japan,3,5,6,14
+2018,Cycling,4,Hong Kong,3,4,1,8
+2018,Cycling,5,Indonesia,2,1,2,5
+2018,Cycling,6,Kazakhstan,2,0,3,5
+2018,Cycling,7,Thailand,1,2,3,6
+2018,Cycling,8,Malaysia,1,1,1,3
+2018,Cycling,9,Chinese Taipei,0,2,1,3
+2018,Diving,1,China,10,6,0,16
+2018,Diving,2,South Korea,0,2,3,5
+2018,Diving,3,Malaysia,0,1,3,4
+2018,Diving,3,North Korea,0,1,3,4
+2018,Diving,5,Japan,0,0,1,1
+2018,Dragon boat,1,China,2,2,0,4
+2018,Dragon boat,2,Chinese Taipei,2,1,0,3
+2018,Dragon boat,3,Korea,1,0,2,3
+2018,Dragon boat,4,Indonesia,0,2,1,3
+2018,Dragon boat,5,Thailand,0,0,2,2
+2018,Equestrian,1,Japan,3,1,0,4
+2018,Equestrian,10,China,0,0,1,1
+2018,Equestrian,2,Saudi Arabia,1,0,1,2
+2018,Equestrian,3,Hong Kong,1,0,0,1
+2018,Equestrian,3,Kuwait,1,0,0,1
+2018,Equestrian,5,India,0,2,0,2
+2018,Equestrian,6,Qatar,0,1,1,2
+2018,Equestrian,6,South Korea,0,1,1,2
+2018,Equestrian,8,Malaysia,0,1,0,1
+2018,Equestrian,9,Thailand,0,0,2,2
+2018,Fencing,1,South Korea,6,3,6,15
+2018,Fencing,2,China,3,6,2,11
+2018,Fencing,3,Japan,2,0,6,8
+2018,Fencing,4,Kazakhstan,1,0,2,3
+2018,Fencing,5,Hong Kong,0,2,6,8
+2018,Fencing,6,Iran,0,1,1,2
+2018,Fencing,7,Singapore,0,0,1,1
+2018,Field hockey,1,Japan,2,0,0,2
+2018,Field hockey,2,India,0,1,1,2
+2018,Field hockey,3,Malaysia,0,1,0,1
+2018,Field hockey,4,China,0,0,1,1
+2018,Football,1,Japan,1,1,0,2
+2018,Football,2,South Korea,1,0,1,2
+2018,Football,3,China,0,1,0,1
+2018,Football,4,United Arab Emirates,0,0,1,1
+2018,Golf,1,Philippines,2,0,1,3
+2018,Golf,2,Japan,2,0,0,2
+2018,Golf,3,China,0,2,2,4
+2018,Golf,4,South Korea,0,2,1,3
+2018,Gymnastics,1,China,10,6,7,23
+2018,Gymnastics,2,South Korea,2,1,2,5
+2018,Gymnastics,3,Chinese Taipei,2,1,1,4
+2018,Gymnastics,4,Kazakhstan,2,0,1,3
+2018,Gymnastics,5,North Korea,1,2,3,6
+2018,Gymnastics,6,Hong Kong,1,0,0,1
+2018,Gymnastics,7,Japan,0,4,3,7
+2018,Gymnastics,8,Uzbekistan,0,3,0,3
+2018,Gymnastics,9,Indonesia,0,1,1,2
+2018,Handball,1,South Korea,1,0,1,2
+2018,Handball,2,Qatar,1,0,0,1
+2018,Handball,3,Bahrain,0,1,0,1
+2018,Handball,3,China,0,1,0,1
+2018,Handball,5,Japan,0,0,1,1
+2018,Jet ski,1,Thailand,1,2,2,5
+2018,Jet ski,2,Indonesia,1,1,1,3
+2018,Jet ski,3,United Arab Emirates,1,1,0,2
+2018,Jet ski,4,Cambodia,1,0,1,2
+2018,Ju-jitsu,1,United Arab Emirates,2,5,2,9
+2018,Ju-jitsu,2,Kazakhstan,2,0,3,5
+2018,Ju-jitsu,3,Jordan,1,1,3,5
+2018,Ju-jitsu,4,Kyrgyzstan,1,0,2,3
+2018,Ju-jitsu,5,South Korea,1,0,1,2
+2018,Ju-jitsu,6,Cambodia,1,0,0,1
+2018,Ju-jitsu,7,Singapore,0,1,0,1
+2018,Ju-jitsu,8,Mongolia,0,0,1,1
+2018,Ju-jitsu,8,Philippines,0,0,1,1
+2018,Ju-jitsu,8,Thailand,0,0,1,1
+2018,Ju-jitsu,8,Turkmenistan,0,0,1,1
+2018,Ju-jitsu,8,Vietnam,0,0,1,1
+2018,Judo,1,Japan,9,3,1,13
+2018,Judo,10,Chinese Taipei,0,0,2,2
+2018,Judo,10,Kyrgyzstan,0,0,2,2
+2018,Judo,10,Tajikistan,0,0,2,2
+2018,Judo,10,Thailand,0,0,2,2
+2018,Judo,14,United Arab Emirates,0,0,1,1
+2018,Judo,2,South Korea,4,6,3,13
+2018,Judo,3,Kazakhstan,1,1,3,5
+2018,Judo,4,Uzbekistan,1,0,3,4
+2018,Judo,5,Mongolia,0,2,5,7
+2018,Judo,6,Iran,0,1,1,2
+2018,Judo,6,North Korea,0,1,1,2
+2018,Judo,8,Philippines,0,1,0,1
+2018,Judo,9,China,0,0,4,4
+2018,Kabaddi,1,Iran,2,0,0,2
+2018,Kabaddi,2,India,0,1,1,2
+2018,Kabaddi,3,South Korea,0,1,0,1
+2018,Kabaddi,4,Chinese Taipei,0,0,1,1
+2018,Kabaddi,4,Pakistan,0,0,1,1
+2018,Kabaddi,4,Thailand,0,0,1,1
+2018,Karate,1,Japan,4,0,2,6
+2018,Karate,11,Vietnam,0,1,0,1
+2018,Karate,12,Hong Kong,0,0,2,2
+2018,Karate,12,Jordan,0,0,2,2
+2018,Karate,14,Malaysia,0,0,1,1
+2018,Karate,14,Pakistan,0,0,1,1
+2018,Karate,14,Philippines,0,0,1,1
+2018,Karate,14,South Korea,0,0,1,1
+2018,Karate,14,Thailand,0,0,1,1
+2018,Karate,2,Iran,2,3,3,8
+2018,Karate,3,Chinese Taipei,2,1,2,5
+2018,Karate,4,China,1,2,0,3
+2018,Karate,5,Kazakhstan,1,1,1,3
+2018,Karate,6,Kuwait,1,1,0,2
+2018,Karate,7,Indonesia,1,0,3,4
+2018,Karate,8,Uzbekistan,0,1,2,3
+2018,Karate,9,Macau,0,1,1,2
+2018,Karate,9,Saudi Arabia,0,1,1,2
+2018,Kurash,1,Uzbekistan,5,2,4,11
+2018,Kurash,2,Iran,1,1,2,4
+2018,Kurash,3,Mongolia,0,2,0,2
+2018,Kurash,4,India,0,1,1,2
+2018,Kurash,5,Tajikistan,0,1,0,1
+2018,Kurash,6,Chinese Taipei,0,0,2,2
+2018,Kurash,7,Afghanistan,0,0,1,1
+2018,Kurash,7,Indonesia,0,0,1,1
+2018,Kurash,7,Kazakhstan,0,0,1,1
+2018,Kurash,7,Kuwait,0,0,1,1
+2018,Kurash,7,Vietnam,0,0,1,1
+2018,Modern pentathlon,1,South Korea,1,2,1,4
+2018,Modern pentathlon,2,China,1,0,1,2
+2018,Paragliding,1,Indonesia,2,1,3,6
+2018,Paragliding,2,Thailand,2,1,1,4
+2018,Paragliding,3,South Korea,1,2,2,5
+2018,Paragliding,4,Japan,1,1,0,2
+2018,Paragliding,5,Nepal,0,1,0,1
+2018,Pencak silat,1,Indonesia,14,0,1,15
+2018,Pencak silat,2,Vietnam,2,7,3,12
+2018,Pencak silat,3,Malaysia,0,4,4,8
+2018,Pencak silat,4,Thailand,0,2,5,7
+2018,Pencak silat,5,Singapore,0,2,3,5
+2018,Pencak silat,6,Laos,0,1,2,3
+2018,Pencak silat,7,Philippines,0,0,4,4
+2018,Pencak silat,8,Kyrgyzstan,0,0,2,2
+2018,Pencak silat,9,Iran,0,0,1,1
+2018,Pencak silat,9,Uzbekistan,0,0,1,1
+2018,Roller sports,1,Japan,3,2,0,5
+2018,Roller sports,2,Chinese Taipei,2,0,1,3
+2018,Roller sports,3,Philippines,1,0,0,1
+2018,Roller sports,4,Indonesia,0,2,2,4
+2018,Roller sports,5,South Korea,0,1,2,3
+2018,Roller sports,6,China,0,1,1,2
+2018,Rowing,1,China,9,1,0,10
+2018,Rowing,10,Chinese Taipei,0,1,0,1
+2018,Rowing,11,Thailand,0,0,3,3
+2018,Rowing,12,Kazakhstan,0,0,1,1
+2018,Rowing,2,South Korea,1,4,1,6
+2018,Rowing,3,Indonesia,1,2,2,5
+2018,Rowing,4,Uzbekistan,1,2,1,4
+2018,Rowing,5,Vietnam,1,1,0,2
+2018,Rowing,6,India,1,0,2,3
+2018,Rowing,6,Japan,1,0,2,3
+2018,Rowing,8,Iran,0,3,1,4
+2018,Rowing,9,Hong Kong,0,1,2,3
+2018,Rugby sevens,1,Japan,1,1,0,2
+2018,Rugby sevens,2,Hong Kong,1,0,0,1
+2018,Rugby sevens,3,China,0,1,0,1
+2018,Rugby sevens,4,Kazakhstan,0,0,1,1
+2018,Rugby sevens,4,South Korea,0,0,1,1
+2018,Sailing,1,Japan,4,0,0,4
+2018,Sailing,2,China,3,4,0,7
+2018,Sailing,3,Malaysia,1,1,3,5
+2018,Sailing,4,South Korea,1,1,1,3
+2018,Sailing,5,Singapore,1,0,1,2
+2018,Sailing,6,Hong Kong,0,3,0,3
+2018,Sailing,7,India,0,1,2,3
+2018,Sailing,8,Thailand,0,0,3,3
+2018,Sambo,1,Kazakhstan,2,0,3,5
+2018,Sambo,2,Mongolia,1,2,1,4
+2018,Sambo,3,Uzbekistan,1,1,2,4
+2018,Sambo,4,Tajikistan,0,1,1,2
+2018,Sambo,5,Japan,0,0,1,1
+2018,Sepak takraw,1,Thailand,4,0,0,4
+2018,Sepak takraw,2,Indonesia,1,1,3,5
+2018,Sepak takraw,3,Malaysia,1,1,0,2
+2018,Sepak takraw,4,Vietnam,0,1,2,3
+2018,Sepak takraw,5,Japan,0,1,1,2
+2018,Sepak takraw,5,Laos,0,1,1,2
+2018,Sepak takraw,5,South Korea,0,1,1,2
+2018,Sepak takraw,8,Singapore,0,0,2,2
+2018,Sepak takraw,9,India,0,0,1,1
+2018,Sepak takraw,9,Myanmar,0,0,1,1
+2018,Shooting,1,China,8,5,2,15
+2018,Shooting,10,Japan,0,1,1,2
+2018,Shooting,11,Indonesia,0,1,0,1
+2018,Shooting,11,Saudi Arabia,0,1,0,1
+2018,Shooting,13,Vietnam,0,0,2,2
+2018,Shooting,14,Iran,0,0,1,1
+2018,Shooting,14,Kazakhstan,0,0,1,1
+2018,Shooting,14,Qatar,0,0,1,1
+2018,Shooting,14,United Arab Emirates,0,0,1,1
+2018,Shooting,2,South Korea,3,4,5,12
+2018,Shooting,3,India,2,4,3,9
+2018,Shooting,4,Chinese Taipei,2,1,1,4
+2018,Shooting,5,Mongolia,1,1,1,3
+2018,Shooting,6,North Korea,1,1,0,2
+2018,Shooting,6,Thailand,1,1,0,2
+2018,Shooting,8,Lebanon,1,0,1,2
+2018,Shooting,9,Kuwait,1,0,0,1
+2018,Soft tennis,1,South Korea,2,2,2,6
+2018,Soft tennis,2,Japan,2,1,1,4
+2018,Soft tennis,3,Chinese Taipei,1,1,2,4
+2018,Soft tennis,4,Indonesia,0,1,3,4
+2018,Soft tennis,5,China,0,0,2,2
+2018,Softball,1,Japan,1,0,0,1
+2018,Softball,2,Chinese Taipei,0,1,0,1
+2018,Softball,3,China,0,0,1,1
+2018,Sport climbing,1,Indonesia,3,2,1,6
+2018,Sport climbing,2,Japan,1,1,1,3
+2018,Sport climbing,2,South Korea,1,1,1,3
+2018,Sport climbing,4,Iran,1,0,0,1
+2018,Sport climbing,5,China,0,2,3,5
+2018,Squash,1,Hong Kong,2,2,0,4
+2018,Squash,2,Malaysia,2,1,2,5
+2018,Squash,3,India,0,1,4,5
+2018,Squash,4,Japan,0,0,1,1
+2018,Squash,4,Pakistan,0,0,1,1
+2018,Swimming,1,Japan,19,20,13,52
+2018,Swimming,2,China,19,17,14,50
+2018,Swimming,3,Singapore,2,1,3,6
+2018,Swimming,4,South Korea,1,1,4,6
+2018,Swimming,5,Hong Kong,0,1,2,3
+2018,Swimming,6,Vietnam,0,1,1,2
+2018,Swimming,7,Kazakhstan,0,0,4,4
+2018,Table tennis,1,China,5,3,0,8
+2018,Table tennis,2,South Korea,0,1,3,4
+2018,Table tennis,3,North Korea,0,1,0,1
+2018,Table tennis,4,Hong Kong,0,0,2,2
+2018,Table tennis,4,India,0,0,2,2
+2018,Table tennis,6,Chinese Taipei,0,0,1,1
+2018,Table tennis,6,Iran,0,0,1,1
+2018,Table tennis,6,Singapore,0,0,1,1
+2018,Taekwondo,1,South Korea,5,5,2,12
+2018,Taekwondo,10,Philippines,0,0,3,3
+2018,Taekwondo,11,Japan,0,0,2,2
+2018,Taekwondo,12,Lebanon,0,0,1,1
+2018,Taekwondo,12,Malaysia,0,0,1,1
+2018,Taekwondo,12,Vietnam,0,0,1,1
+2018,Taekwondo,2,Iran,2,3,2,7
+2018,Taekwondo,3,Thailand,2,0,2,4
+2018,Taekwondo,4,Uzbekistan,1,3,2,6
+2018,Taekwondo,5,China,1,2,2,5
+2018,Taekwondo,6,Chinese Taipei,1,0,3,4
+2018,Taekwondo,6,Jordan,1,0,3,4
+2018,Taekwondo,8,Indonesia,1,0,0,1
+2018,Taekwondo,9,Kazakhstan,0,1,4,5
+2018,Tennis,1,China,2,2,0,4
+2018,Tennis,2,India,1,0,2,3
+2018,Tennis,3,Indonesia,1,0,0,1
+2018,Tennis,3,Uzbekistan,1,0,0,1
+2018,Tennis,5,Kazakhstan,0,1,2,3
+2018,Tennis,6,Chinese Taipei,0,1,1,2
+2018,Tennis,7,Thailand,0,1,0,1
+2018,Tennis,8,Japan,0,0,4,4
+2018,Tennis,9,South Korea,0,0,1,1
+2018,Triathlon,1,Japan,3,0,0,3
+2018,Triathlon,2,China,0,1,1,2
+2018,Triathlon,3,Kazakhstan,0,1,0,1
+2018,Triathlon,3,South Korea,0,1,0,1
+2018,Triathlon,5,Hong Kong,0,0,1,1
+2018,Triathlon,5,Macau,0,0,1,1
+2018,Volleyball,1,China,1,0,0,1
+2018,Volleyball,1,Iran,1,0,0,1
+2018,Volleyball,3,South Korea,0,1,1,2
+2018,Volleyball,4,Thailand,0,1,0,1
+2018,Volleyball,5,Chinese Taipei,0,0,1,1
+2018,Water polo,1,Kazakhstan,1,1,0,2
+2018,Water polo,2,China,1,0,0,1
+2018,Water polo,3,Japan,0,1,1,2
+2018,Water polo,4,Iran,0,0,1,1
+2018,Weightlifting,1,North Korea,8,1,1,10
+2018,Weightlifting,10,Thailand,0,1,6,7
+2018,Weightlifting,11,Qatar,0,1,0,1
+2018,Weightlifting,11,Turkmenistan,0,1,0,1
+2018,Weightlifting,13,Japan,0,0,1,1
+2018,Weightlifting,13,Kyrgyzstan,0,0,1,1
+2018,Weightlifting,2,Iran,2,1,1,4
+2018,Weightlifting,3,Uzbekistan,1,2,2,5
+2018,Weightlifting,4,Indonesia,1,1,1,3
+2018,Weightlifting,5,Chinese Taipei,1,1,0,2
+2018,Weightlifting,5,Iraq,1,1,0,2
+2018,Weightlifting,7,Philippines,1,0,0,1
+2018,Weightlifting,8,South Korea,0,3,2,5
+2018,Weightlifting,9,Vietnam,0,2,0,2
+2018,Wrestling,1,Iran,5,0,3,8
+2018,Wrestling,10,Kazakhstan,0,4,6,10
+2018,Wrestling,11,Lebanon,0,1,0,1
+2018,Wrestling,12,Turkmenistan,0,0,1,1
+2018,Wrestling,12,Vietnam,0,0,1,1
+2018,Wrestling,2,China,2,3,1,6
+2018,Wrestling,3,Uzbekistan,2,1,3,6
+2018,Wrestling,4,North Korea,2,1,2,5
+2018,Wrestling,5,South Korea,2,0,6,8
+2018,Wrestling,6,India,2,0,1,3
+2018,Wrestling,7,Japan,1,4,5,10
+2018,Wrestling,8,Kyrgyzstan,1,3,4,8
+2018,Wrestling,9,Mongolia,1,1,3,5
+2018,Wushu,1,China,10,2,0,12
+2018,Wushu,10,India,0,0,4,4
+2018,Wushu,11,Chinese Taipei,0,0,2,2
+2018,Wushu,11,Philippines,0,0,2,2
+2018,Wushu,13,Afghanistan,0,0,1,1
+2018,Wushu,13,Myanmar,0,0,1,1
+2018,Wushu,13,Thailand,0,0,1,1
+2018,Wushu,2,Iran,2,4,0,6
+2018,Wushu,3,Indonesia,1,1,3,5
+2018,Wushu,4,Macau,1,1,0,2
+2018,Wushu,5,Vietnam,0,2,3,5
+2018,Wushu,6,South Korea,0,1,2,3
+2018,Wushu,7,Hong Kong,0,1,1,2
+2018,Wushu,8,Japan,0,1,0,1
+2018,Wushu,8,Uzbekistan,0,1,0,1

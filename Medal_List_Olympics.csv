@@ -1,0 +1,839 @@
+Year,Host_City,Sport,Country,Gold,Silver,Bronze,Total
+1952,Helsinki,Boxing,South Korea,0,0,1,1
+1952,Helsinki,Gymnastics,Japan,0,0,1,1
+1952,Helsinki,Gymnastics,Japan,0,2,0,2
+1952,Helsinki,Hockey,India,1,0,0,1
+1952,Helsinki,Swimming,Japan,0,1,0,1
+1952,Helsinki,Swimming,Japan,0,2,0,2
+1952,Helsinki,Weightlifting,Iran,0,1,1,2
+1952,Helsinki,Weightlifting,South Korea,0,0,1,1
+1952,Helsinki,Wrestling,India,0,0,1,1
+1952,Helsinki,Wrestling,Iran,0,2,3,5
+1952,Helsinki,Wrestling,Japan,1,1,0,2
+1956,Melbourne,Boxing,South Korea,0,1,0,1
+1956,Melbourne,Gymnastics,Japan,0,1,2,3
+1956,Melbourne,Gymnastics,Japan,1,4,1,6
+1956,Melbourne,Hockey,India,1,0,0,1
+1956,Melbourne,Hockey,Pakistan,0,1,0,1
+1956,Melbourne,Swimming,Japan,1,4,0,5
+1956,Melbourne,Weightlifting,Iran,0,0,1,1
+1956,Melbourne,Weightlifting,South Korea,0,0,1,1
+1956,Melbourne,Wrestling,Iran,2,2,0,4
+1956,Melbourne,Wrestling,Japan,2,1,0,3
+1960,Roma,Athletics,Chinese Taipei,0,1,0,1
+1960,Roma,Boxing,Japan,0,0,1,1
+1960,Roma,Gymnastics,Japan,1,0,0,1
+1960,Roma,Gymnastics,Japan,3,2,3,8
+1960,Roma,Hockey,India,0,1,0,1
+1960,Roma,Hockey,Pakistan,1,0,0,1
+1960,Roma,Shooting,Japan,0,0,1,1
+1960,Roma,Swimming,Japan,0,1,1,2
+1960,Roma,Swimming,Japan,0,2,1,3
+1960,Roma,Weightlifting,Iran,0,0,1,1
+1960,Roma,Weightlifting,Iraq,0,0,1,1
+1960,Roma,Weightlifting,Japan,0,1,0,1
+1960,Roma,Weightlifting,Singapore,0,1,0,1
+1960,Roma,Wrestling,Iran,0,1,2,3
+1960,Roma,Wrestling,Japan,0,1,0,1
+1960,Roma,Wrestling,Pakistan,0,0,1,1
+1964,Tokyo,Athletics,Japan,0,0,1,1
+1964,Tokyo,Boxing,Japan,1,0,0,1
+1964,Tokyo,Boxing,Philippines,0,1,0,1
+1964,Tokyo,Boxing,South Korea,0,1,0,1
+1964,Tokyo,Gymnastics,Japan,1,0,1,2
+1964,Tokyo,Gymnastics,Japan,4,4,0,8
+1964,Tokyo,Hockey,India,1,0,0,1
+1964,Tokyo,Hockey,Pakistan,0,1,0,1
+1964,Tokyo,Judo,Japan,3,1,0,4
+1964,Tokyo,Judo,South Korea,0,0,1,1
+1964,Tokyo,Shooting,Japan,0,0,1,1
+1964,Tokyo,Swimming,Japan,0,0,1,1
+1964,Tokyo,Volleyball,Japan,1,0,1,2
+1964,Tokyo,Weightlifting,Japan,1,0,2,3
+1964,Tokyo,Wrestling,Iran,0,0,2,2
+1964,Tokyo,Wrestling,Japan,5,0,1,6
+1964,Tokyo,Wrestling,South Korea,0,1,0,1
+1968,Mexico City,Athletics,Chinese Taipei,0,0,1,1
+1968,Mexico City,Athletics,Japan,0,1,0,1
+1968,Mexico City,Boxing,Japan,0,0,1,1
+1968,Mexico City,Boxing,South Korea,0,1,1,2
+1968,Mexico City,Football,Japan,0,0,1,1
+1968,Mexico City,Gymnastics,Japan,1,0,0,1
+1968,Mexico City,Gymnastics,Japan,5,2,4,11
+1968,Mexico City,Hockey,India,0,0,1,1
+1968,Mexico City,Hockey,Pakistan,1,0,0,1
+1968,Mexico City,Volleyball,Japan,0,2,0,2
+1968,Mexico City,Weightlifting,Iran,1,1,0,2
+1968,Mexico City,Weightlifting,Japan,1,1,1,3
+1968,Mexico City,Wrestling,Iran,1,0,2,3
+1968,Mexico City,Wrestling,Japan,4,1,0,5
+1968,Mexico City,Wrestling,Mongolia,0,1,3,4
+1972,Munich,Boxing,North Korea,0,1,0,1
+1972,Munich,Gymnastics,Japan,1,0,0,1
+1972,Munich,Gymnastics,Japan,4,5,6,15
+1972,Munich,Hockey,India,0,0,1,1
+1972,Munich,Hockey,Pakistan,0,1,0,1
+1972,Munich,Judo,Japan,3,0,1,4
+1972,Munich,Judo,North Korea,0,0,1,1
+1972,Munich,Judo,South Korea,0,1,0,1
+1972,Munich,Shooting,North Korea,1,0,0,1
+1972,Munich,Swimming,Japan,2,0,1,3
+1972,Munich,Volleyball,Japan,1,1,0,2
+1972,Munich,Volleyball,North Korea,0,0,1,1
+1972,Munich,Weightlifting,Iran,0,1,0,1
+1972,Munich,Wrestling,Iran,0,1,1,2
+1972,Munich,Wrestling,Japan,2,2,0,4
+1972,Munich,Wrestling,Mongolia,0,1,0,1
+1972,Munich,Wrestling,North Korea,0,0,1,1
+1976,Montreal,Archery,Japan,0,1,0,1
+1976,Montreal,Boxing,North Korea,1,1,0,2
+1976,Montreal,Boxing,Thailand,0,0,1,1
+1976,Montreal,Gymnastics,Japan,1,0,0,1
+1976,Montreal,Gymnastics,Japan,2,4,3,9
+1976,Montreal,Hockey,Pakistan,0,0,1,1
+1976,Montreal,Judo,Japan,3,1,1,5
+1976,Montreal,Judo,South Korea,0,1,2,3
+1976,Montreal,Volleyball,Japan,1,0,0,1
+1976,Montreal,Volleyball,South Korea,0,0,1,1
+1976,Montreal,Weightlifting,Iran,0,0,1,1
+1976,Montreal,Weightlifting,Japan,0,0,2,2
+1976,Montreal,Wrestling,Iran,0,1,0,1
+1976,Montreal,Wrestling,Japan,2,0,4,6
+1976,Montreal,Wrestling,Mongolia,0,1,0,1
+1976,Montreal,Wrestling,South Korea,1,0,1,2
+1980,Moskva,Boxing,North Korea,0,0,1,1
+1980,Moskva,Hockey,India,1,0,0,1
+1980,Moskva,Judo,Mongolia,0,1,1,2
+1980,Moskva,Weightlifting,North Korea,0,1,1,2
+1980,Moskva,Wrestling,Mongolia,0,1,1,2
+1980,Moskva,Wrestling,North Korea,0,2,0,2
+1984,Los Angeles,Archery,China,0,1,0,1
+1984,Los Angeles,Archery,Japan,0,0,1,1
+1984,Los Angeles,Archery,South Korea,1,0,1,2
+1984,Los Angeles,Athletics,China,0,0,1,1
+1984,Los Angeles,Basketball,China,0,0,1,1
+1984,Los Angeles,Basketball,South Korea,0,1,0,1
+1984,Los Angeles,Boxing,South Korea,1,1,1,3
+1984,Los Angeles,Boxing,Thailand,0,1,0,1
+1984,Los Angeles,Cycling,Japan,0,0,1,1
+1984,Los Angeles,Diving,China,1,1,1,3
+1984,Los Angeles,Fencing,China,1,0,0,1
+1984,Los Angeles,Gymnastics,China,0,1,1,2
+1984,Los Angeles,Gymnastics,China,5,3,1,9
+1984,Los Angeles,Gymnastics,Japan,0,1,1,2
+1984,Los Angeles,Gymnastics,Japan,3,1,2,6
+1984,Los Angeles,Handball,China,0,0,1,1
+1984,Los Angeles,Handball,South Korea,0,1,0,1
+1984,Los Angeles,Hockey,Pakistan,1,0,0,1
+1984,Los Angeles,Judo,Japan,4,0,1,5
+1984,Los Angeles,Judo,South Korea,2,2,1,5
+1984,Los Angeles,Shooting,China,3,0,3,6
+1984,Los Angeles,Shooting,Japan,1,0,0,1
+1984,Los Angeles,Synchronized Swimming,Japan,0,0,1,1
+1984,Los Angeles,Synchronized Swimming,Japan,0,0,1,1
+1984,Los Angeles,Volleyball,China,1,0,0,1
+1984,Los Angeles,Volleyball,Japan,0,0,1,1
+1984,Los Angeles,Weightlifting,China,4,2,0,6
+1984,Los Angeles,Weightlifting,Chinese Taipei,0,0,1,1
+1984,Los Angeles,Weightlifting,Japan,0,0,3,3
+1984,Los Angeles,Wrestling,Japan,2,5,2,9
+1984,Los Angeles,Wrestling,South Korea,2,1,4,7
+1984,Los Angeles,Wrestling,Syria,0,1,0,1
+1988,Seoul,Archery,Indonesia,0,1,0,1
+1988,Seoul,Archery,South Korea,2,0,0,2
+1988,Seoul,Archery,South Korea,1,2,1,4
+1988,Seoul,Athletics,China,0,0,1,1
+1988,Seoul,Boxing,Mongolia,0,0,1,1
+1988,Seoul,Boxing,Pakistan,0,0,1,1
+1988,Seoul,Boxing,Philippines,0,0,1,1
+1988,Seoul,Boxing,South Korea,2,1,1,4
+1988,Seoul,Boxing,Thailand,0,0,1,1
+1988,Seoul,Diving,China,2,3,1,6
+1988,Seoul,Gymnastics,China,1,0,1,2
+1988,Seoul,Gymnastics,Japan,0,0,1,1
+1988,Seoul,Gymnastics,Japan,0,0,1,1
+1988,Seoul,Gymnastics,South Korea,0,0,1,1
+1988,Seoul,Handball,South Korea,1,1,0,2
+1988,Seoul,Hockey,South Korea,0,1,0,1
+1988,Seoul,Judo,Japan,1,0,3,4
+1988,Seoul,Judo,South Korea,2,0,1,3
+1988,Seoul,Rowing,China,0,1,1,2
+1988,Seoul,Shooting,China,0,1,1,2
+1988,Seoul,Shooting,Japan,0,1,0,1
+1988,Seoul,Shooting,South Korea,0,1,0,1
+1988,Seoul,Swimming,China,0,3,1,4
+1988,Seoul,Swimming,Japan,1,0,0,1
+1988,Seoul,Synchronized Swimming,Japan,0,0,1,1
+1988,Seoul,Synchronized Swimming,Japan,0,0,1,1
+1988,Seoul,Table Tennis,China,1,1,0,2
+1988,Seoul,Table Tennis,China,1,1,1,3
+1988,Seoul,Table Tennis,South Korea,1,1,0,2
+1988,Seoul,Table Tennis,South Korea,1,0,1,2
+1988,Seoul,Volleyball,China,0,0,1,1
+1988,Seoul,Weightlifting,China,0,1,4,5
+1988,Seoul,Weightlifting,South Korea,0,1,1,2
+1988,Seoul,Wrestling,Iran,0,1,0,1
+1988,Seoul,Wrestling,Japan,2,2,0,4
+1988,Seoul,Wrestling,South Korea,2,2,5,9
+1992,Barcelona,Archery,China,0,1,0,1
+1992,Barcelona,Archery,South Korea,1,0,0,1
+1992,Barcelona,Archery,South Korea,1,2,0,3
+1992,Barcelona,Athletics,China,1,1,2,4
+1992,Barcelona,Athletics,Japan,0,2,0,2
+1992,Barcelona,Athletics,Qatar,0,0,1,1
+1992,Barcelona,Athletics,South Korea,1,0,0,1
+1992,Barcelona,Badminton,China,0,0,3,3
+1992,Barcelona,Badminton,Indonesia,0,1,0,1
+1992,Barcelona,Badminton,Indonesia,2,1,1,4
+1992,Barcelona,Badminton,Malaysia,0,0,1,1
+1992,Barcelona,Badminton,South Korea,0,1,0,1
+1992,Barcelona,Badminton,South Korea,2,0,0,2
+1992,Barcelona,Baseball,Chinese Taipei,0,1,0,1
+1992,Barcelona,Baseball,Japan,0,0,1,1
+1992,Barcelona,Basketball,China,0,1,0,1
+1992,Barcelona,Boxing,Mongolia,0,0,1,1
+1992,Barcelona,Boxing,North Korea,1,0,1,2
+1992,Barcelona,Boxing,Philippines,0,0,1,1
+1992,Barcelona,Boxing,South Korea,0,0,2,2
+1992,Barcelona,Boxing,Thailand,0,0,1,1
+1992,Barcelona,Diving,China,3,1,1,5
+1992,Barcelona,Fencing,China,0,1,0,1
+1992,Barcelona,Gymnastics,China,0,1,0,1
+1992,Barcelona,Gymnastics,China,2,3,2,7
+1992,Barcelona,Gymnastics,Japan,0,0,1,1
+1992,Barcelona,Gymnastics,Japan,0,1,1,2
+1992,Barcelona,Gymnastics,North Korea,1,0,0,1
+1992,Barcelona,Gymnastics,South Korea,0,0,1,1
+1992,Barcelona,Handball,South Korea,1,0,0,1
+1992,Barcelona,Hockey,Pakistan,0,0,1,1
+1992,Barcelona,Judo,China,1,0,2,3
+1992,Barcelona,Judo,Japan,2,4,4,10
+1992,Barcelona,Judo,South Korea,1,1,2,4
+1992,Barcelona,Rowing,China,0,0,1,1
+1992,Barcelona,Sailing,China,0,1,0,1
+1992,Barcelona,Shooting,China,2,2,0,4
+1992,Barcelona,Shooting,Japan,0,1,1,2
+1992,Barcelona,Shooting,Mongolia,0,0,1,1
+1992,Barcelona,Shooting,South Korea,2,0,0,2
+1992,Barcelona,Swimming,China,0,1,0,1
+1992,Barcelona,Swimming,China,4,4,0,8
+1992,Barcelona,Swimming,Japan,1,0,0,1
+1992,Barcelona,Synchronized Swimming,Japan,0,0,1,1
+1992,Barcelona,Synchronized Swimming,Japan,0,0,1,1
+1992,Barcelona,Table Tennis,China,1,1,0,2
+1992,Barcelona,Table Tennis,China,1,1,1,3
+1992,Barcelona,Table Tennis,North Korea,0,0,1,1
+1992,Barcelona,Table Tennis,North Korea,0,0,1,1
+1992,Barcelona,Table Tennis,South Korea,0,0,2,2
+1992,Barcelona,Table Tennis,South Korea,0,0,2,2
+1992,Barcelona,Weightlifting,China,0,2,2,4
+1992,Barcelona,Weightlifting,North Korea,0,0,1,1
+1992,Barcelona,Weightlifting,South Korea,1,0,0,1
+1992,Barcelona,Wrestling,China,0,0,1,1
+1992,Barcelona,Wrestling,Iran,0,1,2,3
+1992,Barcelona,Wrestling,Japan,0,0,1,1
+1992,Barcelona,Wrestling,North Korea,2,0,1,3
+1992,Barcelona,Wrestling,South Korea,2,1,1,4
+1996,Atlanta,Archery,China,0,1,0,1
+1996,Atlanta,Archery,South Korea,1,0,1,2
+1996,Atlanta,Archery,South Korea,1,1,0,2
+1996,Atlanta,Athletics,China,1,2,1,4
+1996,Atlanta,Athletics,Japan,0,0,1,1
+1996,Atlanta,Athletics,South Korea,0,1,0,1
+1996,Atlanta,Athletics,Syria,1,0,0,1
+1996,Atlanta,Badminton,China,0,1,0,1
+1996,Atlanta,Badminton,China,0,0,2,2
+1996,Atlanta,Badminton,Indonesia,0,0,1,1
+1996,Atlanta,Badminton,Indonesia,0,1,1,2
+1996,Atlanta,Badminton,Malaysia,0,0,1,1
+1996,Atlanta,Badminton,Malaysia,0,1,0,1
+1996,Atlanta,Badminton,South Korea,1,0,0,1
+1996,Atlanta,Badminton,South Korea,0,2,0,2
+1996,Atlanta,Baseball,Japan,0,1,0,1
+1996,Atlanta,Boxing,Kazakhstan,1,1,2,4
+1996,Atlanta,Boxing,Philippines,0,1,0,1
+1996,Atlanta,Boxing,South Korea,0,1,0,1
+1996,Atlanta,Boxing,Thailand,1,0,1,2
+1996,Atlanta,Boxing,Uzbekistan,0,0,1,1
+1996,Atlanta,Cycling,Japan,0,0,1,1
+1996,Atlanta,Diving,China,3,1,1,5
+1996,Atlanta,Football,China,0,1,0,1
+1996,Atlanta,Gymnastics,China,0,1,0,1
+1996,Atlanta,Gymnastics,China,1,3,1,5
+1996,Atlanta,Gymnastics,South Korea,0,1,0,1
+1996,Atlanta,Handball,South Korea,0,1,0,1
+1996,Atlanta,Hockey,South Korea,0,1,0,1
+1996,Atlanta,Judo,China,1,0,1,2
+1996,Atlanta,Judo,Japan,3,4,1,8
+1996,Atlanta,Judo,Mongolia,0,0,1,1
+1996,Atlanta,Judo,North Korea,1,0,0,1
+1996,Atlanta,Judo,South Korea,2,4,2,8
+1996,Atlanta,Judo,Uzbekistan,0,1,0,1
+1996,Atlanta,Modern Pentathlon,Kazakhstan,1,0,0,1
+1996,Atlanta,Rowing,China,0,1,0,1
+1996,Atlanta,Sailing,Hong Kong,1,0,0,1
+1996,Atlanta,Sailing,Japan,0,1,0,1
+1996,Atlanta,Shooting,China,2,2,1,5
+1996,Atlanta,Shooting,Kazakhstan,0,2,1,3
+1996,Atlanta,Softball,China,0,1,0,1
+1996,Atlanta,Swimming,China,0,1,1,2
+1996,Atlanta,Swimming,China,1,2,1,4
+1996,Atlanta,Synchronized Swimming,Japan,0,0,1,1
+1996,Atlanta,Table Tennis,China,0,2,0,2
+1996,Atlanta,Table Tennis,China,2,1,1,4
+1996,Atlanta,Table Tennis,Chinese Taipei,0,1,0,1
+1996,Atlanta,Table Tennis,South Korea,0,0,2,2
+1996,Atlanta,Tennis,India,0,0,1,1
+1996,Atlanta,Volleyball,China,0,1,0,1
+1996,Atlanta,Weightlifting,China,2,1,1,4
+1996,Atlanta,Weightlifting,Kazakhstan,0,1,0,1
+1996,Atlanta,Weightlifting,North Korea,0,1,1,2
+1996,Atlanta,Wrestling,China,0,0,1,1
+1996,Atlanta,Wrestling,Iran,1,1,1,3
+1996,Atlanta,Wrestling,Japan,0,0,1,1
+1996,Atlanta,Wrestling,Kazakhstan,1,0,1,2
+1996,Atlanta,Wrestling,North Korea,1,0,1,2
+1996,Atlanta,Wrestling,South Korea,1,3,0,4
+2000,Sydney,Archery,South Korea,2,0,0,2
+2000,Sydney,Archery,South Korea,1,1,1,3
+2000,Sydney,Athletics,China,1,0,0,1
+2000,Sydney,Athletics,Japan,1,0,0,1
+2000,Sydney,Athletics,Kazakhstan,1,0,0,1
+2000,Sydney,Athletics,Saudi Arabia,0,1,0,1
+2000,Sydney,Athletics,Sri Lanka,0,1,0,1
+2000,Sydney,Badminton,China,1,1,0,2
+2000,Sydney,Badminton,China,2,0,2,4
+2000,Sydney,Badminton,Indonesia,0,1,0,1
+2000,Sydney,Badminton,Indonesia,1,1,0,2
+2000,Sydney,Badminton,South Korea,0,0,1,1
+2000,Sydney,Baseball,South Korea,0,0,1,1
+2000,Sydney,Boxing,Kazakhstan,2,2,0,4
+2000,Sydney,Boxing,North Korea,0,0,1,1
+2000,Sydney,Boxing,Thailand,1,0,1,2
+2000,Sydney,Boxing,Uzbekistan,1,0,2,3
+2000,Sydney,Cycling,China,0,0,1,1
+2000,Sydney,Cycling,Kazakhstan,0,1,0,1
+2000,Sydney,Diving,China,2,2,0,4
+2000,Sydney,Diving,China,3,3,0,6
+2000,Sydney,Equestrianism,Saudi Arabia,0,0,1,1
+2000,Sydney,Fencing,China,0,1,1,2
+2000,Sydney,Fencing,South Korea,1,0,1,2
+2000,Sydney,Gymnastics,China,1,0,0,1
+2000,Sydney,Gymnastics,China,2,2,2,6
+2000,Sydney,Gymnastics,South Korea,0,1,1,2
+2000,Sydney,Hockey,South Korea,0,1,0,1
+2000,Sydney,Judo,China,2,1,1,4
+2000,Sydney,Judo,Japan,4,2,2,8
+2000,Sydney,Judo,Kyrgyzstan,0,0,1,1
+2000,Sydney,Judo,North Korea,0,0,1,1
+2000,Sydney,Judo,South Korea,0,2,3,5
+2000,Sydney,Shooting,China,3,2,3,8
+2000,Sydney,Shooting,Kuwait,0,0,1,1
+2000,Sydney,Shooting,South Korea,0,1,0,1
+2000,Sydney,Softball,Japan,0,1,0,1
+2000,Sydney,Swimming,Japan,0,0,1,1
+2000,Sydney,Swimming,Japan,0,2,1,3
+2000,Sydney,Synchronized Swimming,Japan,0,2,0,2
+2000,Sydney,Table Tennis,China,2,0,0,2
+2000,Sydney,Table Tennis,China,2,1,1,4
+2000,Sydney,Table Tennis,Chinese Taipei,0,0,1,1
+2000,Sydney,Table Tennis,South Korea,0,0,1,1
+2000,Sydney,Taekwondo,China,1,0,0,1
+2000,Sydney,Taekwondo,Chinese Taipei,0,0,2,2
+2000,Sydney,Taekwondo,Iran,0,0,1,1
+2000,Sydney,Taekwondo,Japan,0,0,1,1
+2000,Sydney,Taekwondo,South Korea,3,1,0,4
+2000,Sydney,Taekwondo,Vietnam,0,1,0,1
+2000,Sydney,Weightlifting,China,5,1,1,7
+2000,Sydney,Weightlifting,Chinese Taipei,0,1,1,2
+2000,Sydney,Weightlifting,India,0,0,1,1
+2000,Sydney,Weightlifting,Indonesia,0,1,2,3
+2000,Sydney,Weightlifting,Iran,2,0,0,2
+2000,Sydney,Weightlifting,North Korea,0,1,0,1
+2000,Sydney,Weightlifting,Qatar,0,0,1,1
+2000,Sydney,Weightlifting,Thailand,0,0,1,1
+2000,Sydney,Wrestling,China,0,0,1,1
+2000,Sydney,Wrestling,Iran,1,0,0,1
+2000,Sydney,Wrestling,Japan,0,1,0,1
+2000,Sydney,Wrestling,Kazakhstan,0,1,0,1
+2000,Sydney,Wrestling,North Korea,0,0,1,1
+2000,Sydney,Wrestling,South Korea,1,2,1,4
+2000,Sydney,Wrestling,Uzbekistan,0,1,0,1
+2004,Athina,Archery,China,0,1,0,1
+2004,Athina,Archery,Chinese Taipei,0,1,1,2
+2004,Athina,Archery,Japan,0,1,0,1
+2004,Athina,Archery,South Korea,1,1,0,2
+2004,Athina,Archery,South Korea,2,0,0,2
+2004,Athina,Athletics,China,2,0,0,2
+2004,Athina,Athletics,Japan,2,0,0,2
+2004,Athina,Athletics,Kazakhstan,0,0,1,1
+2004,Athina,Badminton,China,1,0,1,2
+2004,Athina,Badminton,China,2,0,0,2
+2004,Athina,Badminton,Indonesia,0,0,1,1
+2004,Athina,Badminton,Indonesia,1,0,1,2
+2004,Athina,Badminton,South Korea,0,1,0,1
+2004,Athina,Badminton,South Korea,0,1,1,2
+2004,Athina,Baseball,Japan,0,0,1,1
+2004,Athina,Boxing,China,0,0,1,1
+2004,Athina,Boxing,Kazakhstan,1,1,1,3
+2004,Athina,Boxing,North Korea,0,1,0,1
+2004,Athina,Boxing,South Korea,0,0,2,2
+2004,Athina,Boxing,Syria,0,0,1,1
+2004,Athina,Boxing,Thailand,1,1,1,3
+2004,Athina,Boxing,Uzbekistan,0,0,2,2
+2004,Athina,Canoeing,China,1,0,0,1
+2004,Athina,Cycling,China,0,1,0,1
+2004,Athina,Cycling,Japan,0,1,0,1
+2004,Athina,Diving,China,3,0,0,3
+2004,Athina,Diving,China,3,2,1,6
+2004,Athina,Fencing,China,0,1,0,1
+2004,Athina,Fencing,China,0,2,0,2
+2004,Athina,Gymnastics,China,1,0,2,3
+2004,Athina,Gymnastics,Japan,1,0,0,1
+2004,Athina,Gymnastics,Japan,0,1,2,3
+2004,Athina,Gymnastics,South Korea,0,1,1,2
+2004,Athina,Handball,South Korea,0,1,0,1
+2004,Athina,Judo,China,1,1,3,5
+2004,Athina,Judo,Japan,8,2,0,10
+2004,Athina,Judo,Mongolia,0,0,1,1
+2004,Athina,Judo,North Korea,0,1,0,1
+2004,Athina,Judo,South Korea,1,1,1,3
+2004,Athina,Sailing,China,0,1,0,1
+2004,Athina,Sailing,Japan,0,0,1,1
+2004,Athina,Shooting,China,4,2,3,9
+2004,Athina,Shooting,India,0,1,0,1
+2004,Athina,Shooting,North Korea,0,0,1,1
+2004,Athina,Shooting,South Korea,0,2,1,3
+2004,Athina,Shooting,United Arab Emirates,1,0,0,1
+2004,Athina,Softball,Japan,0,0,1,1
+2004,Athina,Swimming,China,1,0,0,1
+2004,Athina,Swimming,China,0,1,0,1
+2004,Athina,Swimming,Japan,0,0,1,1
+2004,Athina,Swimming,Japan,3,1,3,7
+2004,Athina,Synchronized Swimming,Japan,0,2,0,2
+2004,Athina,Table Tennis,China,2,0,0,2
+2004,Athina,Table Tennis,China,1,1,1,3
+2004,Athina,Table Tennis,Hong Kong,0,1,0,1
+2004,Athina,Table Tennis,North Korea,0,1,0,1
+2004,Athina,Table Tennis,South Korea,0,1,0,1
+2004,Athina,Table Tennis,South Korea,1,0,1,2
+2004,Athina,Taekwondo,China,2,0,0,2
+2004,Athina,Taekwondo,Chinese Taipei,2,1,0,3
+2004,Athina,Taekwondo,Iran,1,0,1,2
+2004,Athina,Taekwondo,South Korea,2,0,2,4
+2004,Athina,Taekwondo,Thailand,0,0,1,1
+2004,Athina,Tennis,China,1,0,0,1
+2004,Athina,Trampolining,China,0,0,1,1
+2004,Athina,Volleyball,China,1,0,0,1
+2004,Athina,Weightlifting,China,5,3,0,8
+2004,Athina,Weightlifting,Indonesia,0,1,0,1
+2004,Athina,Weightlifting,Iran,1,0,0,1
+2004,Athina,Weightlifting,Kazakhstan,0,1,0,1
+2004,Athina,Weightlifting,North Korea,0,1,0,1
+2004,Athina,Weightlifting,South Korea,0,2,0,2
+2004,Athina,Weightlifting,Thailand,2,0,2,4
+2004,Athina,Wrestling,China,1,0,0,1
+2004,Athina,Wrestling,Iran,0,2,1,3
+2004,Athina,Wrestling,Japan,2,1,3,6
+2004,Athina,Wrestling,Kazakhstan,0,2,1,3
+2004,Athina,Wrestling,South Korea,1,1,0,2
+2004,Athina,Wrestling,Uzbekistan,2,1,0,3
+2008,Beijing,Archery,China,1,0,0,1
+2008,Beijing,Archery,China,0,1,1,2
+2008,Beijing,Archery,South Korea,2,0,0,2
+2008,Beijing,Archery,South Korea,0,2,1,3
+2008,Beijing,Athletics,China,0,0,2,2
+2008,Beijing,Athletics,Japan,0,1,0,1
+2008,Beijing,Badminton,China,1,1,1,3
+2008,Beijing,Badminton,China,2,1,1,4
+2008,Beijing,Badminton,Indonesia,0,0,1,1
+2008,Beijing,Badminton,Indonesia,1,1,0,2
+2008,Beijing,Badminton,Malaysia,0,1,0,1
+2008,Beijing,Badminton,South Korea,1,1,1,3
+2008,Beijing,Baseball,South Korea,1,0,0,1
+2008,Beijing,Beach Volleyball,China,0,1,0,1
+2008,Beijing,Boxing,China,2,1,1,4
+2008,Beijing,Boxing,India,0,0,1,1
+2008,Beijing,Boxing,Kazakhstan,1,0,1,2
+2008,Beijing,Boxing,Mongolia,1,1,0,2
+2008,Beijing,Boxing,South Korea,0,0,1,1
+2008,Beijing,Boxing,Thailand,1,1,0,2
+2008,Beijing,Canoeing,China,1,0,0,1
+2008,Beijing,Cycling,China,0,0,1,1
+2008,Beijing,Cycling,Japan,0,0,1,1
+2008,Beijing,Diving,China,4,0,0,4
+2008,Beijing,Diving,China,3,1,3,7
+2008,Beijing,Fencing,China,1,0,0,1
+2008,Beijing,Fencing,China,0,1,0,1
+2008,Beijing,Fencing,Japan,0,1,0,1
+2008,Beijing,Fencing,South Korea,0,1,0,1
+2008,Beijing,Gymnastics,China,2,0,0,2
+2008,Beijing,Gymnastics,China,7,1,4,12
+2008,Beijing,Gymnastics,Japan,0,1,0,1
+2008,Beijing,Gymnastics,Japan,0,1,0,1
+2008,Beijing,Gymnastics,North Korea,1,0,0,1
+2008,Beijing,Gymnastics,South Korea,0,1,0,1
+2008,Beijing,Gymnastics,Uzbekistan,0,0,1,1
+2008,Beijing,Handball,South Korea,0,0,1,1
+2008,Beijing,Hockey,China,0,1,0,1
+2008,Beijing,Judo,China,3,0,1,4
+2008,Beijing,Judo,Japan,4,1,2,7
+2008,Beijing,Judo,Kazakhstan,0,1,0,1
+2008,Beijing,Judo,Mongolia,1,0,0,1
+2008,Beijing,Judo,North Korea,0,1,2,3
+2008,Beijing,Judo,South Korea,1,2,1,4
+2008,Beijing,Judo,Tajikistan,0,0,1,1
+2008,Beijing,Judo,Uzbekistan,0,1,1,2
+2008,Beijing,Rhythmic Gymnastics,China,0,1,0,1
+2008,Beijing,Rowing,China,1,1,0,2
+2008,Beijing,Sailing,China,1,0,1,2
+2008,Beijing,Shooting,China,5,2,1,8
+2008,Beijing,Shooting,India,1,0,0,1
+2008,Beijing,Shooting,Mongolia,0,1,0,1
+2008,Beijing,Shooting,South Korea,1,1,0,2
+2008,Beijing,Softball,Japan,1,0,0,1
+2008,Beijing,Swimming,China,0,1,1,2
+2008,Beijing,Swimming,China,1,2,1,4
+2008,Beijing,Swimming,Japan,0,0,1,1
+2008,Beijing,Swimming,Japan,2,0,2,4
+2008,Beijing,Swimming,South Korea,1,1,0,2
+2008,Beijing,Synchronized Swimming,China,0,0,1,1
+2008,Beijing,Synchronized Swimming,Japan,0,0,1,1
+2008,Beijing,Table Tennis,China,2,0,0,2
+2008,Beijing,Table Tennis,China,2,2,2,6
+2008,Beijing,Table Tennis,Singapore,0,1,0,1
+2008,Beijing,Table Tennis,South Korea,0,0,2,2
+2008,Beijing,Taekwondo,Afghanistan,0,0,1,1
+2008,Beijing,Taekwondo,China,1,0,1,2
+2008,Beijing,Taekwondo,Chinese Taipei,0,0,2,2
+2008,Beijing,Taekwondo,Iran,1,0,0,1
+2008,Beijing,Taekwondo,Kazakhstan,0,0,1,1
+2008,Beijing,Taekwondo,South Korea,4,0,0,4
+2008,Beijing,Taekwondo,Thailand,0,1,0,1
+2008,Beijing,Tennis,China,0,0,1,1
+2008,Beijing,Trampolining,China,2,0,1,3
+2008,Beijing,Trampolining,Uzbekistan,0,0,1,1
+2008,Beijing,Volleyball,China,0,0,1,1
+2008,Beijing,Weightlifting,China,8,1,0,9
+2008,Beijing,Weightlifting,Chinese Taipei,0,0,2,2
+2008,Beijing,Weightlifting,Indonesia,0,0,2,2
+2008,Beijing,Weightlifting,Kazakhstan,1,2,1,4
+2008,Beijing,Weightlifting,North Korea,1,0,1,2
+2008,Beijing,Weightlifting,South Korea,2,1,0,3
+2008,Beijing,Weightlifting,Thailand,1,0,0,1
+2008,Beijing,Weightlifting,Vietnam,0,1,0,1
+2008,Beijing,Wrestling,China,1,2,0,3
+2008,Beijing,Wrestling,India,0,0,1,1
+2008,Beijing,Wrestling,Iran,0,0,1,1
+2008,Beijing,Wrestling,Japan,2,2,2,6
+2008,Beijing,Wrestling,Kazakhstan,0,1,4,5
+2008,Beijing,Wrestling,Kyrgyzstan,0,1,1,2
+2008,Beijing,Wrestling,South Korea,0,0,1,1
+2008,Beijing,Wrestling,Tajikistan,0,1,0,1
+2008,Beijing,Wrestling,Uzbekistan,1,1,0,2
+2012,London,Archery,China,0,0,1,1
+2012,London,Archery,China,0,1,0,1
+2012,London,Archery,Japan,0,1,0,1
+2012,London,Archery,Japan,0,0,1,1
+2012,London,Archery,South Korea,2,0,0,2
+2012,London,Archery,South Korea,1,0,1,2
+2012,London,Athletics,Bahrain,0,0,1,1
+2012,London,Athletics,China,1,0,5,6
+2012,London,Athletics,Iran,0,1,0,1
+2012,London,Athletics,Japan,0,0,1,1
+2012,London,Athletics,Kazakhstan,1,0,0,1
+2012,London,Athletics,Qatar,0,0,1,1
+2012,London,Badminton,China,3,0,0,3
+2012,London,Badminton,China,2,1,1,4
+2012,London,Badminton,India,0,0,1,1
+2012,London,Badminton,Japan,0,1,0,1
+2012,London,Badminton,Malaysia,0,1,0,1
+2012,London,Badminton,South Korea,0,0,1,1
+2012,London,Boxing,China,1,1,1,3
+2012,London,Boxing,India,0,0,1,1
+2012,London,Boxing,Japan,1,0,1,2
+2012,London,Boxing,Kazakhstan,1,1,2,4
+2012,London,Boxing,Mongolia,0,1,1,2
+2012,London,Boxing,South Korea,0,1,0,1
+2012,London,Boxing,Tajikistan,0,0,1,1
+2012,London,Boxing,Thailand,0,1,0,1
+2012,London,Boxing,Uzbekistan,0,0,1,1
+2012,London,Cycling,China,0,1,0,1
+2012,London,Cycling,China,0,1,1,2
+2012,London,Cycling,Hong Kong,0,0,1,1
+2012,London,Cycling,Kazakhstan,1,0,0,1
+2012,London,Diving,China,4,0,0,4
+2012,London,Diving,China,2,3,1,6
+2012,London,Diving,Malaysia,0,0,1,1
+2012,London,Equestrianism,Saudi Arabia,0,0,1,1
+2012,London,Fencing,China,1,0,0,1
+2012,London,Fencing,China,1,0,1,2
+2012,London,Fencing,Japan,0,1,0,1
+2012,London,Fencing,South Korea,1,0,2,3
+2012,London,Fencing,South Korea,1,1,1,3
+2012,London,Football,Japan,0,1,0,1
+2012,London,Football,South Korea,0,0,1,1
+2012,London,Gymnastics,China,1,0,0,1
+2012,London,Gymnastics,China,3,3,1,7
+2012,London,Gymnastics,Japan,0,1,0,1
+2012,London,Gymnastics,Japan,1,1,0,2
+2012,London,Gymnastics,South Korea,1,0,0,1
+2012,London,Judo,China,0,1,1,2
+2012,London,Judo,Japan,1,3,3,7
+2012,London,Judo,Mongolia,0,1,1,2
+2012,London,Judo,North Korea,1,0,0,1
+2012,London,Judo,South Korea,2,0,1,3
+2012,London,Judo,Uzbekistan,0,0,1,1
+2012,London,Modern Pentathlon,China,0,1,0,1
+2012,London,Rowing,China,0,1,0,1
+2012,London,Sailing,China,1,0,0,1
+2012,London,Shooting,China,2,2,3,7
+2012,London,Shooting,India,0,1,1,2
+2012,London,Shooting,Kuwait,0,0,1,1
+2012,London,Shooting,Qatar,0,0,1,1
+2012,London,Shooting,South Korea,3,2,0,5
+2012,London,Swimming,China,0,0,1,1
+2012,London,Swimming,China,5,2,2,9
+2012,London,Swimming,Japan,0,1,1,2
+2012,London,Swimming,Japan,0,2,7,9
+2012,London,Swimming,South Korea,0,2,0,2
+2012,London,Synchronized Swimming,China,0,1,1,2
+2012,London,Table Tennis,China,2,0,0,2
+2012,London,Table Tennis,China,2,2,0,4
+2012,London,Table Tennis,Japan,0,1,0,1
+2012,London,Table Tennis,Singapore,0,0,1,1
+2012,London,Table Tennis,Singapore,0,0,1,1
+2012,London,Table Tennis,South Korea,0,1,0,1
+2012,London,Taekwondo,Afghanistan,0,0,1,1
+2012,London,Taekwondo,China,1,1,1,3
+2012,London,Taekwondo,Chinese Taipei,0,0,1,1
+2012,London,Taekwondo,Iran,0,1,0,1
+2012,London,Taekwondo,South Korea,1,1,0,2
+2012,London,Taekwondo,Thailand,0,0,1,1
+2012,London,Trampolining,China,1,1,2,4
+2012,London,Volleyball,Japan,0,0,1,1
+2012,London,Weightlifting,China,5,2,0,7
+2012,London,Weightlifting,Chinese Taipei,0,1,0,1
+2012,London,Weightlifting,Indonesia,0,1,1,2
+2012,London,Weightlifting,Iran,1,2,1,4
+2012,London,Weightlifting,Japan,0,1,0,1
+2012,London,Weightlifting,Kazakhstan,4,0,0,4
+2012,London,Weightlifting,North Korea,3,0,1,4
+2012,London,Weightlifting,Thailand,0,1,0,1
+2012,London,Wrestling,China,0,1,0,1
+2012,London,Wrestling,India,0,1,1,2
+2012,London,Wrestling,Iran,3,1,2,6
+2012,London,Wrestling,Japan,4,0,2,6
+2012,London,Wrestling,Kazakhstan,0,0,3,3
+2012,London,Wrestling,Mongolia,0,0,1,1
+2012,London,Wrestling,North Korea,0,0,1,1
+2012,London,Wrestling,South Korea,1,0,0,1
+2012,London,Wrestling,Uzbekistan,1,0,0,1
+2016,Rio de Janeiro,Archery,Chinese Taipei,0,0,1,1
+2016,Rio de Janeiro,Archery,South Korea,2,0,0,2
+2016,Rio de Janeiro,Archery,South Korea,2,0,1,3
+2016,Rio de Janeiro,Athletics,Bahrain,1,1,0,2
+2016,Rio de Janeiro,Athletics,China,2,2,2,6
+2016,Rio de Janeiro,Athletics,Japan,0,0,1,1
+2016,Rio de Janeiro,Athletics,Japan,0,1,0,1
+2016,Rio de Janeiro,Athletics,Kazakhstan,0,0,1,1
+2016,Rio de Janeiro,Athletics,Qatar,0,1,0,1
+2016,Rio de Janeiro,Athletics,Tajikistan,1,0,0,1
+2016,Rio de Janeiro,Badminton,China,1,0,0,1
+2016,Rio de Janeiro,Badminton,China,1,0,1,2
+2016,Rio de Janeiro,Badminton,India,0,1,0,1
+2016,Rio de Janeiro,Badminton,Indonesia,1,0,0,1
+2016,Rio de Janeiro,Badminton,Japan,0,0,1,1
+2016,Rio de Janeiro,Badminton,Japan,1,0,0,1
+2016,Rio de Janeiro,Badminton,Malaysia,0,1,0,1
+2016,Rio de Janeiro,Badminton,Malaysia,0,2,0,2
+2016,Rio de Janeiro,Badminton,South Korea,0,0,1,1
+2016,Rio de Janeiro,Boxing,China,0,1,3,4
+2016,Rio de Janeiro,Boxing,Kazakhstan,1,2,2,5
+2016,Rio de Janeiro,Boxing,Mongolia,0,0,1,1
+2016,Rio de Janeiro,Boxing,Uzbekistan,3,2,2,7
+2016,Rio de Janeiro,Canoeing,Japan,0,0,1,1
+2016,Rio de Janeiro,Cycling,China,1,0,0,1
+2016,Rio de Janeiro,Cycling,Malaysia,0,0,1,1
+2016,Rio de Janeiro,Diving,China,3,0,1,4
+2016,Rio de Janeiro,Diving,China,4,2,0,6
+2016,Rio de Janeiro,Diving,Malaysia,0,1,0,1
+2016,Rio de Janeiro,Fencing,China,0,0,1,1
+2016,Rio de Janeiro,Fencing,China,0,1,0,1
+2016,Rio de Janeiro,Fencing,South Korea,1,0,1,2
+2016,Rio de Janeiro,Golf,China,0,0,1,1
+2016,Rio de Janeiro,Golf,South Korea,1,0,0,1
+2016,Rio de Janeiro,Gymnastics,China,0,0,2,2
+2016,Rio de Janeiro,Gymnastics,Japan,1,0,0,1
+2016,Rio de Janeiro,Gymnastics,Japan,1,0,1,2
+2016,Rio de Janeiro,Gymnastics,North Korea,1,0,0,1
+2016,Rio de Janeiro,Judo,China,0,0,2,2
+2016,Rio de Janeiro,Judo,Japan,3,1,8,12
+2016,Rio de Janeiro,Judo,Kazakhstan,0,1,1,2
+2016,Rio de Janeiro,Judo,Mongolia,0,1,0,1
+2016,Rio de Janeiro,Judo,South Korea,0,2,1,3
+2016,Rio de Janeiro,Judo,United Arab Emirates,0,0,1,1
+2016,Rio de Janeiro,Judo,Uzbekistan,0,0,2,2
+2016,Rio de Janeiro,Rowing,China,0,0,1,1
+2016,Rio de Janeiro,Rowing,China,0,0,1,1
+2016,Rio de Janeiro,Sailing,China,0,1,0,1
+2016,Rio de Janeiro,Shooting,China,1,2,4,7
+2016,Rio de Janeiro,Shooting,North Korea,0,0,1,1
+2016,Rio de Janeiro,Shooting,South Korea,1,1,0,2
+2016,Rio de Janeiro,Shooting,Vietnam,1,1,0,2
+2016,Rio de Janeiro,Swimming,China,1,2,3,6
+2016,Rio de Janeiro,Swimming,Japan,0,0,1,1
+2016,Rio de Janeiro,Swimming,Japan,2,2,2,6
+2016,Rio de Janeiro,Swimming,Kazakhstan,1,0,0,1
+2016,Rio de Janeiro,Swimming,Singapore,1,0,0,1
+2016,Rio de Janeiro,Synchronized Swimming,China,0,2,0,2
+2016,Rio de Janeiro,Synchronized Swimming,Japan,0,0,2,2
+2016,Rio de Janeiro,Table Tennis,China,2,0,0,2
+2016,Rio de Janeiro,Table Tennis,China,2,2,0,4
+2016,Rio de Janeiro,Table Tennis,Japan,0,0,1,1
+2016,Rio de Janeiro,Table Tennis,Japan,0,1,1,2
+2016,Rio de Janeiro,Table Tennis,North Korea,0,0,1,1
+2016,Rio de Janeiro,Taekwondo,China,2,0,0,2
+2016,Rio de Janeiro,Taekwondo,Iran,0,0,1,1
+2016,Rio de Janeiro,Taekwondo,Jordan,1,0,0,1
+2016,Rio de Janeiro,Taekwondo,South Korea,2,0,3,5
+2016,Rio de Janeiro,Taekwondo,Thailand,0,1,1,2
+2016,Rio de Janeiro,Tennis,Japan,0,0,1,1
+2016,Rio de Janeiro,Trampolining,China,0,1,2,3
+2016,Rio de Janeiro,Volleyball,China,1,0,0,1
+2016,Rio de Janeiro,Weightlifting,China,5,2,0,7
+2016,Rio de Janeiro,Weightlifting,Chinese Taipei,1,0,1,2
+2016,Rio de Janeiro,Weightlifting,Indonesia,0,2,0,2
+2016,Rio de Janeiro,Weightlifting,Iran,2,0,0,2
+2016,Rio de Janeiro,Weightlifting,Japan,0,0,1,1
+2016,Rio de Janeiro,Weightlifting,Kazakhstan,1,1,4,6
+2016,Rio de Janeiro,Weightlifting,North Korea,1,3,0,4
+2016,Rio de Janeiro,Weightlifting,Philippines,0,1,0,1
+2016,Rio de Janeiro,Weightlifting,South Korea,0,0,1,1
+2016,Rio de Janeiro,Weightlifting,Thailand,2,1,1,4
+2016,Rio de Janeiro,Weightlifting,Uzbekistan,1,0,0,1
+2016,Rio de Janeiro,Wrestling,China,0,0,2,2
+2016,Rio de Janeiro,Wrestling,India,0,0,1,1
+2016,Rio de Janeiro,Wrestling,Iran,1,1,3,5
+2016,Rio de Janeiro,Wrestling,Japan,4,3,0,7
+2016,Rio de Janeiro,Wrestling,Kazakhstan,0,1,2,3
+2016,Rio de Janeiro,Wrestling,South Korea,0,0,1,1
+2016,Rio de Janeiro,Wrestling,Uzbekistan,0,0,3,3
+2020,Tokyo,Archery,Chinese Taipei,0,1,0,1
+2020,Tokyo,Archery,Japan,0,0,1,1
+2020,Tokyo,Archery,Japan,0,0,1,1
+2020,Tokyo,Archery,South Korea,1,0,0,1
+2020,Tokyo,Archery,South Korea,3,0,0,3
+2020,Tokyo,Artistic swimming,China,0,2,0,2
+2020,Tokyo,Athletics,Bahrain,0,1,0,1
+2020,Tokyo,Athletics,China,2,2,1,5
+2020,Tokyo,Athletics,India,1,0,0,1
+2020,Tokyo,Athletics,Japan,0,1,1,2
+2020,Tokyo,Athletics,Qatar,1,0,0,1
+2020,Tokyo,Badminton,China,1,1,0,2
+2020,Tokyo,Badminton,China,1,2,0,3
+2020,Tokyo,Badminton,Chinese Taipei,0,1,0,1
+2020,Tokyo,Badminton,Chinese Taipei,1,0,0,1
+2020,Tokyo,Badminton,India,0,0,1,1
+2020,Tokyo,Badminton,Indonesia,0,0,1,1
+2020,Tokyo,Badminton,Indonesia,1,0,0,1
+2020,Tokyo,Badminton,Japan,0,0,1,1
+2020,Tokyo,Badminton,Malaysia,0,0,1,1
+2020,Tokyo,Badminton,South Korea,0,0,1,1
+2020,Tokyo,Baseball,Japan,1,0,0,1
+2020,Tokyo,Basketball,China,0,0,1,1
+2020,Tokyo,Basketball,Japan,0,1,0,1
+2020,Tokyo,Boxing,China,0,2,0,2
+2020,Tokyo,Boxing,Chinese Taipei,0,0,1,1
+2020,Tokyo,Boxing,India,0,0,1,1
+2020,Tokyo,Boxing,Japan,1,0,2,3
+2020,Tokyo,Boxing,Kazakhstan,0,0,2,2
+2020,Tokyo,Boxing,Philippines,0,2,1,3
+2020,Tokyo,Boxing,Thailand,0,0,1,1
+2020,Tokyo,Boxing,Uzbekistan,1,0,0,1
+2020,Tokyo,Canoeing,China,0,1,0,1
+2020,Tokyo,Canoeing,China,1,1,0,2
+2020,Tokyo,Cycling,China,1,0,0,1
+2020,Tokyo,Cycling,Hong Kong,0,0,1,1
+2020,Tokyo,Cycling,Japan,0,1,0,1
+2020,Tokyo,Cycling,Malaysia,0,1,0,1
+2020,Tokyo,Diving,China,3,1,0,4
+2020,Tokyo,Diving,China,4,4,0,8
+2020,Tokyo,Fencing,China,1,0,0,1
+2020,Tokyo,Fencing,Hong Kong,1,0,0,1
+2020,Tokyo,Fencing,Japan,1,0,0,1
+2020,Tokyo,Fencing,South Korea,0,0,1,1
+2020,Tokyo,Fencing,South Korea,1,1,2,4
+2020,Tokyo,Field hockey,India,0,0,1,1
+2020,Tokyo,Golf,Chinese Taipei,0,0,1,1
+2020,Tokyo,Golf,Japan,0,1,0,1
+2020,Tokyo,Gymnastics,China,0,0,1,1
+2020,Tokyo,Gymnastics,China,4,5,1,10
+2020,Tokyo,Gymnastics,Chinese Taipei,0,1,0,1
+2020,Tokyo,Gymnastics,Japan,0,1,0,1
+2020,Tokyo,Gymnastics,Japan,2,0,2,4
+2020,Tokyo,Gymnastics,South Korea,1,0,1,2
+2020,Tokyo,Judo,Chinese Taipei,0,1,0,1
+2020,Tokyo,Judo,Japan,0,1,0,1
+2020,Tokyo,Judo,Japan,9,1,1,11
+2020,Tokyo,Judo,Kazakhstan,0,0,1,1
+2020,Tokyo,Judo,Mongolia,0,1,2,3
+2020,Tokyo,Judo,South Korea,0,1,2,3
+2020,Tokyo,Judo,Uzbekistan,0,0,1,1
+2020,Tokyo,Karate,China,0,1,1,2
+2020,Tokyo,Karate,Chinese Taipei,0,0,1,1
+2020,Tokyo,Karate,Hong Kong,0,0,1,1
+2020,Tokyo,Karate,Iran,1,0,0,1
+2020,Tokyo,Karate,Japan,1,1,1,3
+2020,Tokyo,Karate,Jordan,0,0,1,1
+2020,Tokyo,Karate,Kazakhstan,0,0,2,2
+2020,Tokyo,Karate,Saudi Arabia,0,1,0,1
+2020,Tokyo,Modern pentathlon,South Korea,0,0,1,1
+2020,Tokyo,Rowing,China,1,0,2,3
+2020,Tokyo,Sailing,China,1,0,1,2
+2020,Tokyo,Shooting,China,2,0,0,2
+2020,Tokyo,Shooting,China,2,1,6,9
+2020,Tokyo,Shooting,Iran,1,0,0,1
+2020,Tokyo,Shooting,Kuwait,0,0,1,1
+2020,Tokyo,Shooting,South Korea,0,1,0,1
+2020,Tokyo,Skateboarding,Japan,3,1,1,5
+2020,Tokyo,Softball,Japan,1,0,0,1
+2020,Tokyo,Sport climbing,Japan,0,1,1,2
+2020,Tokyo,Surfing,Japan,0,1,1,2
+2020,Tokyo,Swimming,China,1,1,0,2
+2020,Tokyo,Swimming,China,2,1,1,4
+2020,Tokyo,Swimming,Hong Kong,0,2,0,2
+2020,Tokyo,Swimming,Japan,2,1,0,3
+2020,Tokyo,Table tennis,China,2,1,0,3
+2020,Tokyo,Table tennis,China,2,2,0,4
+2020,Tokyo,Table tennis,Chinese Taipei,0,0,1,1
+2020,Tokyo,Table tennis,Hong Kong,0,0,1,1
+2020,Tokyo,Table tennis,Japan,0,0,1,1
+2020,Tokyo,Table tennis,Japan,1,1,1,3
+2020,Tokyo,Taekwondo,China,0,0,1,1
+2020,Tokyo,Taekwondo,Chinese Taipei,0,0,1,1
+2020,Tokyo,Taekwondo,Jordan,0,1,0,1
+2020,Tokyo,Taekwondo,South Korea,0,1,2,3
+2020,Tokyo,Taekwondo,Thailand,1,0,0,1
+2020,Tokyo,Taekwondo,Uzbekistan,1,0,0,1
+2020,Tokyo,Volleyball,Qatar,0,0,1,1
+2020,Tokyo,Weightlifting,China,7,1,0,8
+2020,Tokyo,Weightlifting,Chinese Taipei,1,0,1,2
+2020,Tokyo,Weightlifting,India,0,1,0,1
+2020,Tokyo,Weightlifting,Indonesia,0,1,2,3
+2020,Tokyo,Weightlifting,Iran,0,1,0,1
+2020,Tokyo,Weightlifting,Japan,0,0,1,1
+2020,Tokyo,Weightlifting,Kazakhstan,0,0,2,2
+2020,Tokyo,Weightlifting,Philippines,1,0,0,1
+2020,Tokyo,Weightlifting,Qatar,1,0,0,1
+2020,Tokyo,Weightlifting,Syria,0,0,1,1
+2020,Tokyo,Weightlifting,Turkmenistan,0,1,0,1
+2020,Tokyo,Weightlifting,Uzbekistan,1,0,0,1
+2020,Tokyo,Wrestling,China,0,2,2,4
+2020,Tokyo,Wrestling,India,0,1,1,2
+2020,Tokyo,Wrestling,Iran,1,1,2,4
+2020,Tokyo,Wrestling,Japan,5,1,1,7
+2020,Tokyo,Wrestling,Kazakhstan,0,0,1,1
+2020,Tokyo,Wrestling,Kyrgyzstan,0,2,1,3
+2020,Tokyo,Wrestling,Mongolia,0,0,1,1
+2020,Tokyo,Wrestling,Uzbekistan,0,0,1,1
